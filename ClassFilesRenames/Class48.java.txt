@@ -1,0 +1,3 @@
+Original name: Class48.java
+
+public client aClient805 = private client c

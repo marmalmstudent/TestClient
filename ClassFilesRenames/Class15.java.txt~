@@ -1,0 +1,8 @@
+Original name: Class15.java
+
+ColorModel aColorModel318 = ColorModel colorModel
+Image anImage320 = Image image
+ImageConsumer anImageConsumer319 = ImageConsumer imageConsumer
+int anIntArray315[] = int gamePixelsArray[]
+int anInt316 = int gameWidth
+int anInt317 = int gameHeight

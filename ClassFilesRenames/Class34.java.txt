@@ -1,0 +1,3 @@
+Original name: Class34.java
+
+void method487(Class44 class44) = void loadCensoredWords(Class44 class44)

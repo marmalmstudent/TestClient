@@ -1,0 +1,6 @@
+Original name: Class30_Sub2_Sub1.java
+New namesuggestion: TextHandler or DextDisplayHandler
+
+void method381(int i, String s, int j, int k, int l) = void method381(int textColor, String text, int flag, int yCoord, int xCoord)
+void method382(int i, int j, int k, String s, int l, boolean flag) = void method382(int textColor, int xCoord, int k, String text, int yCoord, boolean flag)
+void method385(int i, String s, int j, int k, int l) = void method385(int textColor, String text, int yCoord, int k, int offset)

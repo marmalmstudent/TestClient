@@ -1,0 +1,20 @@
+Original name: Applet_Sub1.java
+
+void method1(int i, boolean flag, int j) = void OpenClient(int gameHeight, int gameWidth)
+void method2(int i, boolean flag, int j) = void InitOpenClient(int gameHeight, int gameWidth)
+Component method11(int i) = Component getFrameComponent()
+void method12(Runnable runnable, int i) = void StartThread(Runnable runnable, int priority)
+
+Applet_Sub1 anApplet_Sub1_36 = GameApplet gApplet
+Graphics aGraphics12 = Graphics graphics
+
+int anInt10 = int gameWidth
+int anInt11 = int gameHeight
+int anInt20 = int mouseMovedX
+int anInt21 = int mouseMovedY
+int anInt23 = int mousePressedX
+int anInt24 = int mousePressedY
+int anInt27 = int mouseRightPressedX
+int anInt28 = int mouseRightPressedY
+
+int anIntArray30[] = int keyDown[]

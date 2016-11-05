@@ -1,0 +1,5 @@
+Original name: Class44.java
+
+byte[] method571(String cacheName, byte dbData[]) = byte[] loadCache(String cacheName, byte dbData[])
+
+int anInt727 = int nDBEntries

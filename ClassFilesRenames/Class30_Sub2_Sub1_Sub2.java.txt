@@ -1,0 +1,17 @@
+Original name: Class30_Sub2_Sub1_Sub2.java
+New namesuggestion:
+
+void method357(boolean flag) = void incImgSizeNoScale(boolean flag)
+void method358(int i) = void flipHoriImageArray(int i)
+void method359(boolean flag) = void flipVertImageArray(boolean flag)
+
+byte aByteArray1450[] = byte imageArray[]
+
+int anIntArray1451[] = int texturesArray1[] // handles color of roofs, water, fire cape etc.
+
+int anInt1452 = int imageWidth
+int anInt1453 = int imageHeight
+int anInt1454 = int imageXOffset
+int anInt1455 = int imageYOffset
+int anInt1456 = int panelWidth
+int anInt1457 = int panelHeight

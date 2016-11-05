@@ -1,0 +1,9 @@
+Original name: Class9.java
+
+int anInt220 = int frameWidth
+int anInt263 = int panelXOffsetExtra
+int anInt265 = int panelYOffsetExtra
+int anInt267 = int frameHeight
+
+int anIntArray241[] = int panelXOffset[]
+int anIntArray272[] = int panelYOffset[]

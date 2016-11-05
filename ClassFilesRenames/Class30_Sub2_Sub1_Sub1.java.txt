@@ -1,0 +1,5 @@
+Original name: Class30_Sub2_Sub1_Sub1.java
+New namesuggestion:
+
+void method349(int ai[], int ai1[], int i, int j, int k, int l, int i1, int j1, int k1) =
+	void method349(int ai[], int ai1[], int i, int j, int k, int l, int i1, int j1, int k1)

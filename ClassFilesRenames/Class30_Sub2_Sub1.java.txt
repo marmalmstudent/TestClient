@@ -1,0 +1,24 @@
+Original name: Class30_Sub2_Sub1.java
+New name suggestion: ColorHandler
+
+void method334(boolean flag) = void ResetPixelArray()
+void method335(int i, int j, int k, int l, int i1, int m) = BackGroundColor2(int i, int yPixel, int endXPixel, int endYPixel, int i1, int xPixel)
+void method336(int i, int j, int k, int l, int m) = BackGroundColor1(int lengthY, int yPixel, int xPixel, int pixelColor, int lengthX)
+void method337(int i, int j, int k, int l, int m) = void BorderColor1(int xPixel, int lengthX, int lengthY, int pixelColor, int yPixel)
+void method338(int i, int j, int k, int l, int m, int n) = void BorderColor2(int yPixel, int j, int k, int l, int endPixel, int xPixel)
+void method339(int i, int j, int k, int l) = ForegroundColorHoriz1(int yPixel, int pixelColor, int lengthX, int xPixel)
+void method340(int i, int j, int k, int l, int m) = void ForegroundColorHoriz2(int i, int endPixel, int yPixel, int l, int xPixel)
+void method341(int i, int j, int k, int l, int i1) = void ForegroundColorVert1(int yPixel, int pixelColor, int lengthY, int xPixel, int i1)
+void method342(int i, int j, int k, int l, int m) = void ForegroundColorVert2(int i, int xPixel, int k, int yPixel, int endPixel)
+
+
+int anIntArray1378[] = int pixelsArray[]
+int anInt1379 = int width
+int anInt1380 = int height
+int anInt1381 = int startWidth
+int anInt1382 = int endHeight
+int anInt1383 = int startHeight
+int anInt1384 = int endWidth
+int anInt1385 = int endWidthMinusOne
+int anInt1386 = int endWidthHalf
+int anInt1387 = int endHeightHalf

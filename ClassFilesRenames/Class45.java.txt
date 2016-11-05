@@ -1,0 +1,5 @@
+Original name: Class45.java
+
+String aStringArray734[] = String skillNamesArray[]
+int anInt733 = int nbrOfSkills
+boolean aBooleanArray735[] = boolean usedSkillsArray[]

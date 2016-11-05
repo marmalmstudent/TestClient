@@ -1,0 +1,89 @@
+Original name: client.java
+
+Component method11(int i) = Component getFrameComponent(int i)
+void method12(Runnable runnable, int i) = void method12(Runnable runnable, int i)
+Socket method19(int i) = Socket openSocket(int port)
+void method30(int i, int j, int k, int l, int i1, int j1) = void method30(int i, int j, int k, int l, int i1, int j1)
+void method84(String s, String s1, boolean flag) = void tryLogin(String s, String s1, boolean flag)
+
+Class15 aClass15_903 = Class15 Class15_BackLeft10
+Class15 aClass15_904 = Class15 Class15_BackLeft20
+Class15 aClass15_905 = Class15 Class15_BackRight10
+Class15 aClass15_906 = Class15 Class15_backRight20
+Class15 aClass15_907 = Class15 Class15_BackTop10
+Class15 aClass15_908 = Class15 Class15_BackVMid10
+Class15 aClass15_909 = Class15 Class15_BackVMid20
+Class15 aClass15_910 = Class15 Class15_BackVMid30
+Class15 aClass15_911 = Class15 Class15_BackHmMd20
+Class15 aClass15_1123 = Class15 Class15_Backbase10
+Class15 aClass15_1124 = Class15 Class15_Backbase20
+Class15 aClass15_1125 = Class15 Class15_BackHmid10
+Class15 aClass15_1163 = Class15 Class15_InvBack0
+Class15 aClass15_1166
+Class15 aClass15_1107 = Class15 Class15_LoginUpperArc
+Class15 aClass15_1108 = Class15 Class15_LoginLowerArc
+Class15 aClass15_1109 = Class15 Class15_LoginMiddleArc
+Class15 aClass15_1110 = Class15 Class15_LoginLeftGobFire
+Class15 aClass15_1111 = Class15 Class15_LoginRightGobFire
+Class15 aClass15_1112 = Class15 Class15_LoginLeftGoblet
+Class15 aClass15_1113 = Class15 Class15_LoginRightGoblet
+Class15 aClass15_1114 = Class15 Class15_LeftLeftover
+Class15 aClass15_1115 = Class15 Class15_RightLeftover
+
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_865 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone1_2
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_866 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone2_2
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_867 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone3_1
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_868 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone1_3
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_869 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone2_3
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_870 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Mapmarker0
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_871 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Mapmarker1
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1001 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Mapedge0
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1024 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Scrollbar0
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1025 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Scrollbar1
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1074 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Mapdots0
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1075 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Mapdots1
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1076 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Mapdots2
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1077 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Mapdots3
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1078 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Mapdots4
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1122 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Compass0
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1143 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone1_0
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1144 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone2_0
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1145 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone3_0
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1146 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone1_1
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1147 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone2_1
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1196 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Invback0
+Class30_Sub2_Sub1_Sub2 aClass30_Sub2_Sub1_Sub2_1197 = Class30_Sub2_Sub1_Sub2 aClass30_Sub2_Sub1_Sub2_Mapback0
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1198 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Chatback0
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1027 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Backbase10
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1028 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Backbase20
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1029 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_BackHmid10
+
+
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1Array947[] = Class30_Sub2_Sub1_Sub1 sideIconsArray[]
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1Array987[] = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Hitmarks[]
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1Array1033[] = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Mapfunctions[]
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1Array1095[] = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Headicons_prayer[]
+Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1Array1150[] = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Cross[]
+
+Class30_Sub2_Sub1_Sub2 aClass30_Sub2_Sub1_Sub2Array1060[] = Class30_Sub2_Sub1_Sub2 aClass30_Sub2_Sub1_Sub2_Mapscenes[]
+Class30_Sub2_Sub1_Sub2 aClass30_Sub2_Sub1_Sub2Array1219[] = Class30_Sub2_Sub1_Sub2 aClass30_Sub2_Sub1_Sub2_Modicons[]
+
+int anIntArray922[] = int skillIndexArray[]
+
+int anInt863 = int playerRights
+int anInt957 = int nodeID
+int anInt958 = int portOffset
+int anInt1007 = int packetSize
+int anInt1008 = int incPacketType
+int anInt1216 = int loginRowFocusedNbr
+int anInt1225 = int queryId
+
+boolean aBoolean959 = boolean isMember
+boolean aBoolean1223 = boolean updatePlayerMsg
+
+String aString881 = String reportPlayerName
+String aString887 = String playerMessage
+String aString1004 = String queryResponse
+String aString1173 = String playerName
+String aString1174 = String playerPass
+String aString1212 = String friendMsg

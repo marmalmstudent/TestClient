@@ -1,0 +1,4 @@
+Original name: Class50.java
+
+long method583(String s) = long stringToLong(String s)
+String method588(String s, int i) = String hidePass(String s, int i)
