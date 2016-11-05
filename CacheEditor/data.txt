@@ -1,0 +1,12622 @@
+ _ _
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,2
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,2
+steelborder,1
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+The Bank of RuneScape - Deposit Box
+Close Window
+Deposit 1
+Deposit 5
+Deposit 10
+Deposit All
+Deposit X
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,2
+steelborder,1
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Draughts: Options
+Challenge player
+Challenge
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+Close Window
+30 seconds
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+1 minute
+Select option
+2 minutes
+Select option
+15 seconds
+Select option
+Time per move:
+miscgraphics,10
+miscgraphics,11
+Select piece
+Select piece
+Choose piece:
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+Ranked
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+ d d
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+yBuy for 800 tickets
+Buy for 3 tickets
+Brimhaven Agility Arena Ticket Exchange
+Toadflax
+Toadflax
+Buy for 3 tickets
+Pirate's hook
+Pirate's hook
+Buy for 800 tickets
+Close Window
+Buy for 1 ticket
+Experience (1)
+Experience (1)
+Buy for 1 ticket
+Buy for 10 tickets
+Buy for 25 tickets
+Buy for 100 tickets
+Buy for 1000 tickets
+Buy for 10 tickets
+Snapdragon
+Snapdragon
+Buy for 10 tickets
+Experience (10)
+Experience (10)
+Buy for 10 tickets
+Experience (25)
+Experience (25)
+Buy for 25 tickets
+Experience (100)
+Experience (100)
+Buy for 100 tickets
+Experience (1000)
+Experience (1000)
+Buy for 1000 tickets
+Text
+Close Window
+8-East
+6-South
+2-North
+4-East
+22-South
+X marks the start!
+Dragontooth Island
+Rune-Draw
+Close Window
+Your Score
+opponent's Score
+Draw
+Draw
+Hold
+Hold
+DEATH
+Text
+DEATH
+Text
+Windspeed:
+high
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,2
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Withdraw 1
+Withdraw 5
+Withdraw 10
+Withdraw All
+Withdraw X
+The Bank of RuneScape
+Close Window
+combatboxes,2
+combatboxes,3
+combatboxes,2
+combatboxes,3
+Withdraw as:
+Item
+Rearrange mode:
+Note
+combatboxes,2
+combatboxes,3
+combatboxes,2
+combatboxes,3
+Insert
+Swap
+Store 1
+Store 5
+Store 10
+Store All
+Store X
+(6(6
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,2
+steelborder,1
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Challenge: Select Game
+Challenge player
+Select
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+Close Window
+miscgraphics,10
+miscgraphics,11
+Select game
+miscgraphics,10
+miscgraphics,11
+Select game
+Draughts
+Select game
+Runelink
+Select game
+100 vs 100
+100 vs 100
+Game:
+Ranks (mine vs opponents):
+miscgraphics,10
+miscgraphics,11
+Select game
+Runesquares
+Select game
+100 vs 100
+miscgraphics,10
+miscgraphics,11
+Select game
+Runeversi
+Select game
+100 vs 100
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Insert a very long name here!
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Insert a very long name here!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Turn:
+Draughts
+Resign
+Offer your opponent a draw
+Offer draw
+steelborder2,0
+steelborder2,0
+A very long name
+miscgraphics,3
+steelborder,0
+steelborder,0
+steelborder,1
+steelborder,1
+steelborder,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+steelborder,3
+Blah blah blah blah blah blah blah!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+Blah blah blah blah blah blah blah!
+Blah blah blah blah blah!
+Zamorak = %1
+%1 = Saradomin
+Safe
+Safe
+Health %1%
+Health 0%
+%1 Min
+Locked
+Unlocked
+Collapsed
+Cleared
+Collapsed
+Cleared
+Operational
+Destroyed
+Taken
+Dropped
+Taken
+Dropped
+Draughts
+Rank: %1
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Insert a very long name here!
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Insert a very long name here!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Draughts
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+Blah blah blah blah blah!
+Close
+steelborder2,0
+miscgraphics,3
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+Blah blah blah blah blah blah blah!
+Blah blah blah blah blah blah blah!
+)y)y
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Insert a very long name here!
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Insert a very long name here!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Turn:
+Runelink
+Resign
+Offer your opponent a draw
+Offer draw
+steelborder2,0
+steelborder2,0
+A very long name
+miscgraphics,3
+steelborder,0
+steelborder,0
+steelborder,1
+steelborder,1
+steelborder,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+steelborder,3
+Blah blah blah blah blah blah blah!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+Blah blah blah blah blah blah blah!
+Drop piece
+Drop piece
+Drop piece
+Drop piece
+Drop piece
+Drop piece
+Drop piece
+Blah blah blah blah blah!
+Close
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,2
+steelborder,1
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Runelink: Options
+Challenge player
+Challenge
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+Close Window
+30 seconds
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+1 minute
+Select option
+2 minutes
+Select option
+15 seconds
+Select option
+Time per move:
+miscgraphics,10
+miscgraphics,11
+Select piece
+Select piece
+Choose piece:
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+Ranked
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+*v*v
+Runelink
+Rank: %1
+*z*z
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Insert a very long name here!
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Insert a very long name here!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Runelink
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+Blah blah blah blah blah!
+Close
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+Blah blah blah blah blah blah blah!
+Blah blah blah blah blah blah blah!
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder,2
+Close Window
+leftarrow,0
+rightarrow,0
+line1
+line2
+line3
+line4
+line5
+line6
+line7
+line8
+line9
+line10
+line11
+line12
+line13
+line14
+line15
+line16
+line17
+line18
+line19
+line20
+line21
+line22
+Page%1
+Page%2
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Catapult Controls
+Close Window
+steelborder,1
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,0
+steelborder,3
+steelborder,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,1
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+steelborder2,1
+steelborder2,1
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,1
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+steelborder2,1
+steelborder2,1
+combatboxes,0
+miscgraphics,6
+miscgraphics,4
+Fire Catapult
+,E,E
+Total Wins This Season!
+Saradomin: 0
+Zamorak: 0
+Close
+sworddecor,1
+sworddecor,0
+Value
+Sell
+Waiting for players to join the other team.
+Time until next game starts: %1
+0V0V
+Name
+Line1
+Name
+Line1
+Click here to continue
+,P,P
+Zamorak = %1
+%1 = Saradomin
+Safe
+Safe
+Health %1%
+Health 0%
+%1 Min
+Locked
+Unlocked
+Collapsed
+Cleared
+Collapsed
+Cleared
+Operational
+Destroyed
+Taken
+Dropped
+Taken
+Dropped
+,g,g
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Castle Wars Ticket Exchange
+Close Window
+Value
+Value
+Name
+Line1
+Line2
+Click here to continue
+Name
+Line1
+Line2
+Line3
+Click here to continue
+Name
+Line1
+Line2
+Line3
+Line4
+Click here to continue
+0Z0Z
+Name
+Line1
+Line2
+0_0_
+Name
+Line1
+Line2
+Line3
+.s.s
+Name
+Line1
+Line2
+Line3
+Line4
+overlay_duel,0
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons,0
+combaticons,1
+combaticons,2
+combaticons,3
+Chop
+Hack
+Smash
+Block
+(Accurate)
+(Aggressive)
+(Aggressive)
+(Defensive)
+(Slash)
+(Slash)
+(Crush)
+(Slash)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons2,0
+combaticons2,2
+combaticons2,3
+Pound
+Pummel
+Block
+(Aggressive)
+(Accurate)
+(Defensive)
+(Crush)
+(Crush)
+(Crush)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@ S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons2,17
+combaticons2,15
+combaticons2,16
+Accurate
+Rapid
+Longrange
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons3,7
+combaticons3,6
+combaticons3,5
+combaticons3,4
+Chop
+Slash
+Lunge
+Block
+(Accurate)
+(Controlled)
+(Aggressive)
+(Defensive)
+(Slash)
+(Slash)
+(Stab)
+(Slash)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons2,7
+combaticons2,5
+combaticons2,6
+Accurate
+Rapid
+Longrange
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+	w	w
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons,4
+combaticons,6
+combaticons,5
+combaticons,7
+Chop
+Slash
+Lunge
+Block
+(Accurate)
+(Controlled)
+(Aggressive)
+(Defensive)
+(Slash)
+(Slash)
+(Stab)
+(Slash)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons,4
+combaticons,6
+combaticons,5
+combaticons,5
+Chop
+Slash
+Smash
+Block
+(Accurate)
+(Aggressive)
+(Aggressive)
+(Defensive)
+(Slash)
+(Slash)
+(Slash)
+(Crush)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons3,0
+combaticons3,1
+combaticons3,3
+combaticons3,2
+Spike
+Impale
+Smash
+Block
+(Accurate)
+(Aggressive)
+(Aggressive)
+(Defensive)
+(Stab)
+(Stab)
+(Crush)
+(Stab)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons3,11
+combaticons3,12
+combaticons3,10
+Swipe
+Fend
+(Controlled)
+(Defensive)
+(Aggressive)
+(Stab)
+(Slash)
+(Stab)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons2,8
+combaticons2,9
+combaticons2,18
+combaticons2,19
+Reap
+Chop
+Block
+(Accurate)
+(Aggressive)
+(Aggressive)
+(Defensive)
+(Slash)
+(Stab)
+(Crush)
+(Slash)
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons,17
+combaticons,8
+combaticons,18
+combaticons,9
+Lunge
+Swipe
+Pound
+Block
+(Controlled)
+(Controlled)
+(Controlled)
+(Defensive)
+(Stab)
+(Slash)
+(Stab)
+(Crush)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons,10
+combaticons,13
+combaticons,11
+combaticons,12
+Pound
+Pummel
+Spike
+Block
+(Accurate)
+(Controlled)
+(Aggressive)
+(Defensive)
+(Crush)
+(Crush)
+(Stab)
+(Crush)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons,4
+combaticons,7
+combaticons,6
+combaticons,5
+Stab
+Lunge
+Slash
+Block
+(Accurate)
+(Aggressive)
+(Aggressive)
+(Defensive)
+(Stab)
+(Stab)
+(Slash)
+(Stab)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons,19
+combaticons2,13
+combaticons2,14
+Bash
+Pound
+Focus - Block
+(Aggressive)
+(Accurate)
+(Defensive)
+(Crush)
+(Crush)
+(Crush)
+combatboxes,0
+combatboxes,1
+prayeron,12
+Attack with
+Attack with
+(none set)
+(none set)
+Choose Spell
+Combat Lvl %1
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons2,12
+combaticons2,10
+combaticons2,11
+Accurate
+Rapid
+Longrange
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons,14
+combaticons,15
+combaticons,16
+Punch
+Kick
+Block
+(Accurate)
+(Aggressive)
+(Defensive)
+(Crush)
+(Crush)
+(Crush)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons3,13
+combaticons3,13
+combaticons3,14
+Flick
+Lash
+Deflect
+(Controlled)
+(Accurate)
+(Defensive)
+(Slash)
+(Slash)
+(Slash)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@ S P E C I A L  A T T A C K
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,2
+steelborder,1
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+What would you like to make?
+Close Window
+You need a ring mould to craft rings.
+Rings
+Make
+Make 5
+Make 10
+You need a necklace mould to craft necklaces.
+Necklaces
+Make
+Make 5
+Make 10
+You need an amulet mould to craft amulets.
+Amulets
+Make
+Make 5
+Make 10
+0~0~
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,2
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,1
+steelborder,2
+miscgraphics,3
+miscgraphics,3
+chest,0
+coins,0
+number_button,0
+Enter digit
+number_button,0
+Enter digit
+number_button,0
+Enter digit
+number_button,0
+Enter digit
+number_button,0
+Enter digit
+number_button,0
+Enter digit
+number_button,0
+Enter digit
+number_button,0
+Enter digit
+number_button,0
+Enter digit
+number_button,0
+Enter digit
+number_button,0
+number_button,0
+number_button,0
+number_button,0
+number_button,0
+number_button,0
+number_button,0
+number_button,0
+number_button,0
+number_button,0
+tex_brown,0
+tex_brown,0
+Please enter your FOUR DIGIT PIN using the buttons below.
+I don't know it.
+Exit
+YOUR PIN WILL BE DELETED IN X DAYS
+Click the Nth digit...
+Harold
+Player
+Roll Dice!
+Continue...
+You win!
+Close Window
+.S.S
+Line1
+Click here to continue
+.X.X
+Line1
+Line1
+Click here to continue
+.^.^
+Line1
+Line1
+Click here to continue
+Line1
+Line1
+Line1
+Click here to continue
+Line1
+Line1
+Close
+That's it, it all makes sense now! If you were a dwarf, that is...
+headicons,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+You are about to stake:
+Your opponent will stake:
+Are you sure you want to fight this duel?
+Close Window
+miscgraphics,3
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+Absolutely nothing!
+Absolutely nothing!
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Before the duel starts:
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+There will be obstacles in the arena.
+There will be obstacles in the arena.
+Accept
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+There will be obstacles in the arena.
+There will be obstacles in the arena.
+During the duel:
+There will be obstacles in the arena.
+There will be obstacles in the arena.
+There will be obstacles in the arena.
+There will be obstacles in the arena.
+Waiting for other player...
+There will be obstacles in the arena.
+There will be obstacles in the arena.
+There will be obstacles in the arena.
+There will be obstacles in the arena.
+Lots of y's and g's
+There will be obstacles in the arena.
+There will be obstacles in the arena.
+There will be obstacles in the arena.
+Decline
+Accept stake and duel options
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Remove 1
+Remove 5
+Remove 10
+Remove All
+Remove X
+Dueling with:
+Opponents Stake:
+Your Stake:
+Accept stake and duel options
+Accept
+Decline
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+miscgraphics,2
+steelborder2,0
+Neither player is allowed to forfeit the duel.
+miscgraphics,3
+steelborder,0
+steelborder,0
+steelborder,1
+steelborder,1
+steelborder,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+steelborder,3
+Close Window
+No Forfeit
+Toggle option
+No Magic
+Toggle option
+No Ranged
+Toggle option
+No Melee
+Toggle option
+miscgraphics,2
+No Drinks
+Toggle option
+No Food
+Toggle option
+No Prayer
+Toggle option
+No Movement
+Toggle option
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,10
+miscgraphics,11
+Toggle option
+miscgraphics,10
+miscgraphics,11
+Toggle option
+miscgraphics,2
+miscgraphics,2
+miscgraphics,10
+miscgraphics,11
+Toggle option
+miscgraphics,10
+miscgraphics,11
+Toggle option
+miscgraphics,10
+miscgraphics,11
+Toggle option
+miscgraphics,10
+miscgraphics,11
+Toggle option
+miscgraphics,10
+miscgraphics,11
+Toggle option
+miscgraphics,10
+miscgraphics,11
+Toggle option
+Obstacles
+Toggle option
+miscgraphics,10
+miscgraphics,11
+Toggle option
+Fun Weapons
+Toggle option
+miscgraphics,10
+miscgraphics,11
+Toggle option
+miscgraphics,10
+miscgraphics,11
+Toggle option
+No Sp. Atk
+Toggle option
+Neither player is allowed to forfeit the duel.
+Players stand next to each other and aren't allowed to move.
+Neither player is allowed to use weapons.
+Neither player is allowed to use armour.
+Neither player is allowed to wear jewelry.
+Neither player is allowed to use ranged attacks.
+Neither player is allowed to use melee attacks.
+Neither player is allowed to use magic attacks.
+Neither player will be allowed to use special attacks.
+Both players will use a 'fun weapon', such as: flowers or rubber chicken.
+Neither player will be allowed to use drinks.
+Neither player will be allowed to use food.
+Neither player will be allowed to use prayer.
+The duel will be in an arena with obstacles.
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,0
+Toggle option
+miscgraphics,0
+Toggle option
+miscgraphics,0
+Toggle option
+miscgraphics,0
+Toggle option
+miscgraphics,0
+Toggle option
+miscgraphics,0
+Toggle option
+miscgraphics,0
+Toggle option
+miscgraphics,0
+Toggle option
+miscgraphics,0
+Toggle option
+miscgraphics,0
+Toggle option
+miscgraphics,0
+Toggle option
+wornicons,0
+wornicons,1
+wornicons,2
+wornicons,3
+wornicons,5
+wornicons,6
+wornicons,7
+wornicons,8
+wornicons,9
+wornicons,4
+awornicons,10
+Neither player will be allowed to wear items on their head.
+Neither player will be allowed to wear items on their back.
+Neither player will be allowed to wear items around their neck.
+Neither player will be allowed to use 2-handed items or items in their right hand.
+Neither player will be allowed to wear items on their torso.
+Neither player will be allowed to use 2-handed items or items in their left hand.
+Neither player will be allowed to wear items on their legs.
+Neither player will be allowed to wear items on their hands.
+Neither player will be allowed to wear items on their feet.
+Neither player will be allowed to wear items on their fingers.
+Neither player will be allowed to have items in their quiver.
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Crunchy (126) beat Crunchy2 (126)
+Last fifty duels on this server:
+Scoreboard
+Close Window
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Crunchy (126) beat Crunchy2 (126)
+Stake 1
+Stake 5
+Stake 10
+Stake All
+Stake X
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+You are victorious!
+Claim!
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+Close Window
+The Spoils:
+The Defeated:
+Name:
+Combat level:
+Crunchy
+1P1P
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder,2
+Close Window
+leftarrow,0
+rightarrow,0
+line1
+line2
+line3
+line4
+line5
+line6
+line7
+line8
+line9
+line10
+line11
+line12
+line13
+line14
+line15
+line16
+line17
+line18
+line19
+line20
+line21
+line22
+Name
+Line1
+Line1
+:L:L
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,2
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+tradebacking,0
+steelborder,1
+steelborder,3
+steelborder,0
+steelborder,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,2
+miscgraphics,3
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+keys,0
+BANK  PIN  SETTINGS
+Exit
+Messages
+steelborder,0
+steelborder,2
+steelborder,3
+steelborder,1
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,2
+steelborder2,1
+tex_red,0
+tex_red,0
+tex_red,0
+Set a PIN
+Change your recovery delay
+Change your PIN
+Delete your PIN
+Change your recovery delay
+Cancel the PIN that's pending
+steelborder,0
+steelborder,1
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,2
+steelborder,3
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+Your Bank PIN status:
+Unknown
+Recovery delay:
+X days
+Do you really wish to do that?
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+Use the buttons below to change your PIN settings
+tex_red,0
+tex_red,0
+tex_red,0
+Yes, I really want to do that.
+tex_red,0
+tex_red,0
+tex_red,0
+No, forget I asked.
+tex_red,0
+tex_red,0
+tex_red,0
+tex_red,0
+Choose the stat you wish to be advanced!
+Close Window
+miscgraphics3,0
+miscgraphics3,1
+Advance Attack
+miscgraphics3,0
+miscgraphics3,1
+Advance Strength
+miscgraphics3,0
+miscgraphics3,1
+Advance Ranged
+miscgraphics3,0
+miscgraphics3,1
+Advance Magic
+miscgraphics3,0
+miscgraphics3,1
+Advance Defence
+miscgraphics3,0
+miscgraphics3,1
+Advance Hitpoints
+miscgraphics3,0
+miscgraphics3,1
+Advance Prayer
+miscgraphics3,0
+miscgraphics3,1
+Advance Agility
+miscgraphics3,0
+miscgraphics3,1
+Advance Herblore
+miscgraphics3,0
+miscgraphics3,1
+Advance Thieving
+miscgraphics3,0
+miscgraphics3,1
+Advance Crafting
+miscgraphics3,0
+miscgraphics3,1
+Advance Runecraft
+miscgraphics3,0
+miscgraphics3,1
+Advance Mining
+miscgraphics3,0
+miscgraphics3,1
+Advance Smithing
+miscgraphics3,0
+miscgraphics3,1
+Advance Fishing
+miscgraphics3,0
+miscgraphics3,1
+Advance Cooking
+miscgraphics3,0
+miscgraphics3,1
+Advance Firemaking
+miscgraphics3,0
+miscgraphics3,1
+Advance Woodcutting
+miscgraphics3,0
+miscgraphics3,1
+Advance Fletching
+miscgraphics3,0
+miscgraphics3,1
+Advance Slayer
+miscgraphics3,0
+miscgraphics3,1
+Advance Farming
+Confirm
+staticons,0
+staticons,1
+staticons,3
+staticons,5
+staticons,2
+staticons,6
+staticons,4
+staticons,7
+staticons,8
+staticons,9
+staticons,10
+staticons2,0
+staticons,12
+staticons,13
+staticons,14
+staticons,15
+staticons,16
+staticons,17
+staticons,11
+staticons2,1
+staticons2,2
+Friends List
+combatboxes,0
+Add friend
+combatboxes,0
+Delete friend
+Add Friend
+Del Friend
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+Send message
+1*1*
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+steelborder,1
+steelborder2,1
+steelborder,3
+steelborder2,1
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,2
+miscgraphics,2
+steelborder,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+Schematic 1
+Schematic 2
+Schematic 3
+Show/Select
+miscgraphics,10
+miscgraphics,11
+Select Schematic One
+miscgraphics,10
+miscgraphics,11
+Select Schematic Two
+miscgraphics,10
+miscgraphics,11
+Select Schematic Three
+miscgraphics,10
+miscgraphics,11
+Show Schematic One
+miscgraphics,10
+miscgraphics,11
+Show Schematic Two
+miscgraphics,10
+miscgraphics,11
+Show Schematic Three
+Rotate the image
+Move Schematic Up
+Move Schematic Right
+Move Schematic Left
+Move Schematic Down
++t+t
+0:0:
+Close Window
+**********
+************************
+miscgraphics,4
+miscgraphics,4
+miscgraphics,4
+miscgraphics,6
+Remove this key
+***************
+Remove this key
+sworddecor,1
+sworddecor,0
+Select an Option
+leftarrow,0
+rightarrow,0
+line1\nline2\nline3\nline4\nline5
+title1
+line1\nline2\nline3\nline4\nline5\nline6\nline7\nline8\nline9\nline10\nline11\nline12
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder,2
+Gianne's cook book
+Close Window
+Index
+Make X
+Make 10
+Make 5
+\n\n\n\nVial
+Make 1
+Make X
+Make 10
+Make 5
+\n\n\n\nOrb
+Make 1
+Make X
+Make 10
+Make 5
+\n\n\n\nBeer Glass
+Make 1
+Make X
+Make 10
+Make 5
+\n\n\nCandle\nLantern
+Make 1
+Make X
+Make 10
+Make 5
+\n\n\nOil\nLamp
+Make 1
+Make X
+Make 10
+Make 5
+\n\n\nLantern\nLens
+Make 1
+Make X
+Make 10
+Make 5
+\n\n\n\nFishbowl
+Make 1
+What would you like to make?
+Close Window
+Ta Quir Priw
+Lemanto Andra
+Sindarpos
+Gandius
+Kar-Hewo
+Lemantolly
+Undri
+Close Window
+Gnomeball
+Score
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+turn tile
+Reset puzzle
+Close Window
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Points Settings
+Close Window
+< To Lift
+Controls
+combatboxes,2
+combatboxes,3
+START
+Set cart in motion
+Controls
+You are\nhere
+Your password is only as safe as your computer.
+Install anti-virus software!
+Message of the week
+Line1
+Line2
+Click here to continue
+Close Window
+Ignore List
+combatboxes,0
+Add name
+combatboxes,0
+Delete name
+Add Name
+Del Name
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+Text
+Close Window
+Text
+Text
+Text
+Text
+Text
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+What would you like to make?
+Close window
+\n\n\n\n\nArmour
+Not Available
+\n\n\n\n\nGloves
+Not Available
+\n\n\n\n\nBoots
+Not Available
+\n\n\n\n\nVambraces
+Not Available
+\n\n\n\n\nChaps
+Not Available
+\n\n\n\n\nCoif
+Not Available
+\n\n\n\n\nCowl
+Not Available
+Make 10 @lre@Leather bodies
+Make 5 @lre@Leather bodies
+Make @lre@Leather body
+Make 10 pairs of @lre@Leather gloves
+Make 5 pairs of @lre@Leather gloves
+Make pair of @lre@Leather gloves
+Make 10 pairs of @lre@Leather boots
+Make 5 pairs of @lre@Leather boots
+Make pair of @lre@Leather boots
+Make 10 pairs of @lre@Leather vambraces
+Make 5 pairs of @lre@Leather vambraces
+Make pair of @lre@Leather vambraces
+Make 10 pairs of @lre@Leather chaps
+Make 5 pairs of @lre@Leather chaps
+Make pair of @lre@Leather chaps
+Make 10 @lre@Coifs
+Make 5 @lre@Coifs
+Make @lre@Coif
+Make 10 @lre@Cowls
+Make 5 @lre@Cowls
+Make @lre@Cowl
+2525
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+/Z/Z
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Click here to continue
+Think
+Laugh
+Dance
+Climb Rope
+Lean on air
+Glass Wall
+Glass Box
+When you have finished playing
+RuneScape, always use the
+button below to logout safely.
+miscgraphics,7
+miscgraphics,7
+miscgraphics,7
+miscgraphics,8
+miscgraphics,8
+Click here to logout
+Close Window
+Close Window
+Which shape is blue?
+combatboxes,0
+combatboxes,0
+combatboxes,0
+Shape1
+Shape2
+Shape3
+magicoff,0
+magicon,0
+Cast on
+Wind strike
+magicoff,1
+magicon,1
+Cast on
+Confuse
+magicoff,2
+magicon,2
+Cast on
+Water strike
+magicoff,3
+magicon,3
+Cast on
+Enchant Lvl-1 Jewelry
+magicoff,4
+magicon,4
+Cast on
+Earth strike
+magicoff,5
+magicon,5
+Cast on
+Weaken
+magicoff,6
+magicon,6
+Cast on
+Fire strike
+magicoff,7
+magicon,7
+Cast @gre@Bones to bananas
+magicoff,8
+magicon,8
+Cast on
+Wind bolt
+magicoff,9
+magicon,9
+Cast on
+Curse
+magicoff,10
+magicon,10
+Cast on
+Low level alchemy
+magicoff,11
+magicon,11
+Cast on
+Water bolt
+magicoff,12
+magicon,12
+Cast @gre@Varrock teleport
+magicoff,13
+magicon,13
+Cast on
+Enchant Lvl-2 Jewelry
+magicoff,14
+magicon,14
+Cast on
+Earth bolt
+magicoff,15
+magicon,15
+Cast @gre@Lumbridge teleport
+magicoff,16
+magicon,16
+Cast on
+Telekinetic grab
+magicoff,17
+magicon,17
+Cast on
+Fire bolt
+magicoff,18
+magicon,18
+Cast @gre@Falador teleport
+magicoff,19
+magicon,19
+Cast on
+Crumble undead
+magicoff,20
+magicon,20
+Cast on
+Wind blast
+magicoff,21
+magicon,21
+Cast on
+Superheat Item
+magicoff,22
+magicon,22
+Cast @gre@Camelot teleport
+magicoff,23
+magicon,23
+Cast on
+Water blast
+magicoff,24
+magicon,24
+Cast on
+Enchant Lvl-3 Jewelry
+magicoff,25
+magicon,25
+Cast on
+Earth blast
+magicoff,26
+magicon,26
+Cast on
+High level alchemy
+magicoff,27
+magicon,27
+Cast on
+Charge water orb
+magicoff,28
+magicon,28
+Cast on
+Enchant Lvl-4 Jewelry
+magicoff,29
+magicon,29
+Cast on
+Fire blast
+magicoff,30
+magicon,30
+Cast on
+Charge earth orb
+magicoff,31
+magicon,31
+Cast on
+Wind wave
+magicoff,32
+magicon,32
+Cast on
+Charge fire orb
+magicoff,33
+magicon,33
+Cast on
+Water wave
+magicoff,34
+magicon,34
+Cast on
+Charge air orb
+magicoff,35
+magicon,35
+Cast on
+Enchant Lvl-5 Jewelry
+magicoff,36
+magicon,36
+Cast on
+Earth wave
+magicoff,37
+magicon,37
+Cast on
+Fire wave
+magicoff,46
+magicon,46
+Cast on
+Saradomin strike
+magicoff,45
+magicon,45
+Cast on
+Claws of Guthix
+magicoff,44
+magicon,44
+Cast on
+Flames of Zamorak
+magicoff2,3
+magicon2,3
+Cast @gre@Charge
+Level 1 : Wind Strike
+A basic Air missile
+%1/1
+%1/1
+Level 3 : Confuse
+Reduces your opponent's\nattack by 5%
+%1/3
+%1/2
+%1/1
+Level 5 : Water Strike
+A basic Water missile
+%1/1
+%1/1
+%1/1
+Level 7: Lvl-1 Enchant
+For use on sapphire jewellery
+%1/1
+%1/1
+Level 9 : Earth Strike
+A basic Earth missile
+%1/2
+%1/1
+%1/1
+Level 11 : Weaken
+Reduces your opponent's\nstrength by 5%
+%1/3
+%1/2
+%1/1
+Level 13 : Fire Strike
+A basic Fire missile
+%1/3
+%1/2
+%1/1
+Level 15 : Bones to Bananas
+Changes all held bones into\nbananas
+%1/2
+%1/2
+%1/1
+Level 17 : Wind Bolt
+A low level Air missile
+%1/2
+%1/1
+Level 19 : Curse
+Reduces your opponent's\ndefence by 5%
+%1/2
+%1/3
+%1/1
+Level 21 : Low Level Alchemy
+Converts an item into gold
+%1/3
+%1/1
+Level 23 : Water Bolt
+A low level Water missile
+%1/2
+%1/2
+%1/1
+Level 25 : Varrock Teleport
+Teleports you to Varrock
+%1/1
+%1/3
+%1/1
+Level 27: Lvl-2 Enchant
+For use on emerald jewellery
+%1/3
+%1/1
+Level 29 : Earth Bolt
+A low level Earth missile
+%1/3
+%1/2
+%1/1
+Level 31 : Lumbridge Teleport
+Teleports you to Lumbridge
+%1/1
+%1/3
+%1/1
+Level 33 : Telekinetic Grab
+Take an item you can see\nbut can't reach
+%1/1
+%1/1
+Level 35 : Fire Bolt
+A low level Fire missile
+%1/4
+%1/3
+%1/1
+Level 37 : Falador Teleport
+Teleports you to Falador
+%1/1
+%1/3
+%1/1
+Level 39 : Crumble Undead
+Hits skeletons, ghosts,\nshades & zombies hard
+%1/2
+%1/2
+%1/1
+Level 41 : Wind Blast
+A medium level Air missile
+%1/3
+%1/1
+Level 43 : Superheat Item
+Smelt ore without a furnace
+%1/4
+%1/1
+Level 45 : Camelot Teleport
+Teleports you to Camelot
+%1/5
+%1/1
+Level 47 : Water Blast
+A medium level Water missile
+%1/3
+%1/3
+%1/1
+Level 49: Lvl-3 Enchant
+For use on ruby jewellery
+%1/5
+%1/1
+Level 50 : Iban Blast
+Summons the wrath of Iban
+%1/5
+%1/1
+%1/1
+Level 51 : Ardougne Teleport
+Teleports you to Ardougne
+%1/2
+%1/2
+Level 53 : Earth Blast
+A medium level Earth missile
+%1/4
+%1/3
+%1/1
+Level 55 : High Level Alchemy
+Converts an item into\nmore gold
+%1/5
+%1/1
+Level 56 : Charge Water Orb
+Needs to be cast on\na water obelisk
+%1/30
+%1/3
+%1/1
+Level 57: Lvl-4 Enchant
+For use on diamond jewellery
+%1/10
+%1/1
+Level 58 : Watchtower Teleport
+Teleports you to the\nWatchtower
+%1/2
+%1/2
+Level 59 : Fire Blast
+A medium level Fire missile
+%1/5
+%1/4
+%1/1
+Level 60 : Charge Earth Orb
+Needs to be cast on\nan earth obelisk
+%1/30
+%1/3
+%1/1
+Level 62 : Wind Wave
+A high level Air missile
+%1/5
+%1/1
+Level 63 : Charge Fire Orb
+Needs to be cast on \na fire obelisk
+%1/30
+%1/3
+%1/1
+Level 65 : Water Wave
+A high level Water missile
+%1/7
+%1/5
+%1/1
+Level 66 : Charge Air Orb
+Needs to be cast on \nan air obelisk
+%1/30
+%1/3
+%1/1
+Level 66 : Vulnerability
+Reduces your opponent's\ndefence by 10%
+%1/5
+%1/5
+%1/1
+Level 68: Lvl-5 Enchant
+For use on dragonstone jewellery
+%1/15
+%1/15
+%1/1
+Level 70 : Earth Wave
+A high level Earth missile
+%1/7
+%1/5
+%1/1
+magicoff,38
+magicon,38
+Cast on
+Iban blast
+magicoff,39
+magicon,39
+Cast @gre@Ardougne teleport
+magicoff,40
+magicon,40
+Cast @gre@Watchtower teleport
+magicoff,41
+magicon,41
+Cast on
+Vulnerability
+magicoff,42
+magicon,42
+Cast on
+Enfeeble
+Level 73 : Enfeeble
+Reduces your opponent's\nstrength by 10%
+%1/8
+%1/8
+%1/1
+Level 75 : Fire Wave
+A high level Fire missile
+%1/7
+%1/5
+%1/1
+magicoff,43
+magicon,43
+Cast on
+Stun
+Level 80 : Stun
+Reduces your opponent's\nattack by 10%
+%1/12
+%1/12
+%1/1
+magicoff2,0
+magicon2,0
+Cast on
+Bind
+Level 20 : Bind
+Holds your opponent\nfor 5 seconds
+%1/3
+%1/3
+%1/2
+magicoff2,1
+magicon2,1
+Cast on
+Snare
+Level 50 : Snare
+Holds your opponent\nfor 10 seconds
+%1/4
+%1/4
+%1/3
+magicoff2,2
+magicon2,2
+Cast on
+Entangle
+Level 79 : Entangle
+Holds your opponent\nfor 15 seconds
+%1/5
+%1/5
+%1/4
+Level 60 : Saradomin strike
+Summons the power\nof Saradomin
+%1/2
+%1/2
+%1/4
+%1/1
+Level 60 : Claws of Guthix
+Summons the power\nof Guthix
+%1/1
+%1/2
+%1/4
+%1/1
+Level 60 : Flames of Zamorak
+Summons the power\nof Zamorak
+%1/4
+%1/2
+%1/1
+%1/1
+Level 80 : Charge
+Temporarily increases the power\nof the three arena spells
+%1/3
+%1/3
+%1/3
+magicoff2,4
+magicon2,4
+Cast @gre@Trollheim Teleport
+Level 61 : Trollheim Teleport
+Teleports you to Trollheim
+%1/2
+%1/2
+magicoff2,5
+magicon2,5
+Cast on
+Magic Dart
+Level 50 : Magic Dart
+A magic dart of slaying
+%1/1
+%1/4
+%1/1
+magicoff2,30
+magicon2,30
+Cast on
+Teleother Lumbridge
+Level 74 : Teleother Lumbridge
+Teleports target to Lumbridge
+%1/1
+%1/1
+%1/1
+magicoff2,31
+magicon2,31
+Cast on
+Teleother Falador
+Level 82 : Teleother Falador
+Teleports target to Falador
+%1/1
+%1/1
+%1/1
+magicoff2,33
+magicon2,33
+Cast on
+Tele Block
+Level 85 : Tele Block
+Stops your target from teleporting
+%1/1
+%1/1
+%1/1
+magicoff2,32
+magicon2,32
+Cast on
+Teleother Camelot
+Level 90 : Teleother Camelot
+Teleports target to Camelot
+%1/2
+%1/1
+magicoff2,34
+magicon2,34
+Cast on
+Enchant Lvl-6 Jewelry
+Level 87: Lvl-6 Enchant
+For use on onyx jewellery
+%1/1
+%1/20
+%1/20
+magicoff2,35
+magicon2,35
+Cast @gre@Bones to peaches
+Level 60 : Bones to Peaches
+Turns Bones into Peaches
+%1/2
+%1/4
+%1/4
+magicoff2,38
+magicon2,38
+Cast @gre@Teleport to Ape Atoll
+Level 64 : Teleport to Ape Atoll
+Teleports you to Ape Atoll
+%1/2
+%1/2
+%1/2
+%1/1
+2727
+magicoff2,6
+magicon2,6
+Cast on
+Ice Rush
+Level 58 : Ice Rush
+A single target ice attack
+%1/2
+%1/2
+%1/2
+magicoff2,8
+magicon2,8
+Cast on
+Ice Blitz
+Level 82 : Ice Blitz
+A single target strong\nice attack
+%1/2
+%1/2
+%1/3
+magicoff2,7
+magicon2,7
+Cast on
+Ice Burst
+Level 70 : Ice Burst
+A multi-target ice attack
+%1/4
+%1/2
+%1/4
+magicoff2,9
+magicon2,9
+Cast on
+Ice Barrage
+Level 94 : Ice Barrage
+A multi-target strong\nice attack
+%1/4
+%1/2
+%1/6
+magicoff2,14
+magicon2,14
+Cast on
+Blood Rush
+Level 56 : Blood Rush
+A single target blood attack
+%1/2
+%1/2
+%1/1
+magicoff2,16
+magicon2,16
+Cast on
+Blood Blitz
+Level 80 : Blood Blitz
+A single target strong\nblood attack
+%1/2
+%1/4
+magicoff2,15
+magicon2,15
+Cast on
+Blood Burst
+Level 68 : Blood Burst
+A multi-target blood attack
+%1/4
+%1/2
+%1/2
+magicoff2,17
+magicon2,17
+Cast on
+Blood Barrage
+Level 92 : Blood Barrage
+A multi-target strong\nblood attack
+%1/4
+%1/4
+%1/1
+magicoff2,10
+magicon2,10
+Cast on
+Smoke Rush
+Level 50 : Smoke Rush
+A single target smoke attack
+%1/2
+%1/2
+%1/1
+%1/1
+magicoff2,12
+magicon2,12
+Cast on
+Smoke Blitz
+Level 74 : Smoke Blitz
+A single target strong\n smoke attack
+%1/2
+%1/2
+%1/2
+%1/2
+magicoff2,11
+magicon2,11
+Cast on
+Smoke Burst
+Level 62 : Smoke Burst
+A multi-target smoke attack
+%1/4
+%1/2
+%1/2
+%1/2
+magicoff2,13
+magicon2,13
+Cast on
+Smoke Barrage
+Level 86 : Smoke Barrage
+A multi-target strong\nsmoke attack
+%1/4
+%1/2
+%1/4
+%1/4
+magicoff2,18
+magicon2,18
+Cast on
+Shadow Rush
+Level 52 : Shadow Rush
+A single target shadow attack
+%1/2
+%1/2
+%1/1
+%1/1
+magicoff2,20
+magicon2,20
+Cast on
+Shadow Blitz
+Level 76 : Shadow Blitz
+A single target strong\nshadow attack
+%1/2
+%1/2
+%1/2
+%1/2
+magicoff2,19
+magicon2,19
+Cast on
+Shadow Burst
+Level 64 : Shadow Burst
+A multi-target shadow attack
+%1/4
+%1/2
+%1/2
+%1/2
+magicoff2,21
+magicon2,21
+Cast on
+Shadow Barrage
+Level 88 : Shadow Barrage
+A multi-target strong\nshadow attack
+%1/4
+%1/2
+%1/4
+%1/3
+magicoff2,22
+magicon2,22
+Level 54 : Paddewwa Teleport
+A teleportation spell
+%1/2
+%1/1
+%1/1
+magicoff2,23
+magicon2,23
+Level 60 : Senntisten Teleport
+A teleportation spell
+%1/2
+%1/1
+magicoff2,24
+magicon2,24
+Level 66 : Kharyrll Teleport
+A teleportation spell
+%1/2
+%1/1
+magicoff2,25
+magicon2,25
+Level 72 : Lassar Teleport
+A teleportation spell
+%1/2
+%1/4
+magicoff2,26
+magicon2,26
+Level 78 : Dareeyak Teleport
+A teleportation spell
+%1/2
+%1/3
+%1/2
+magicoff2,27
+magicon2,27
+Level 84 : Carrallangar Teleport
+A teleportation spell
+%1/2
+%1/2
+magicoff2,28
+magicon2,28
+Level 90 : Annakarl Teleport
+A teleportation spell
+%1/2
+%1/2
+magicoff2,29
+magicon2,29
+Level 96 : Ghorrock Teleport
+A teleportation spell
+%1/2
+%1/8
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Hairdresser's Salon
+Close Window
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+CONFIRM
+Please select colour
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Close Window
+Yrsa's Shoe Store
+CONFIRM (500 GOLD)
+overlay_multiway,0
+Brown
+overlay_multiway,0
+Khaki
+overlay_multiway,0
+Ashen
+overlay_multiway,0
+Dark
+overlay_multiway,0
+Terracotta
+overlay_multiway,0
+Grey
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Close Window
+Thessalia's Makeovers (Legs)
+Khaki
+Black
+Crimson
+Navy
+Straw
+White
+Blue
+Green
+Yellow
+Purple
+Orange
+Rose
+Lime
+Cyan
+Emerald
+CONFIRM (500 gold)
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+Select colour
+Plain
+Shorts
+Flares
+Long Narrow Skirt
+Long Skirt
+Turn-ups
+Short Skirt
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+Select leg style
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Close Window
+Thessalia's Makeovers (Torso)
+Khaki
+Black
+Crimson
+Navy
+Straw
+White
+Blue
+Green
+Yellow
+Purple
+Orange
+Rose
+Lime
+Cyan
+Emerald
+CONFIRM (500 gold)
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+Select body style
+Select arms style
+Select colour
+overlay_multiway,0
+Plain
+overlay_multiway,0
+Crop-top
+overlay_multiway,0
+Polo-neck
+overlay_multiway,0
+Simple
+overlay_multiway,0
+Torn
+overlay_multiway,0
+Short sleeves
+overlay_multiway,0
+Bare arms
+overlay_multiway,0
+Muscley
+overlay_multiway,0
+Long sleeved
+overlay_multiway,0
+Large cuffs
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Hairdresser's Salon
+Close Window
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+CONFIRM
+Please select colour
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Hairdresser's Salon
+Close Window
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+CONFIRM
+Please select colour
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Close Window
+CONFIRM (3000 Gold)
+MALE
+Select skin colour and gender
+FEMALE
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Close Window
+Thessalia's Makeovers (Legs)
+Khaki
+Black
+Crimson
+Navy
+Straw
+White
+Blue
+Green
+Yellow
+Purple
+Orange
+Rose
+Lime
+Cyan
+Emerald
+CONFIRM (500 gold)
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+Select colour
+Plain
+Shorts
+Flares
+Turn-ups
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+Select leg style
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Close Window
+Thessalia's Makeovers (Torso)
+Khaki
+Black
+Crimson
+Navy
+Straw
+White
+Blue
+Green
+Yellow
+Purple
+Orange
+Rose
+Lime
+Cyan
+Emerald
+CONFIRM (500 gold)
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+overlay_multiway,0
+Select body style
+Select arms style
+Select colour
+overlay_multiway,0
+Plain
+overlay_multiway,0
+Light buttons
+overlay_multiway,0
+Jacket
+overlay_multiway,0
+Dark buttons
+overlay_multiway,0
+Stitching
+overlay_multiway,0
+Shirt
+overlay_multiway,0
+Two-toned
+overlay_multiway,0
+Regular
+overlay_multiway,0
+Musclebound
+overlay_multiway,0
+Loose sleeved
+overlay_multiway,0
+Large cuffed
+overlay_multiway,0
+Thin sleeved
+overlay_multiway,0
+Shoulder pads
+Complete the Maze as fast as possible!
+There is...
+... of the Reward left!
+Line1
+Click here to continue
+Line1
+Line2
+Click here to continue
+Line1
+Line2
+Line3
+Click here to continue
+Line1
+Line2
+Line3
+Line4
+Click here to continue
+Line1
+Line2
+Line3
+Line4
+Line5
+Click here to continue
+Line1
+Line1
+Line2
+Line1
+Line2
+Line3
+Line1
+Line2
+Line3
+Line4
+Line1
+Line2
+Line3
+Line4
+Line5
+Close Window
+Close Window
++T+T
+Waterbirth Island
+Miscellania
+Etceteria
+Rellekka
+Kingdom of Miscellania
+Close Window
+Mining
+Herbs
+Remove
+Coffers:
+Remove
+Wood
+Remove
+Fishing
+Remove
+Idle
+500,000
+Deposit
+Deposit
+Withdraw
+Withdraw
+Help
+Deposit money in
+the coffers to
+pay your subjects
+and make them
+work harder.
+Use the arrows to
+adjust the amount
+of effort your
+subjects spend
+on each resource.
+Cooked
+Cooked or raw fish?
+miscgraphics,10
+miscgraphics,11
+Cooked or raw fish?
+miscgraphics,4
+miscgraphics,7
+miscgraphics,6
+miscgraphics,8
+miscgraphics,4
+miscgraphics,7
+miscgraphics,6
+miscgraphics,8
+miscgraphics,4
+miscgraphics,7
+miscgraphics,6
+miscgraphics,8
+miscgraphics,4
+miscgraphics,7
+miscgraphics,6
+miscgraphics,8
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+Game Options
+Screen Brightness
+Dark
+Normal
+Bright
+V-Bright
+Mouse Buttons
+Chat Effects
+Music + Sounds are only
+available in the high detail
+version of the game.
+Split Private-chat
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+Accept Aid
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
++`+`
+Close Window
+Select an Option
+option1
+option2
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+Select an Option
+option1
+option2
+option3
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+Select an Option
+option1
+option2
+option3
+option4
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+Select an Option
+option1
+option2
+option3
+option4
+option5
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+Select an Option
+option1
+option2
+option3
+option4
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+Select an Option
+option1
+option2
+option3
+option4
+option5
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+	+.j
+Music
+miscgraphics,2
+steelborder2,1
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+Click the tune to play.
+Adventure
+Al Kharid
+Alone
+Ambient Jungle
+Arabian
+Arabian 2
+Arabian 3
+Arabique
+Army Of Darkness
+Arrival
+Attack 1
+Attack 2
+Attack 3
+Attack 4
+Attack 5
+Attack 6
+Attention
+Autumn Voyage
+Background
+Ballad Of Enchantment
+Baroque
+Beyond
+Big Chords
+Book Of Spells
+Camelot
+Cave Background
+Cavern
+Chain Of Command
+Crystal Cave
+Crystal Sword
+Dangerous
+Dark
+Deep Wildy
+Desert Voyage
+Doorways
+Dream
+Dunjun
+Egypt
+Emotion
+Expanse
+Expecting
+Faerie
+Fanfare
+Fanfare 2
+Fanfare 3
+Fishing
+Flute Salad
+Forever
+Gaol
+Garden
+Gnome King
+Gnome Theme
+Gnome Village
+Gnome Village 2
+Gnome
+Gnomeball
+Greatness
+Harmony
+High Seas
+Horizon
+Iban
+In the Manor
+Inspiration
+Intrepid
+Jolly-R
+Jungle Island
+Jungly 1
+Jungly 2
+Jungly 3
+Knightly
+Lasting
+Legion
+Lightness
+Lightwalk
+Long Ago
+Long Way Home
+March
+Lullaby
+Mage Arena
+Magic Dance
+Magical Journey
+Medieval
+Mellow
+Miles Away
+Miracle Dance
+Monarch Waltz
+Moody
+Neverland
+Newbie Melody
+Nightfall
+Oriental
+Overture
+Parade
+Quest
+Regal
+Reggae
+Reggae 2
+Riverside
+Royale
+Rune Essence
+Sad Meadow
+Scape Cave
+Scape Original
+Scape Sad
+Scape Wild
+Sea Shanty
+Sea Shanty 2
+Serenade
+Serene
+Shine
+Soundscape
+Spirit
+Splendour
+Spooky
+Spooky Jungle
+Starlight
+Still Night
+The Desert
+The Shadow
+The Tower
+Trawler
+Trawler Minor
+Tree Spirits
+Tribal Background
+Tribal
+Tribal 2
+Trinity
+Troubled
+Underground
+miscgraphics,3
+miscgraphics,3
+Unknown Land
+Underground Pass
+Upcoming
+Venture
+Vision
+Voodoo Cult
+Voyage
+Wander
+Waterfall
+Wilderness
+Wilderness 2
+Wilderness 3
+Witching
+Wonder
+Wonderous
+Workshop
+Start
+Talking Forest
+Theme
+Expedition
+Green=Unlocked
+AUTO
+Playing:
+Emperor
+miscgraphics2,0
+miscgraphics2,1
+miscgraphics2,0
+miscgraphics2,1
+AUTO
+Scape Soft
+Yesteryear
+Shining
+Lonesome
+Tomorrow
+Duel Arena
+Ice Melody
+Wolf Mountain
+Harmony 2
+Venture 2
+Landlubber
+Undercurrent
+Zealot
+Cellar Song
+Escape
+Close Quarters
+Heart and Mind
+Nomad
+Chompy Hunt
+Grumpy
+Forbidden
+Cursed
+Understanding
+Stratosphere
+Twilight
+Mausoleum
+Morytania
+Village
+Grotto
+Natural
+Waterlogged
+Stagnant
+Dead Quiet
+Aztec
+Time Out
+Principality
+Hermit
+Karamja Jam
+Contest
+Tremble
+Sojourn
+Mad Eadgar
+Marzipan
+Righteousness
+Insect Queen
+Breeze
+Well of Voyage
+Crystal Castle
+Exposed
+Lost Soul
+Meridian
+Woodland
+Everywhere
+Overpass
+Forest
+Elven Mist
+Saga
+Legend
+Sunburn
+Bandit Camp
+Player
+Artistry
+Deadlands
+Lair
+Bone Dance
+Shadowland
+Wildwood
+miscgraphics2,0
+miscgraphics2,1
+LOOP
+Barbarianism
+Competition
+Down To Earth
+Courage
+Superstition
+Borderland
+Rellekka
+Warrior
+The Navigator
+Scape Scared
+Pirates of Peril
+Dangerous Road
+Faithless
+Lighthouse
+Out of the Deep
+Tiptoe
+Complication
+Goblin Game
+Fruits de Mer
+Etceteria
+Miscellania
+Narnode's Theme
+Anywhere
+Technology
+Monkey Madness
+Marooned
+Island Life
+Temple
+Suspicious
+Showdown
+Find My Way
+Castlewars
+Melodrama
+Ready for Battle
+Haunted Mine
+Spooky 2
+Deep Down
+Chamber
+Scape Santa
+Hells Bells
+Romancing the Crone
+Stranded
+Stillness
+Pathways
+Kingdom
+7th Realm
+Masquerade
+The Terrible Tower
+The Slayer
+Fenkenstrain's Refrain
+Body Parts
+Barking Mad
+Shipwrecked
+Phasmatys
+The Other Side
+Dragontooth Island
+Monster Melee
+Cave of Beasts
+Settlement
+Cave of the Goblins
+Time to Mine
+In Between
+Claustrophobia
+Dynasty
+Scape Main
+The Golem
+Forgotten
+Throne of the Demon
+Bone Dry
+Path of Peril
+Sarcophagus
+Frostbite
+Down Below
+City of the Dead
+Scarab
+Sphinx
+Hypnotized
+Mirage
+Tears of Guthix
+The Power of Tears
+Dance of the Undead
+Dangerous Way
+Wayward
+Zogre Dance
+Romper Chomper
+The Lost Melody
+The Lost Tribe
+Tale of Keldagrim
+Land of the Dwarves
+Into the Abyss
+The Rogues Den
+The Far Side
+The Chosen
+Ground Scape
+Far Away
+Fight or Flight
+Forgettable Melody
+Right on Track
+The Desolate Isle
+The Monsters Below
+Pheasant Peasant
+Frogland
+The Quizmaster
+Brew Hoo Hoo!
+Evil Bob's Island
+Dead Can Dance
+Wild Side
+The Cellar Dwellers
+Have A Blast
+Jungle Troubles
+Strange Place
+Fire and Brimstone
+In the Pits
+TzHaar!
+Temple of Light
+La Mort
+Corporal Punishment
+Mudskipper Melody
+Blistering Barnacles
+Aye Car Rum Ba
+Dagannoth Dawn
+Subterranea
+Xenophobe
+Grip of the Talon
+Incantation
+Catch me if you can
+Bubble and Squeak
+The Noble Rodent
+Rat a Tat Tat
+Rat Hunt
+Sarim's Vermin
+Desert Heat
+The Genie
+Over to Nardah
+Spirits of the Elid
+Title Fight
+Victory is Mine
+Woe of the Wyvern
+Diango's Little Helpers
+The Enchanter
+Golden Touch
+Mind over Matter
+Roll the Bones
+In the Clink
+Pharaoh's Tomb
+Lament
+Cabin Fever
+In the Brine
+Storm Brew
+The Mad Mole
+Davy Jones' Locker
+Chickened Out
+Chef Surprise
+Mastermindless
+Too Many Cooks...
+Distant Land
+Fangs for the Memory
+Fear and Loathing
+Method of Madness
+No Way Out
+Wrath and Ruin
+Funny Bunnies
+Null and Void
+Pest Control
+Everlasting Fire
+Last Stand
+Making Waves
+To reduce memory requirements
+music & sounds are only
+available in the high-detail
+If you wish to hear these
+please switch versions, but
+bear in mind things will run
+more slowly as a result.
+version of the game.
+Name
+Line1
+Click here to continue
+Name
+Line1
+Line2
+Click here to continue
+Name
+Line1
+Line2
+Line3
+Click here to continue
+Name
+Line1
+Line2
+Line3
+Line4
+Click here to continue
+Name
+Line1
+Name
+Line1
+Line2
+Name
+Line1
+Line2
+Line3
+.l.l
+Name
+Line1
+Line2
+Line3
+Line4
+Line1
+Click here to continue
+Line1
+Click here to continue
+Line1
+Line1
+Click here to continue
+Line1
+Line1
+Click here to continue
+Line1
+Line1
+Click here to continue
+Line1
+Line1
+Line1
+Click here to continue
+Line1
+Line1
+Line1
+Click here to continue
+Line1
+Line1
+Line1
+Line1
+Click here to continue
+Line1
+Line1
+miscgraphics,4
+miscgraphics,7
+miscgraphics,6
+miscgraphics,8
+miscgraphics,4
+miscgraphics,7
+miscgraphics,6
+miscgraphics,8
+miscgraphics,4
+miscgraphics,7
+miscgraphics,6
+miscgraphics,8
+miscgraphics,4
+miscgraphics,7
+miscgraphics,6
+miscgraphics,8
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+Game Options
+Screen Brightness
+Dark
+Normal
+Bright
+V-Bright
+Mouse Buttons
+Chat Effects
+Music\nVolume
+miscgraphics3,0
+miscgraphics3,1
+miscgraphics3,0
+miscgraphics3,1
+miscgraphics3,0
+miscgraphics3,1
+miscgraphics3,0
+miscgraphics3,1
+miscgraphics3,0
+miscgraphics3,1
+Effect\nVolume
+miscgraphics3,0
+miscgraphics3,1
+miscgraphics3,0
+miscgraphics3,1
+miscgraphics3,0
+miscgraphics3,1
+miscgraphics3,0
+miscgraphics3,1
+miscgraphics3,0
+miscgraphics3,1
+Split Private-chat
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+Accept Aid
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+Energy left:
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+miscgraphics,0
+miscgraphics,9
+Player controls
+Auto retaliate
+Move speed
+Walk
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+Wave
+Emote animations
+Dance
+Angry
+Think
+Beckon
+Weight carried:
+%1kg
+Laugh
+Cheer
+Clap
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+Glass
+Wall
+Glass
+Climb
+Rope
+Lean
+Blow
+Kiss
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+Panic
+Spin
+Head
+Bang
+Jump
+Rasp'
+berry
+Yawn
+Salute
+Shrug
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+Goblin
+Goblin
+Dance
+Scared
+miscgraphics2,0
+miscgraphics2,0
+miscgraphics2,0
+Zombie
+Walk
+Zombie
+Dance
+Rabbit
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Grave Monument
+Close Window
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Saradomin\n\nlights my way\n\nthrough\n\nthe darkness of life
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Accept
+Party Drop Chest
+Close Window
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Text
+steelborder,2
+steelborder,0
+steelborder,1
+miscgraphics,3
+steelborder,3
+steelborder2,0
+Withdraw 1
+Withdraw 5
+Withdraw 10
+Withdraw All
+Withdraw X
+(Once you press Accept items can't be taken out of the chest!)
+Deposit 1
+Deposit 5
+Deposit 10
+Deposit All
+Deposit X
+Close Window
+lj_title
+lj10
+lj11
+lj12
+lj13
+lj14
+lj15
+lj16
+lj17
+lj18
+lj19
+lj20
+lj21
+lj22
+lj23
+lj24
+lj25
+lj26
+lj27
+lj28
+lj29
+lj30
+lj31
+lj32
+lj33
+lj34
+lj35
+lj36
+lj37
+lj38
+lj39
+lj40
+lj41
+lj42
+lj43
+lj44
+lj45
+lj46
+lj47
+lj48
+lj49
+lj50
+lj51
+lj52
+lj53
+lj54
+lj55
+lj56
+lj57
+lj58
+lj59
+lj60
+lj61
+lj62
+lj63
+lj64
+lj65
+lj66
+lj67
+lj68
+lj69
+lj70
+lj71
+lj72
+lj73
+lj74
+lj75
+lj76
+lj77
+lj78
+lj79
+lj80
+lj81
+lj82
+lj83
+lj84
+lj85
+lj86
+lj87
+lj88
+lj89
+lj90
+lj91
+lj92
+lj93
+lj94
+lj95
+lj96
+lj97
+lj98
+lj99
+lj100
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Welcome to RuneScape - Use the buttons below to design your player
+Accept
+Accept
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+leftarrow,0
+Recolour hair
+Torso
+leftarrow,0
+Change head
+leftarrow,0
+Change jaw
+leftarrow,0
+Change torso
+leftarrow,0
+Change arms
+leftarrow,0
+Change hands
+leftarrow,0
+Change legs
+leftarrow,0
+Change feet
+rightarrow,0
+Change head
+rightarrow,0
+Change jaw
+rightarrow,0
+Change torso
+rightarrow,0
+Change arms
+rightarrow,0
+Change hands
+rightarrow,0
+Change legs
+rightarrow,0
+Change feet
+Arms
+Legs
+Head
+Hands
+Feet
+rightarrow,0
+Recolour hair
+leftarrow,0
+Recolour legs
+leftarrow,0
+Recolour torso
+leftarrow,0
+Recolour feet
+leftarrow,0
+Recolour skin
+Design
+rightarrow,0
+Recolour torso
+Colour
+rightarrow,0
+Recolour legs
+rightarrow,0
+Recolour feet
+rightarrow,0
+Recolour skin
+Hair
+Torso
+Legs
+Skin
+Feet
+steelborder2,0
+miscgraphics,3
+Gender
+combatboxes,0
+combatboxes,1
+Male
+combatboxes,0
+combatboxes,1
+Female
+Male
+Female
+Southeast Runescape
+Close Window
+Lumbridge
+Draynor
+Varrock
+Falador
+Village
+Port
+Sarim
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayerglow,0
+prayeroff,0
+prayeron,0
+prayeroff,1
+prayeron,1
+prayeroff,2
+prayeron,2
+prayeroff,3
+prayeron,3
+prayeroff,4
+prayeron,4
+prayeroff,5
+prayeron,5
+prayeroff,6
+prayeron,6
+prayeroff,7
+prayeron,7
+prayeroff,8
+prayeron,8
+prayeroff,9
+prayeron,9
+prayeroff,10
+prayeron,10
+prayeroff,11
+prayeron,11
+prayeroff,12
+prayeron,12
+prayeroff,14
+prayeron,14
+prayeroff,13
+prayeron,13
+prayeroff,15
+prayeron,15
+prayeroff,17
+prayeron,17
+prayeroff,16
+prayeron,16
+Prayer: %1/%2
+staticons,4
+Level 1\nThick Skin
+Increases your defence by 5%
+Level 4\nBurst of Strength
+Increases your strength by 5%
+Level 7\nClarity of Thought
+Increases your attack by 5%
+Level 10\nRock Skin
+Increases your defence by 10%
+Level 13\nSuperhuman Strength
+Increases your strength by 10%
+Level 16\nImproved Reflexes
+Increases your attack by 10%
+Level 19\nRapid Restore
+2x restore rate for all stats\nexcept hitpoints and prayer
+Level 22\nRapid Heal
+2x restore rate for hitpoints stat
+Level 25\nProtect Items
+Keep 1 extra item if you die
+Level 28\nSteel Skin
+Increases your defence by 15%
+Level 31\nUltimate Strength
+Increases your strength by 15%
+Level 34\nIncredible Reflexes
+Increases your attack by 15%
+Level 37\nProtect from Magic
+Protection from magical attacks
+Level 40\nProtect from Missiles
+Protection from ranged attacks
+Level 43\nProtect from Melee
+Protection from close attacks
+Level 46\nRetribution
+Inflicts damage to nearby\ntargets if you die
+Level 49\nRedemption
+Heals you if your health\nfalls below 10%
+Level 52\nSmite
+1/4 of damage dealt is also\n removed from opponent's Prayer
+Close Window
+ifquestname
+qj10
+qj11
+qj12
+qj13
+qj14
+qj15
+qj16
+qj17
+qj18
+qj19
+qj20
+qj21
+qj22
+qj23
+qj24
+qj25
+qj26
+qj27
+qj28
+qj29
+qj30
+qj31
+qj32
+qj33
+qj34
+qj35
+qj36
+qj37
+qj38
+qj39
+qj40
+qj41
+qj42
+qj43
+qj44
+qj45
+qj46
+qj47
+qj48
+qj49
+qj50
+qj51
+qj52
+qj53
+qj54
+qj55
+qj56
+qj57
+qj58
+qj59
+qj60
+qj61
+qj62
+qj63
+qj64
+qj65
+qj66
+qj67
+qj68
+qj69
+qj70
+qj71
+qj72
+qj73
+qj74
+qj75
+qj76
+qj77
+qj78
+qj79
+qj80
+qj81
+qj82
+qj83
+qj84
+qj85
+qj86
+qj87
+qj88
+qj89
+qj90
+qj91
+qj92
+qj93
+qj94
+qj95
+qj96
+qj97
+qj98
+qj99
+qj100
+Quest Journal
+miscgraphics,2
+steelborder2,1
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+FREE QUESTS:
+Black Knights' Fortress
+Black Knights' Fortress
+Cook's Assistant
+Cook's Assistant
+Demon Slayer
+Demon Slayer
+Rune Mysteries Quest
+Rune Mysteries Quest
+Doric's Quest
+Doric's Quest
+The Restless Ghost
+The Restless Ghost
+Goblin Diplomacy
+Goblin Diplomacy
+Ernest the Chicken
+Ernest the Chicken
+Imp Catcher
+Imp Catcher
+Pirate's Treasure
+Pirate's Treasure
+Prince Ali Rescue
+Prince Ali Rescue
+Romeo & Juliet
+Romeo & Juliet
+Sheep Shearer
+Sheep Shearer
+Shield of Arrav
+Shield of Arrav
+The Knight's Sword
+The Knight's Sword
+Vampire Slayer
+Vampire Slayer
+Witch's Potion
+Witch's Potion
+Watch Tower
+Watch Tower
+MEMBERS QUESTS:
+Waterfall Quest
+Waterfall Quest
+Witch's House
+Witch's House
+Biohazard
+Biohazard
+Clock Tower
+Clock Tower
+Digsite Quest
+Digsite Quest
+Big Chompy Bird Hunting
+Big Chompy Bird Hunting
+Dwarf Cannon
+Dwarf Cannon
+Family Crest
+Family Crest
+Fight Arena
+Fight Arena
+Fishing Contest
+Fishing Contest
+Gertrude's Cat
+Gertrude's Cat
+The Grand Tree
+The Grand Tree
+Hazeel Cult
+Hazeel Cult
+Heroes Quest
+Heroes Quest
+In Search of the Myreque
+In Search of the Myreque
+Jungle Potion
+Jungle Potion
+Legends Quest
+Legends Quest
+Lost City
+Lost City
+Merlin's Crystal
+Merlin's Crystal
+Monk's Friend
+Monk's Friend
+Murder Mystery
+Murder Mystery
+Observatory Quest
+Observatory Quest
+Plague City
+Plague City
+Scorpion Catcher
+Scorpion Catcher
+Sea Slug Quest
+Sea Slug Quest
+Sheep Herder
+Sheep Herder
+Shilo Village
+Shilo Village
+Temple of Ikov
+Temple of Ikov
+The Tourist Trap
+The Tourist Trap
+Tree Gnome Village
+Tree Gnome Village
+Tribal Totem
+Tribal Totem
+Underground Pass
+Underground Pass
+Dragon Slayer
+Dragon Slayer
+Elemental Workshop
+Elemental Workshop
+Druidic Ritual
+Druidic Ritual
+Priest in Peril
+Priest in Peril
+Nature Spirit
+Nature Spirit
+Death Plateau
+Death Plateau
+Troll Stronghold
+Troll Stronghold
+Eadgar's Ruse
+Eadgar's Ruse
+Tai Bwo Wannai Trio
+Tai Bwo Wannai Trio
+Haunted Mine
+Haunted Mine
+Regicide
+Regicide
+Shades of Mort'ton
+Shades of Mort'ton
+Throne of Miscellania
+Throne of Miscellania
+The Fremennik Trials
+The Fremennik Trials
+Monkey Madness
+Monkey Madness
+Roving Elves
+Roving Elves
+Holy Grail
+Holy Grail
+Horror from the Deep
+Horror from the Deep
+Troll Romance
+Troll Romance
+Creature of Fenkenstrain
+Creature of Fenkenstrain
+One Small Favour
+One Small Favour
+Mountain Daughter
+Mountain Daughter
+Ghosts Ahoy
+Ghosts Ahoy
+Between a Rock...
+Between a Rock...
+The Feud
+The Feud
+The Golem
+The Golem
+Desert Treasure
+Desert Treasure
+Icthlarin's Little Helper
+Icthlarin's Little Helper
+Tears of Guthix
+Tears of Guthix
+Zogre Flesh Eaters
+Zogre Flesh Eaters
+The Giant Dwarf
+The Giant Dwarf
+The Lost Tribe
+The Lost Tribe
+Recruitment Drive
+Recruitment Drive
+Mourning's Ends Part 1
+Mourning's Ends Part 1
+Forgettable Tale...
+Forgettable Tale
+Garden of Tranquillity
+Garden of Tranquillity
+A Tail of Two Cats
+A Tail of Two Cats
+Wanted!
+Wanted!
+Mourning's Ends Part 2
+Mourning's Ends Part 2
+Rum Deal
+Rum Deal
+Shadow of the Storm
+Shadow of the Storm
+Making History
+Making History
+Rat Catchers
+Rat Catchers
+Spirits of the Elid
+Spirits of the Elid
+Devious Minds
+Devious Minds
+The Hand in the Sand
+The Hand in the Sand
+Enakhra's Lament
+Enakhra's Lament
+Cabin Fever
+Cabin Fever
+A Fairy Tale Pt. 1
+A Fairy Tale Pt. 1
+Recipe for Disaster
+Recipe for Disaster
+In Aid of the Myreque
+In Aid of the Myreque
+A Soul's Bane
+A Soul's Bane
+Rag and Bone Man
+Rag and Bone Man
+Swan Song
+Swan Song
+Your password is only as safe as your computer.
+Install anti-virus software!
+Message of the week
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,5
+miscgraphics,4
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+miscgraphics,4
+miscgraphics,5
+staticons,0
+staticons,6
+staticons,12
+staticons,1
+staticons,7
+staticons,13
+staticons,2
+staticons,8
+staticons,14
+staticons,3
+staticons,9
+staticons,15
+staticons,4
+staticons,10
+staticons,16
+staticons,5
+staticons,11
+staticons,17
+Combat Lvl: %1
+Total Lvl: %1
+QP: %1
+View @or1@Combat @whi@guide
+View @or1@Combat @whi@guide
+View @or1@Mining @whi@guide
+View @or1@Combat @whi@guide
+View @or1@Agility @whi@guide
+View @or1@Smithing @whi@guide
+View @or1@Combat @whi@guide
+View @or1@Herblore @whi@guide
+View @or1@Fishing @whi@guide
+View @or1@Ranged @whi@guide
+View @or1@Thieving @whi@guide
+View @or1@Cooking @whi@guide
+View @or1@Prayer @whi@guide
+View @or1@Crafting @whi@guide
+View @or1@Firemaking @whi@guide
+View @or1@Magic @whi@guide
+View @or1@Fletching @whi@guide
+View @or1@Woodcutting @whi@guide
+Attack XP:
+Next Level At:
+Strength XP:
+Next Level At:
+Defence XP:
+Next Level At:
+Ranged XP:
+Next Level At:
+Prayer XP:
+Next Level At:
+Magic XP:
+Next Level At:
+Hitpoints XP:
+Next Level At:
+Agility XP:
+Next Level At:
+Herblore XP:
+Next Level At:
+Thieving XP:
+Next Level At:
+Crafting XP:
+Next Level At:
+Fletching XP:
+Next Level At:
+Mining XP:
+Next Level At:
+Smithing XP:
+Next Level At:
+Fishing XP:
+Next Level At:
+Cooking XP:
+Next Level At:
+Firemaking XP:
+Next Level At:
+Woodcutting XP:
+Next Level At:
+miscgraphics,4
+miscgraphics,5
+staticons2,0
+Runecraft XP:
+Next Level At:
+View @or1@Runecrafting @whi@guide
+View @or1@Slayer @whi@guide
+miscgraphics,4
+miscgraphics,5
+staticons2,1
+Slayer XP:
+Next Level At:
+Farming XP:
+Next Level At:
+miscgraphics,4
+miscgraphics,5
+staticons2,2
+View @or1@Farming@whi@ guide
+8z8z
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Iron: %1
+Blast Furnace Bar Stock
+Close Window
+Bronze: %1
+Take
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Steel: %1
+Mithril: %1
+Adamantite: %1
+Runite: %1
+Silver: %1
+Gold: %1
+Perfect gold: %1
+Coal to add: %2
+Coal in furnace: %1
+(All)
+Take
+(All)
+Take
+(All)
+Take
+(All)
+Take
+(All)
+Take
+(All)
+Take
+(All)
+Take
+(All)
+Take
+(All)
+Take
+Congratulations!
+Close Window
+Total Points:
+You are awarded
+Quest points.
+/l/l
+Congratulations!
+Close
+You have completed Death Plateau!
+Quest Points:
+You are awarded:
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Ranging Guild Ticket Exchange
+Close Window
+Value
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Fractional still
+Close Window
+Close
+Heat
+Pressure
+Click this to add coal.
+Add Coal
+Turn pressure valve down
+Turn pressure valve up
+Turn tar flow valve down
+Turn tar valve up
+Tar regulator
+Pressure valve
+Total distilled
++v+v
+Close Window
+'C'C
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder,2
+leftarrow,0
+rightarrow,0
+leftarrow,0
+rightarrow,0
+leftarrow,0
+rightarrow,0
+leftarrow,0
+rightarrow,0
+Combination Lock Door
+Close Window
+E N T E R
+Asgarnia
+Karamja
+Crandor
+Entrana
+Port
+Sarim
+Port
+Khazard
+Ship
+Yard
+Cairn
+Isle
+Brimhaven
+Ardougne
+You Journey on the ship....
+Atoll
+Feldip
+Hills
+The ogres follow the scent of the chompy.... 
+The ogres travel back with the goods
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Value
+Buy 1
+Buy 5
+Buy 10
+Axe Shop
+Close Window
+Right-click on shop to buy item - Right-click on inventory to sell item
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Value
+Sell 1
+Sell 5
+Sell 10
+sworddecor,1
+sworddecor,0
+Make X
+Make 10
+Make 5
+Make 1
+Make X
+Make 10
+Make 5
+Make 1
+What would you like to make?
+sworddecor,1
+sworddecor,0
+Make X
+Make 10
+Make 5
+Make 1
+Make X
+Make 10
+Make 5
+Make 1
+Make X
+Make 10
+Make 5
+Make 1
+What would you like to make?
+sworddecor,1
+sworddecor,0
+Make X
+Make 10
+Make 5
+Make 1
+Make X
+Make 10
+Make 5
+Make 1
+Make X
+Make 10
+Make 5
+Make 1
+Make X
+Make 10
+Make 5
+Make 1
+What would you like to make?
+sworddecor,1
+sworddecor,0
+Make X
+Make 10
+Make 5
+Make 1
+Make X
+Make 10
+Make 5
+Make 1
+Make X
+Make 10
+Make 5
+Make 1
+Make X
+Make 10
+Make 5
+Make 1
+Make X
+Make 10
+Make 5
+Make 1
+What would you like to make?
+Skill Name
+Level
+Advancement
+tradebacking,0
+steelborder,0
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder,1
+steelborder2,1
+miscgraphics,3
+steelborder,2
+miscgraphics,3
+steelborder,3
+Close Window
+tradebacking,0
+steelborder2,1
+miscgraphics,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+miscgraphics,3
+combatboxes,2
+combatboxes,2
+Bronze
+Iron
+combatboxes,2
+Steel
+tradebacking,0
+miscgraphics,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+steelborder2,1
+miscgraphics,3
+combatboxes,2
+Mithril
+combatboxes,2
+Adamant
+combatboxes,2
+Rune
+combatboxes,2
+Smelting
+Members only skill
+tradebacking,0
+miscgraphics,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+steelborder2,1
+miscgraphics,3
+combatboxes,2
+Op 8
+combatboxes,2
+Op 9
+combatboxes,2
+Op 10
+tradebacking,0
+miscgraphics,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+steelborder2,1
+miscgraphics,3
+combatboxes,2
+Op 11
+combatboxes,2
+Op 12
+combatboxes,2
+Op 13
+magicoff2,5
+magicon2,5
+magicoff,31
+magicon,31
+magicoff,33
+magicon,33
+magicoff,36
+magicon,36
+magicoff,37
+magicon,37
+Select a Combat Spell
+Level 62 : Wind Wave
+A high level Air missile
+%1/5
+%1/1
+Level 65 : Water Wave
+A high level Water missile
+%1/7
+%1/5
+%1/1
+Level 70 : Earth Wave
+A high level Earth missile
+%1/7
+%1/5
+%1/1
+Level 75 : Fire Wave
+A high level Fire missile
+%1/7
+%1/5
+%1/1
+cancel
+Level 50 : Magic Dart
+A magic dart of slaying
+%1/1
+%1/1
+%1/4
+magicoff,19
+magicon,19
+Level 39 : Crumble Undead
+Hits skeletons, ghosts,\nshades & zombies hard
+%1/2
+%1/2
+%1/1
+	`	`
+sworddecor,1
+sworddecor,0
+What would you like to smelt?
+Smelt X @lre@Bronze
+Smelt 10 @lre@Bronze
+Smelt 5 @lre@Bronze
+\n\n\n\nBronze
+Smelt 1 @lre@Bronze
+Smelt X @lre@Iron
+Smelt 10 @lre@Iron
+Smelt 5 @lre@Iron
+\n\n\n\nIron
+Smelt 1 @lre@Iron
+Smelt X @lre@Silver
+Smelt 10 @lre@Silver
+Smelt 5 @lre@Silver
+\n\n\n\nSilver
+Smelt 1 @lre@Silver
+Smelt X @lre@Steel
+Smelt 10 @lre@Steel
+Smelt 5 @lre@Steel
+\n\n\n\nSteel
+Smelt 1 @lre@Steel
+Smelt X @lre@Gold
+Smelt 10 @lre@Gold
+Smelt 5 @lre@Gold
+\n\n\n\nGold
+Smelt 1 @lre@Gold
+Smelt X @lre@Mithril
+Smelt 10 @lre@Mithril
+Smelt 5 @lre@Mithril
+\n\n\n\nMithril
+Smelt 1 @lre@Mithril
+Smelt X @lre@Adamant
+Smelt 10 @lre@Adamant
+Smelt 5 @lre@Adamant
+\n\n\n\nAdamant
+Smelt 1 @lre@Adamant
+Smelt X @lre@Rune
+Smelt 10 @lre@Rune
+Smelt 5 @lre@Rune
+\n\n\n\nRune
+Smelt 1 @lre@Rune
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Warhammer
+Close Window
+Sword
+Long sword
+Scimitar
+2 hand sword
+2bars
+3bars
+Battle axe
+Mace
+Dagger
+3bars
+other
+Chain body
+Plate legs
+Plate skirt
+Plate body
+Medium helm
+Full helm
+Square shield
+Kite shield
+Throwing knives
+Dart tips
+Arrowtips
+3bars
+3bars
+3bars
+5bars
+2bars
+2bars
+3bars
+2bars
+What would you like to make?
+3bars
+Make
+Make 5
+Make 10
+Make
+Make 5
+Make 10
+Make
+Make 5
+Make 10
+Make
+Make 5
+Make 10
+Make set
+Make 5 sets
+Make 10 sets
+1bar
+1bar
+1bar
+1bar
+1bar
+1bar
+1bar
+1bar
+1bar
+Studs
+1bar
+2bars
+Claws
+Make
+Make 5
+Make 10
+1bar
+Make
+Make 5
+Make 10
+Oil lantern frame
+1bar
+Nails
+3/3/
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Report abuse
+Close Window
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+This form is for reporting players who are breaking our rules.
+Using it sends a snapshot of the last 60 secs of activity to us.
+If you misuse this form, you will be banned.
+Then click below to indicate which of our 13 rules is being broken.
+For a detailed explanation of each rule please read the manual on our website.
+1: Offensive language
+2: Item scamming
+3: Password scamming
+4: Bug abuse
+5: Jagex staff impersonation
+6: Account sharing/trading
+7: Macroing
+8: Multiple logging in
+9: Encouraging others to break rules
+10: Misuse of customer support
+11: Advertising / website
+12: Real world item trading
+First please enter the name of the offending player below:
+Andrew*
+Moderator option: Mute player for 48 hours: <OFF>
+13: Asking for personal details
+magicoff,0
+magicon,0
+magicoff,2
+magicon,2
+magicoff,4
+magicon,4
+magicoff,6
+magicon,6
+magicoff,8
+magicon,8
+magicoff,11
+magicon,11
+magicoff,14
+magicon,14
+magicoff,17
+magicon,17
+magicoff,20
+magicon,20
+magicoff,23
+magicon,23
+magicoff,25
+magicon,25
+magicoff,29
+magicon,29
+magicoff,31
+magicon,31
+magicoff,33
+magicon,33
+magicoff,36
+magicon,36
+magicoff,37
+magicon,37
+Select a Combat Spell
+Level 1 : Wind Strike
+A basic Air missile
+%1/1
+%1/1
+Level 5 : Water Strike
+A basic Water missile
+%1/1
+%1/1
+%1/1
+Level 9 : Earth Strike
+A basic Earth missile
+%1/2
+%1/1
+%1/1
+Level 13 : Fire Strike
+A basic Fire missile
+%1/3
+%1/2
+%1/1
+Level 17 : Wind Bolt
+A low level Air missile
+%1/2
+%1/1
+Level 23 : Water Bolt
+A low level Water missile
+%1/2
+%1/2
+%1/1
+Level 29 : Earth Bolt
+A low level Earth missile
+%1/3
+%1/2
+%1/1
+Level 35 : Fire Bolt
+A low level Fire missile
+%1/4
+%1/3
+%1/1
+Level 41 : Wind Blast
+A medium level Air missile
+%1/3
+%1/1
+Level 47 : Water Blast
+A medium level Water missile
+%1/3
+%1/3
+%1/1
+Level 53 : Earth Blast
+A medium level Earth missile
+%1/4
+%1/3
+%1/1
+Level 59 : Fire Blast
+A medium level Fire missile
+%1/5
+%1/4
+%1/1
+Level 62 : Wind Wave
+A high level Air missile
+%1/5
+%1/1
+Level 65 : Water Wave
+A high level Water missile
+%1/7
+%1/5
+%1/1
+Level 70 : Earth Wave
+A high level Earth missile
+%1/7
+%1/5
+%1/1
+Level 75 : Fire Wave
+A high level Fire missile
+%1/7
+%1/5
+%1/1
+cancel
+.z.z
+.~.~
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Teleport Option
+...wants to teleport you to...
+Do you accept?
+sworddecor,0
+sworddecor,1
+Accept
+Accept
+Decline
+Decline
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,0
+steelborder,0
+steelborder,1
+steelborder,1
+steelborder,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+steelborder,3
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Target View.
+Shots
+Score:
+Left:
+Missed!
+Close Window
+headicons_pk,0
+Level: %1
+Water Collected
+Time Left
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Telescope View
+Close Window
+Repair State :
+Resources :
+Sanctity:
+* Temple Repair *
+Close Window
+Set to 1
+Set to 2
+kSet to 3
+3Set to 4
+Set to 5
+Set to 6
+Set to 7
+jSet to 8
+Set to 9
+Reset Safe
+Whatever text you need goes here!
+Combi for lock
+Close Window
+Text
+Text
+Text
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Close Window
+Water Battlestaff
+Air Battlestaff
+Earth Battlestaff
+Fire Battlestaff
+What would you like to enchant?
+Lava Battlestaff
+Mud Battlestaff
+xEnchant Air Battlestaff
+xEnchant Water Battlestaff
+xEnchant Earth Battlestaff
+xEnchant Fire Battlestaff
+xEnchant Lava Battlestaff
+xEnchant Mud Battlestaff
+Your password is only as safe as your computer.
+Install anti-virus software!
+Message of the week
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+You are about to give:
+In return you will receive:
+Are you sure you want to make this trade?
+There is NO WAY to reverse a trade if you change your mind
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+Close Window
+steelborder,1
+miscgraphics,3
+Accept
+Decline
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+Absolutely nothing!
+Absolutely nothing!
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Remove 1
+Remove 5
+Remove 10
+Remove All
+Remove X
+Trading With:
+Opponent's Offer
+Your Offer
+Accept
+Decline
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+Waiting for other player
+miscgraphics,3
+steelborder,0
+steelborder,0
+steelborder,1
+steelborder,1
+steelborder,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+steelborder,3
+Close Window
+Offer 1
+Offer 5
+Offer 10
+Offer All
+Offer X
+Close Window
+The quick brown fox jumped over the 
+The quick brown fox jumped over the 
+The quick brown fox jumped over the 
+The quick brown fox jumped over the 
+The quick brown fox jumped over the 
+The quick brown fox jumped over the 
+The quick brown fox jumped over the 
+The quick brown fox jumped over the 
+Close Window
+Close Window
+Close Window
+Close Window
+Close Window
+Close Window
+Close Window
+#S#S
+Close Window
+Close Window
+Close Window
+$;$;
+Close Window
+Close Window
+Close Window
+%#%#
+Close Window
+Close Window
+Close Window
+&o&o
+Close Window
+Close Window
+Hint
+Hint
+Close Window
+Close Window
+Get Location
+Water:
+Net:
+Catch:
+Time left:
+Okay
+Ripped!
+Nothing
+10 mins
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Withdraw 1
+Withdraw All
+Trawler Catch
+Dump Items
+Click Dump Items to close the window and discard remaining items.
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Use rope to repair the Trawler's nets.
+Use Swamp Paste to repair leaks
+in the Ship's hull.
+If all else fails you can always try
+and bail the water out as well!
+How to play:
+Close Window
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder,2
+leftarrow,0
+rightarrow,0
+leftarrow,0
+rightarrow,0
+leftarrow,0
+rightarrow,0
+leftarrow,0
+rightarrow,0
+Combination Lock Door
+Close Window
+ENTER
+.e.e
+% Done
+Tutorial Island Progress
+Please follow the instructions below
+to advance in the tutorial.
+Title
+Line1
+Line2
+Line3
+Line4
+Close Window
+Your password is only as safe as your computer.
+Install anti-virus software!
+Message of the week
+/b/b
+Close Window
+Time
+4:17
+XP score
+Your password is only as safe as your computer.
+Install anti-virus software!
+Message of the week
+headicons_pk,0
+Level: %1
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,2
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,1
+steelborder2,0
+steelborder2,0
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Close Window
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,2
+steelborder2,0
+steelborder2,0
+Proceed with caution. If you go much further north you will enter the\nwilderness. This is a very dangerous area where other players can attack you!
+WARNING !!!
+The further north you go the more dangerous it becomes, but there is more\ntreasure to be found.
+In the wilderness an indicator at the bottom-right of the screen\nwill show the current level of danger.
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,0
+miscgraphics,0
+miscgraphics,0
+miscgraphics,0
+miscgraphics,0
+miscgraphics,0
+miscgraphics,0
+miscgraphics,0
+miscgraphics,0
+miscgraphics,0
+miscgraphics,0
+Attack bonus
+Defence bonus
+Stab: +120
+Slash:+120
+Crush:+120
+Magic: +120
+Range: +120
+Stab: +120
+Slash: +120
+Crush: +120
+Magic: +120
+Range: +120
+Other bonuses
+Strength: +120
+Prayer: +120
+wornicons,0
+wornicons,1
+wornicons,2
+wornicons,3
+wornicons,5
+wornicons,6
+wornicons,7
+wornicons,8
+wornicons,9
+wornicons,4
+awornicons,10
+Remove
+Select a Combat Spell
+cancel
+magicoff2,6
+magicon2,6
+Level 58 : Ice Rush
+A single target ice attack
+%1/2
+%1/2
+%1/2
+magicoff2,8
+magicon2,8
+Level 82 : Ice Blitz
+A single target strong\nice attack
+%1/2
+%1/2
+%1/3
+magicoff2,7
+magicon2,7
+Level 70 : Ice Burst
+A multi-target ice attack
+%1/4
+%1/2
+%1/4
+magicoff2,9
+magicon2,9
+Level 94 : Ice Barrage
+A multi-target strong\nice attack
+%1/4
+%1/2
+%1/6
+magicoff2,14
+magicon2,14
+Level 56 : Blood Rush
+A single target blood attack
+%1/2
+%1/2
+%1/1
+magicoff2,16
+magicon2,16
+Level 80 : Blood Blitz
+A single target strong\nblood attack
+%1/2
+%1/4
+magicoff2,15
+magicon2,15
+Level 68 : Blood Burst
+A multi-target blood attack
+%1/4
+%1/2
+%1/2
+magicoff2,17
+magicon2,17
+Level 92 : Blood Barrage
+A multi-target strong\nblood attack
+%1/4
+%1/4
+%1/1
+magicoff2,10
+magicon2,10
+Level 50 : Smoke Rush
+A single target smoke attack
+%1/2
+%1/2
+%1/1
+%1/1
+magicoff2,12
+magicon2,12
+Level 74 : Smoke Blitz
+A single target strong\n smoke attack
+%1/2
+%1/2
+%1/2
+%1/2
+magicoff2,11
+magicon2,11
+Level 62 : Smoke Burst
+A multi-target smoke attack
+%1/4
+%1/2
+%1/2
+%1/2
+magicoff2,13
+magicon2,13
+Level 86 : Smoke Barrage
+A multi-target strong\nsmoke attack
+%1/4
+%1/2
+%1/4
+%1/4
+magicoff2,18
+magicon2,18
+Level 52 : Shadow Rush
+A single target shadow attack
+%1/2
+%1/2
+%1/1
+%1/1
+magicoff2,20
+magicon2,20
+Level 76 : Shadow Blitz
+A single target strong\nshadow attack
+%1/2
+%1/2
+%1/2
+%1/2
+magicoff2,19
+magicon2,19
+Level 64 : Shadow Burst
+A multi-target shadow attack
+%1/4
+%1/2
+%1/2
+%1/2
+magicoff2,21
+magicon2,21
+Level 88 : Shadow Barrage
+A multi-target strong\nshadow attack
+%1/4
+%1/2
+%1/4
+%1/3
+Your password is only as safe as your computer.
+Install anti-virus software!
+Message of the week
+Your password is only as safe as your computer.
+Install anti-virus software!
+Message of the week
+Kill Count: %1
+Kill Count: Too Many!
+Which is the next shape in the above sequence?
+Close Window
+line1
+line2
+line3
+line4
+line5
+line6
+line7
+line8
+line9
+line10
+line11
+line12
+line13
+line14
+line15
+line16
+line17
+line18
+line19
+line20
+line21
+line22
+line23
+line24
+line25
+line26
+line27
+line28
+line28
+line29
+leftarrow,0
+rightarrow,0
+page%1
+page%2
+?!?!
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,2
+steelborder,1
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Runesquares: Options
+Challenge player
+Challenge
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+Close Window
+30 seconds
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+1 minute
+Select option
+2 minutes
+Select option
+15 seconds
+Select option
+Time per move:
+miscgraphics,10
+miscgraphics,11
+Select piece
+Select piece
+Choose piece:
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+Ranked
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+Blast Furnace Plan
+Stove
+Air Pump
+Temp Gauge
+Furnace
+Dispenser
+Conveyer\nBelt
+Cogs
+Pipes
+Coke
+Blast Furnace Temp Gauge
+Close
+;M;M
+Turn anti-clockwise
+Turn clockwise
+Close Window
+4R4R
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Brooch
+Close Window
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+;X;X
+leftarrow_small,0
+rightarrow_small,0
+leftarrow_small,0
+rightarrow_small,0
+leftarrow_small,0
+rightarrow_small,0
+leftarrow_small,0
+rightarrow_small,0
+leftarrow_small,0
+rightarrow_small,0
+rightarrow_small,0
+leftarrow_small,0
+Close Window
+Name your cat ...
+E N T E R
+4N4N
+Close Window
+Congratulations!
+Close
+Well done, you defeated the Champion!
+You are awarded:
+%1 Slayer Xp
+%1 Hitpoint Xp
+sworddecor,1
+sworddecor,0
+\n\n\n\nChurn Cheese
+Churn Cheese
+What would you like to make in the churn?
+sworddecor,1
+sworddecor,0
+\n\n\n\nChurn Butter
+Churn Butter
+\n\n\n\nChurn Cheese
+Churn Cheese
+What would you like to make in the churn?
+sworddecor,1
+sworddecor,0
+\n\n\n\nChurn Cream
+Churn Cream
+\n\n\n\nChurn Butter
+Churn Butter
+\n\n\n\nChurn Cheese
+Churn Cheese
+What would you like to make?
+Weapon:
+Choose Attack Style
+combatboxes,1
+combatboxes,1
+combatboxes,0
+combatboxes,1
+Select
+combaticons,15
+prayeron,13
+Kick
+Aim and Fire
+(Aggressive)
+(Crush)
+Use @gre@Special Attack
+steelborder,1
+steelborder,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+S P E C I A L  A T T A C K
+@yel@S P E C I A L  A T T A C K
+Weapon:
+Choose Attack Style
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combatboxes,0
+combatboxes,1
+combaticons,19
+combaticons2,13
+combaticons2,14
+Bash
+Pound
+Block
+(Aggressive)
+(Accurate)
+(Defensive)
+(Crush)
+(Crush)
+(Crush)
+7Z7Z
+Are you sure you want to destroy this object?
+Yes.
+Destroy Object
+Cancel
+sworddecor,0
+sworddecor,1
+option2
+option2
+Name
+=`=`
+next
+back
+The Ballad of Jareesh
+Clad all in the robes for She
+we travelled north expediently.
+To beseech the guardians we were sent,
+so to the river's source we went.
+Through the cave we had to travel.
+There was mystery to unravel.
+We came upon a great stone door,
+but our priestess knew the score.
+She used the great ancestral key.
+We passed through very easily.
+Three great men all hewn of rock,
+the three small chambers they did block.
+The first all made of rock quite black,
+our fighting men went to attack.
+They went with Arrow, blade and spell,
+but the man they could not fell.
+Many men did fall that day,
+while others turned and ran away.
+I had little hope at all,
+as I watched my kinsmen fall.
+My warhammer I boldy heft
+and struck a blow which while was deft,
+should give scant harm to one so strong,
+or so I thought, nay I was wrong.
+The rock man fell down with a crash,
+which sent up clouds of dust and ash.
+Just myself left and alas,
+two more rockmen left to pass.
+Still buoyed on by my first success
+onwards bravely I did press.
+The next man was of rock hued  grey
+and this one next I planned to slay.
+Crushing blows I rained on him,
+but things were looking very grim.
+Not a scratch could I make.
+Anon my limbs began to ache.
+The rockman gave a mighty roar
+so fierce I hurried for the door.
+How to beat that second man,
+to this day I have no plan.
+My hammer never left a dent.
+I never reached whence I was sent.
+Close
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+tradebacking,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+tradebacking,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+tradebacking,0
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+tradebacking,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder2,0
+Amazing Farming Equipment Store
+Remove
+Remove 1
+Remove 5
+Remove All
+Remove X
+Close Window
+Farming rake
+Max: 1
+Seed dibber
+Max: 1
+All-purpose spade
+Max: 1
+Secateurs
+Max: 1
+Watering Can
+Watering Can (%2)
+Max: 1
+Gardening trowel
+Max: 1
+Empty buckets
+Max: 31
+Normal Compost
+Max: 255
+Super Compost
+Max: 255
+Store
+Store 1
+Store 5
+Store All
+Store X
+Rake
+Dibber
+Spade
+Secateurs
+Watering Can
+Trowel
+Buckets
+Compost
+Super Compost
+!?!?
+Close
+Close
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+!o!o
+"""!
+"$"#
+"&"%
+"("'
+"*")
+","+
+"."-
+"/"0
+"1"2
+"3"4
+"5"6
+"7"8
+"9":
+";"<
+"=">
+"?"@
+"A"B
+"C"D
+"E"F
+Close
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+"J"I
+"L"K
+"N"M
+"P"O
+"R"Q
+"T"S
+"V"U
+"X"W
+"Z"Y
+"\"[
+"^"]
+"`"_
+"b"a
+"d"c
+"f"e
+"h"g
+"j"i
+"l"k
+"n"m
+"p"o
+"r"q
+"t"s
+"v"u
+"x"w
+"z"y
+"|"{
+"~"}
+Close
+Close
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Set Junction
+Close Window
+lj10
+lj11
+Items I need to get for King Roald's garden:
+9>9>
+option1
+option1
+option3
+Both
+Argh!
+	Z	Z
+/2/2
+Five hundred years have passed since the rule of King Alvis,
+saviour of Keldagrim, victim of his own inventions.
+Founder of the Consortium, the gathering of mining companies
+that were to serve the monarchy, eventually the monarchy came
+to serve the Consortium.
+By the time of his death, the monarchy was all but abolished.
+By now, the Kings of Keldagrim are but a distant memory...
+with only the statue of King Alvis to remind the people of the
+old days.
+6i6i
+Line1
+Line2
+Click here to continue
+Close window.
+Rotate mirror.
+Close Window
+Closes Interface
+rightarrow,0
+leftarrow,0
+-Drogokishuun-\nGoblins of the\nFierce Blades
+-Huzamogaarb-\nLive-Flesh Eaters\nof the Chaos God
+-Saragorgak-\nFootsoldiers of\nHoly Wrath
+-Dorgeshuun-\nGoblins of the\nStrong Spears
+-Horogothgar-\nEaters of\nManflesh
+-Yurkolgokh-\nThe Flatulent
+-Thorobshuun-\nGoblins of the\nHills
+-Garagorshuun-\nGoblins of the\nSea
+-Rekeshuun-\nGoblins of the\nNorth
+-Ekeleshuun-\nGoblins of the\nEast
+-Idithuun-\nGoblins of the\nSouth
+-Narogoshuun-\nGoblins of the\nWest
+Goblin tradition holds that\ntheir race was created by\na war-god in order to\nfight a war against other\ngods.
+(They never name their\ngod, so whether it is the\nsame as any of the gods\nworshipped by the other\nraces is unknown.)
+The legends also speak\nof goblins fighting\nagainst goblins during\nthe wars, so it is likely\nthat gods other than\ntheir creators used\nthem as footsoldiers.
+Although goblins are still\nwarlike, it is probable\nthat in earlier ages\nthey were more\norganised than they\nare now,
+especially if they were\nunder the direct\ncommand of one or\nmore gods.
+This is corroborated\nby finds unearthed\nat various\narchaeological sites,\nincluding the large\nexcavation east of\nVarrock.
+Armour and weapons\nhave been found,\nobviously made to fit\ngoblins but far more\nwell-made than their\ncurrent equipment.
+Almost every piece of\nancient goblin equipment\nhas one of a number\nof symbols on it,\nand by correlating these\nsymbols with the\nsketchy records that\nsurvive from the\nThird Age it has been\npossible to identify\ntwelve distinct goblin tribes\nor regiments.
+The separate identities of\nthe tribes have long\nsince dissolved and\nno goblins remember the\nsymbols, although their\ngenerals may still\nrecognize the ancient\ntribal names.
+In the following pages\nI present a list of\nthe tribes and their\nsymbols.
+A....a lemming
+B....a fryingpan
+C....the disenfrachaised youth of 1940's Columbia
+Is this:
+Close Window
+select option A
+select option B
+select option C
+Close Window
+DIAMOND
+COINS
+RING
+U N L O C K
+U N L O C K
+Up (left)
+Up (middle)
+Up (right)
+Down (left)
+Down (middle)
+Down (right)
+8x8x
+Watch the statue! Fish here!
+Close
+7o7o
+Pick the odd one out.
+Text
+Close Window
+List of needed items:
+mourning_deathalter_item1
+mourning_deathalter_item2
+mourning_deathalter_item3
+mourning_deathalter_item4
+mourning_deathalter_item5
+mourning_deathalter_item6
+mourning_deathalter_item7
+mourning_deathalter_item8
+mourning_deathalter_item9
+mourning_deathalter_item10
+mourning_deathalter_item11
+mourning_deathalter_item12
+mourning_deathalter_item13
+mourning_deathalter_item14
+mourning_deathalter_item15
+mourning_deathalter_item16
+mourning_deathalter_item17
+mourning_deathalter_item18
+mourning_deathalter_item19
+mourning_deathalter_item20
+mourning_deathalter_item21
+mourning_deathalter_item22
+mourning_deathalter_item23
+mourning_deathalter_item24
+mourning_deathalter_item25
+mourning_deathalter_item26
+mourning_deathalter_item27
+mourning_deathalter_item28
+mourning_deathalter_item29
+mourning_deathalter_item30
+mourning_deathalter_item31
+mourning_deathalter_item32
+mourning_deathalter_item33
+mourning_deathalter_item34
+mourning_deathalter_item35
+mourning_deathalter_item36
+mourning_deathalter_item37
+mourning_deathalter_item38
+mourning_deathalter_item39
+mourning_deathalter_item40
+mourning_deathalter_item41
+mourning_deathalter_item42
+mourning_deathalter_item43
+mourning_deathalter_item44
+mourning_deathalter_item45
+mourning_deathalter_item46
+mourning_deathalter_item47
+mourning_deathalter_item48
+mourning_deathalter_item49
+mourning_deathalter_item50
+Select an Option
+option1
+option2
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+Select an Option
+option1
+option2
+option3
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+Select an Option
+option1
+option2
+option3
+option4
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+6M6M
+Select an Option
+option1
+option2
+option3
+option4
+option5
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+8k8k
+Select an Option
+option2
+option3
+sworddecor,1
+sworddecor,0
+sworddecor,1
+sworddecor,0
+Close Window
+Aim left
+Aim right
+Aim up
+Aim down
+FIRE!
+!U!U
+9H9H
+Pick
+Pick a kitten
+sworddecor,0
+sworddecor,1
+combatboxes,0
+combatboxes,0
+Players Cat
+Opponents Cat
+ACCEPT
+DECLINE
+Amount
+Amount
+(8(9
+Decrease Amount.
+(:(;
+Increase Amount.
+Text
+Text
+staticons2,4
+Your cat has been
+Defeated
+Close Window
+Page 1 of 8
+Raise an Octave.
+(s(t
+(u(v
+(w(x
+(y(z
+({(|
+(}(~
+PLAY
+Play your tune.
+Next page.
+Previous Page.
+Close Window
+staticons2,4
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+steelborder,2
+leftarrow,0
+rightarrow,0
+leftarrow,0
+rightarrow,0
+leftarrow,0
+rightarrow,0
+leftarrow,0
+rightarrow,0
+Combination Lock Door
+Close Window
+E N T E R
+open casket
+close window
+8*8*
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+Place-rune
+open casket
+close window
+Rotate-Clockwise
+Rotate-AntiClockwise
+Close Window
+Close Window
+Place a gear here!
+Place a gear here!
+Place a gear here!
+Close Window
+:F:F
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,0
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Silver Casting
+Close Window
+Make 1
+Make 5
+Make 10
+Make\n Saradomin \nSymbol
+You need a \nHoly Symbol\n mould to make\n this item.
+Make 1
+Make 5
+Make 10
+Make\n Zamorak\nSymbol
+You need an \nUnholy Symbol\n mould to make\n this item.
+Make 1
+Make 5
+Make 10
+Make\nSilver\nSickle
+You need a \nsickle mould\n to make\n this item.
+Make 1
+Make 5
+Make 10
+Make\nLightning\nRod
+You need a \nlightning \nrod mould\n to make\n this item.
+Make 1
+Make 5
+Make 10
+Make\nTiara
+You need a\n Tiara Mould \nto make\n a tiara.
+Make 1
+Make 5
+Make 10
+Make \nSilvthrill \nRod
+You need a \n Rod mould \nto make this \nitem.
+Make 1
+Make 5
+Make 10
+Make demonic\nsigil
+You need a\n demonic sigil\nmould to make\nthis item.
+sworddecor,1
+sworddecor,0
+Cook All
+Cook X
+Cook 5
+Cook 1
+How many would you like to cook?
+sworddecor,1
+sworddecor,0
+Make All
+Make X
+Make 5
+Make 1
+How many would you like to make?
+7k7k
+@gre@Value
+Pack @red@1
+Pack @red@5
+Pack @red@All
+Pack @red@X
+Close
+@yel@Tai Bwo Wannai @red@ Parcel Service
+9N9N
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+steelborder2,0
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+What hides would you like tanning?
+Close Window
+Hide
+Hide
+Hide
+Hide
+Hide
+Hide
+Hide
+Hide
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Cost
+Tan @or2@All
+Tan @or2@All
+Tan @or2@All
+Tan @or2@All
+Tan @or2@All
+Tan @or2@All
+Tan @or2@All
+Tan @or2@All
+Tan @or2@X
+Tan @or2@X
+Tan @or2@X
+Tan @or2@X
+Tan @or2@X
+Tan @or2@X
+Tan @or2@X
+Tan @or2@X
+Tan @or2@5
+Tan @or2@5
+Tan @or2@5
+Tan @or2@5
+Tan @or2@5
+Tan @or2@5
+Tan @or2@5
+Tan @or2@5
+Tan @or2@1
+Tan @or2@1
+Tan @or2@1
+Tan @or2@1
+Tan @or2@1
+Tan @or2@1
+Tan @or2@1
+Tan @or2@1
+DuDu
+Close Window
+Click arrow buttons to move taper.
+Press the Light button to light the
+candles.
+Current Champion: TzHaar-Xil-Huz
+Foes Remaining: %1
+You're the Winner!
+miscgraphics,7
+miscgraphics,7
+miscgraphics,7
+miscgraphics,8
+miscgraphics,8
+Stop Viewing
+Centre
+View
+North-West
+View
+North-East
+View
+South-East
+View
+South-West
+View
+miscgraphics,7
+miscgraphics,7
+miscgraphics,7
+miscgraphics,8
+miscgraphics,8
+Unmorph
+7~7~
+%1 %
+@gre@* @yel@Tai Bwo Favour @gre@*
+titlescroll,0
+button_brown_big,0
+button_brown_big,0
+button_brown_big,0
+button_brown_big,0
+button_red,0
+letter,0
+key,0
+coins,0
+chest,0
+startgame,0
+Welcome to Runescape
+You last logged in @red@%1@bla@ days ago from @red@%2
+1\n2\n3\n4\n5\n6
+Jagex Staff will NEVER email you.\n We use the message centre on this \nwebsite instead.
+You have %1 unread messages\nin your message centre.
+1\n2\n3\n4\n5
+CLICK HERE TO PLAY
+1\n2\n3\n4
+To view your messages:\n1) Logout and return to the frontpage of this website.\n2) Choose 'Read your messages from Jagex'.
+To start or cancel a subscription:\n1) Logout and return to the frontpage of this website.\n2) Choose the relevant option from the 'membership' section.\n\nNote: If you are a credit card subscriber a top-up payment will\nautomatically be taken when 3 days credit remain.\n(unless you cancel your subscription, which can be done \nat any time.)
+To change your recovery questions:\n1) Logout and return to the frontpage of this website.\n2) Choose 'Set new recovery questions'.
+5{5{
+wom1
+wom2
+wom3
+wom4
+wom5
+wom6
+wom7
+wom8
+wom9
+wom10
+wom11
+wom12
+wom13
+wom14
+wom15
+wom16
+Close
+Close
+Paint yellow
+Paint yellow
+Paint red
+Paint green
+Paint pink
+Paint blue
+Pick a colour
+Alchemy
+Pizazz Points:
+9999
+Leather Boots:
+Adamant Kiteshield:
+Adamant Helm:
+Emerald:
+Rune Longsword:
+>->-
+Enchantment
+Pizazz Points:
+9999
+Bonus:
+>;>;
+Graveyard
+Pizazz Points:
+9999
+>H>H
+Value
+Close Window
+Magic Training Arena Shop
+Telekinetic Pizazz Points
+Enchantment Pizazz Points
+Graveyard Pizazz Points
+Alchemist Pizazz Points
+99999
+99999
+99999
+99999
+(Upgrade)
+(Upgrade)
+(Upgrade)
+>Z>Z
+Telekinetic
+Pizazz Points:
+999999
+Solved :
+Close Window
+line1
+line2
+line3
+line4
+line5
+line6
+line7
+line8
+line9
+line10
+line11
+line12
+line13
+line14
+line15
+line16
+line17
+line18
+line19
+line20
+line21
+line22
+line23
+line24
+line25
+line26
+line27
+line28
+line28
+line29
+leftarrow,0
+rightarrow,0
+page%1
+page%2
+First Page
+Close window
+Pop the correct balloon animal to find a key
+Choose refreshment
+Choose refreshment
+Choose refreshment
+Choose refreshment
+Choose refreshment
+Choose refreshment
+Choose refreshment
+Close Window
+Choose your refreshment from the sandwich tray
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Insert a very long name here!
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Insert a very long name here!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Turn:
+Runesquares
+Resign
+Offer your opponent a draw
+Offer draw
+steelborder2,0
+steelborder2,0
+A very long name
+miscgraphics,3
+steelborder,0
+steelborder,0
+steelborder,1
+steelborder,1
+steelborder,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+steelborder,3
+Blah blah blah blah blah blah blah!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+Blah blah blah blah blah blah blah!
+Blah blah blah blah blah!
+Close
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+GiGi
+Line1
+Build Stable Dugout
+Build Dugout Canoe
+Make Log Canoe
+Close Window
+Make Waka Canoe
+A Stable Dugout.
+A Waka.
+A Dugout.
+A Log.
+WHAT SORT OF CANOE WOULD YOU LIKE TO MAKE   ?
+Make log canoe
+Make dugout canoe
+Make stable dugout canoe
+Make waka canoe
+Runesquares
+Rank: %1
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Insert a very long name here!
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Insert a very long name here!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Blah blah blah blah blah blah blah!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+Blah blah blah blah blah blah blah!
+Blah blah blah blah blah!
+Close
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+Runesquares
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Insert a very long name here!
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Insert a very long name here!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Turn:
+Runeversi
+Resign
+Offer your opponent a draw
+Offer draw
+steelborder2,0
+steelborder2,0
+A very long name
+miscgraphics,3
+steelborder,0
+steelborder,0
+steelborder,1
+steelborder,1
+steelborder,2
+steelborder,2
+steelborder,3
+miscgraphics,3
+steelborder,3
+Blah blah blah blah blah blah blah!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+Blah blah blah blah blah blah blah!
+Blah blah blah blah blah!
+Close
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,2
+steelborder,1
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Runeversi: Options
+Challenge player
+Challenge
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+Close Window
+30 seconds
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+1 minute
+Select option
+2 minutes
+Select option
+15 seconds
+Select option
+Time per move:
+miscgraphics,10
+miscgraphics,11
+Select piece
+Select piece
+Choose piece:
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+miscgraphics,10
+miscgraphics,11
+Select piece
+Ranked
+Select option
+miscgraphics,10
+miscgraphics,11
+Select option
+C$C$
+Runeversi
+Rank: %1
+C(C(
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,2
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Insert a very long name here!
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+steelborder2,0
+steelborder,3
+miscgraphics,3
+Insert a very long name here!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+Runeversi
+Blah blah blah blah blah blah blah!
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+Blah blah blah blah blah blah blah!
+Blah blah blah blah blah!
+Close
+steelborder2,0
+steelborder,0
+steelborder,1
+steelborder,2
+steelborder,3
+miscgraphics,3
+DgDg
+Your password is only as safe as your computer.
+Install anti-virus software!
+Message of the week
+DrDr
+Close Window
+Close Window
+Close Window
+Close Window
+EnEn
+Close Window
+Close Window
+Close Window
+Close Window
+Close
+Certificate of Advanced Healing
+From PoxStead College.
+Signed Dr Foster-MMD, PRD
+Head Of Magical Healing.
+List of Fairy Queen's Symptoms.
+Close
+ Extremely weak
+High fever
+Drifting in and out of coma 
+Shallow breath
+Fading magical energy
+Slow discorporation of ethereal body
+5959
+G,G,
+Close Window
+0G0H
+0G0H
+0G0H
+0G0H
+Lumbridge
+Champions \nGuild
+ Station
+Barbarian \n Village
+Edgeville
+Wilderness Pond - \nNo canoe trees here.
+Travel to Lumbridge.
+Travel to the Champions Guild.
+Travel to Barbarian Village.
+DANGER: Travel to the Wilderness. There are no canoe trees up there!
+You are here
+Travel to Edgeville.
+Wilderness Pond - \nNo canoe trees here.
+You are here
+You are here
+You are here
+Please Select \nYour Destination
+You are in Lumbridge.
+You are near the Champions Guild.
+You are at the Barbarian Village.
+You are in Edgeville.
+GlGl
+Line1
+Line1
+GpGp
+Line1
+Line1
+Line1
+GuGu
+Line1
+Line1
+Line1
+Line1
+5+5*
+5+5*
+5+5*
+5+5*
+5+5*
+G{G{
+combatboxes,0
+Yes.
+combatboxes,0
+Do you really want to bet X!
+Dwarf
+Quest Journal
+Wartface & Bentnoze
+Quest Journal
+Pirate Pete
+Quest Journal
+Lumbridge Guide
+Quest Journal
+Evil Dave
+Quest Journal
+Skrach 'Bone Cruncher' Uglogwee
+Quest Journal
+Sir Amik Varze
+Quest Journal
+Monkey Ambassador
+Quest Journal
+Close Window
+Recipe for Disaster
+This quest is comprised of the 8 mini quests highlighted below
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tex_brown,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder,2
+miscgraphics,3
+Close Window
+5959
+H]H]
+Canifis
+Mort Myre\nSwamp
+Hollows
+Mort'ton
+Burgh de\nRott
+Graveyard
+Temple
+Route1
+Route 1
+Route 1
+Route2
+Route 2
+Route 2
+Route 1:\n\nTake the route through\nCanifis.\n\nShorter but potentially\nmore dangerous.
+Route 2:\n\nTake the route through\nMort Myre Swamp.\n\nLonger but less likely\nto be attacked.
+Close Window
+Choose your path
+H3H3
+close window
+HAHA
+Close window
+Close Window
+Burgh
+Mort'ton
+Canifis
+Mort
+DeRott
+Myre
+Swamp
+Hollows
+Choose a route
+Route One
+Route One
+Route Two
+Route Two
+Route Three
+Route Three
+Temple
+Slow plod, \ncan evade \nencounters.
+Leisurely walk, \nharder to evade \nencounters.
+Brisk walk, \nimpossible to \nevade encounters.
+Rage level. 
+Text
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder,0
+miscgraphics,2
+tradebacking,0
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+miscgraphics,2
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+steelborder2,1
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+miscgraphics,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+tradebacking,0
+steelborder2,0
+miscgraphics,3
+steelborder,2
+steelborder,1
+tradebacking,0
+steelborder,3
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+tradebacking,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+steelborder2,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+tradebacking,0
+steelborder2,0
+Void Knights' Training Options
+Cancel
+staticons,0
+Choose @or2@Attack@whi@ xp
+staticons,1
+Choose @or2@Strength@whi@ xp
+staticons,2
+Choose @or2@Defence@whi@ xp
+staticons,3
+Choose @or2@Ranged@whi@ xp
+staticons,5
+Choose @or2@Magic@whi@ xp
+staticons,6
+Choose @or2@Hitpoints@whi@ xp
+staticons,4
+Choose @or2@Prayer@whi@ xp
+Attack
+Choose @or2@Attack@whi@ xp
+Strength
+Choose @or2@Strength@whi@ xp
+Defence
+Choose @or2@Defence@whi@ xp
+Ranged
+Choose @or2@Ranged@whi@ xp
+Magic
+Choose @or2@Magic@whi@ xp
+Hitpoints
+Choose @or2@Hitpoints@whi@ xp
+Prayer
+Choose @or2@Prayer@whi@ xp
+steelborder,2
+steelborder,1
+steelborder,0
+steelborder,3
+steelborder2,0
+Confirm
+Confirm:
+miscgraphics,3
+Points: %1
+You have %1 point.
