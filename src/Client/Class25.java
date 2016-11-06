@@ -37,8 +37,8 @@ public class Class25
 		anIntArray473 = null;
 		aClass47ArrayArray474 = null;
 		aClass19_477 = null;
-		aBooleanArrayArrayArrayArray491 = null;
-		aBooleanArrayArray492 = null;
+		tileVisible = null;
+		tilesVisibleForThisAngle = null;
 	}
 
 	public void method274(int i)
@@ -920,7 +920,7 @@ public class Class25
 		anInt498 = l;
 		anInt493 = k / 2;
 		anInt494 = l / 2;
-		boolean aflag[][][][] = new boolean[9][32][53][53];
+		boolean aflag[][][][] = new boolean[9][32][2*(viewDistance+1)+1][2*(viewDistance+1)+1];
 		if(flag)
 			anInt433 = 168;
 		for(int i1 = 128; i1 <= 384; i1 += 32)
@@ -931,24 +931,24 @@ public class Class25
 				anInt459 = Class30_Sub2_Sub4_Sub6.anIntArray1690[i1];
 				anInt460 = Class30_Sub2_Sub4_Sub6.anIntArray1689[j1];
 				anInt461 = Class30_Sub2_Sub4_Sub6.anIntArray1690[j1];
-				int l1 = (i1 - 128) / 32;
-				int j2 = j1 / 64;
-				for(int l2 = -26; l2 <= 26; l2++)
+				int cameraAngleVert = (i1 - 128) / 32;
+				int cameraAngleHoriz = j1 / 64;
+				for(int eastWestTile = -(viewDistance+1); eastWestTile <= (viewDistance+1); eastWestTile++)
 				{
-					for(int j3 = -26; j3 <= 26; j3++)
+					for(int southNorthTile = -(viewDistance+1); southNorthTile <= (viewDistance+1); southNorthTile++)
 					{
-						int k3 = l2 * 128;
-						int i4 = j3 * 128;
-						boolean flag2 = false;
+						int k3 = eastWestTile * 128;
+						int i4 = southNorthTile * 128;
+						boolean isVisible = false;
 						for(int k4 = -i; k4 <= j; k4 += 128)
 						{
-							if(!method311((byte)9, ai[l1] + k4, i4, k3))
+							if(!method311((byte)9, ai[cameraAngleVert] + k4, i4, k3))
 								continue;
-							flag2 = true;
+							isVisible = true;
 							break;
 						}
 
-						aflag[l1][j2][l2 + 25 + 1][j3 + 25 + 1] = flag2;
+						aflag[cameraAngleVert][cameraAngleHoriz][eastWestTile + (viewDistance+1)][southNorthTile + (viewDistance+1)] = isVisible;
 					}
 
 				}
@@ -957,41 +957,47 @@ public class Class25
 
 		}
 
-		for(int k1 = 0; k1 < 8; k1++)
+		for(int cameraAngleVert = 0; cameraAngleVert < verticalCameraAngles; cameraAngleVert++)
 		{
-			for(int i2 = 0; i2 < 32; i2++)
+			for(int cameraAngleHoriz = 0; cameraAngleHoriz < horizontalCameraAngles; cameraAngleHoriz++)
 			{
-				for(int k2 = -25; k2 < 25; k2++)
+				for(int eastWestTile = -viewDistance; eastWestTile < viewDistance; eastWestTile++)
 				{
-					for(int i3 = -25; i3 < 25; i3++)
+					for(int southNorthTile = -viewDistance; southNorthTile < viewDistance; southNorthTile++)
 					{
-						boolean flag1 = false;
+						/*
+						 * Find the boundaries of what tiles are shown from which angle.
+						 */
+						boolean isVisible = false;
 						label0:
-							for(int l3 = -1; l3 <= 1; l3++)
+							for(int eastWestNearestTiles = -1; eastWestNearestTiles <= 1; eastWestNearestTiles++)
 							{
-								for(int j4 = -1; j4 <= 1; j4++)
+								for(int southNorthNearestTiles = -1; southNorthNearestTiles <= 1; southNorthNearestTiles++)
 								{
-									if(aflag[k1][i2][k2 + l3 + 25 + 1][i3 + j4 + 25 + 1])
-										flag1 = true;
+									if(aflag[cameraAngleVert][cameraAngleHoriz][eastWestTile + eastWestNearestTiles + (viewDistance+1)][southNorthTile + southNorthNearestTiles + (viewDistance+1)])
+									{
+										isVisible = true;
+									}
+									else if(aflag[cameraAngleVert][(cameraAngleHoriz + 1) % (horizontalCameraAngles-1)][eastWestTile + eastWestNearestTiles + (viewDistance+1)][southNorthTile + southNorthNearestTiles + (viewDistance+1)])
+									{
+										isVisible = true;
+									}
+									else if(aflag[cameraAngleVert + 1][cameraAngleHoriz][eastWestTile + eastWestNearestTiles + (viewDistance+1)][southNorthTile + southNorthNearestTiles + (viewDistance+1)])
+									{
+										isVisible = true;
+									}
 									else
-										if(aflag[k1][(i2 + 1) % 31][k2 + l3 + 25 + 1][i3 + j4 + 25 + 1])
-											flag1 = true;
-										else
-											if(aflag[k1 + 1][i2][k2 + l3 + 25 + 1][i3 + j4 + 25 + 1])
-											{
-												flag1 = true;
-											} else
-											{
-												if(!aflag[k1 + 1][(i2 + 1) % 31][k2 + l3 + 25 + 1][i3 + j4 + 25 + 1])
-													continue;
-												flag1 = true;
-											}
+									{
+										if(!aflag[cameraAngleVert + 1][(cameraAngleHoriz + 1) % (horizontalCameraAngles-1)][eastWestTile + eastWestNearestTiles + (viewDistance+1)][southNorthTile + southNorthNearestTiles + (viewDistance+1)])
+											continue;
+										isVisible = true;
+									}
 									break label0;
 								}
 
 							}
 
-						aBooleanArrayArrayArrayArray491[k1][i2][k2 + 25][i3 + 25] = flag1;
+						tileVisible[cameraAngleVert][cameraAngleHoriz][eastWestTile + viewDistance][southNorthTile + viewDistance] = isVisible;
 					}
 
 				}
@@ -1002,6 +1008,14 @@ public class Class25
 
 	}
 
+	/**
+	 * Calculates wether or not the current tile should be visible or not.
+	 * @param byte0
+	 * @param i
+	 * @param j
+	 * @param k
+	 * @return
+	 */
 	public static boolean method311(byte byte0, int i, int j, int k)
 	{
 		int l = j * anInt460 + k * anInt461 >> 16;
@@ -1049,23 +1063,24 @@ public class Class25
 			return;
 		anInt460 = Class30_Sub2_Sub4_Sub6.anIntArray1689[k];
 		anInt461 = Class30_Sub2_Sub4_Sub6.anIntArray1690[k];
-		aBooleanArrayArray492 = aBooleanArrayArrayArrayArray491[(j1 - 128) / 32][k / 64];
-		anInt455 = i;
+		// aBooleanArrayArray492 contains all visible tiles of a specific angle
+		tilesVisibleForThisAngle = tileVisible[(j1 - 128) / 32][k / 64];
+		cameraPosXPix = i;
 		anInt456 = l;
-		anInt457 = j;
-		anInt453 = i / 128;
-		anInt454 = j / 128;
+		cameraPosYPix = j;
+		cameraPosXTile = i / 128;
+		cameraPosYTile = j / 128;
 		anInt447 = i1;
-		anInt449 = anInt453 - 25;
+		anInt449 = cameraPosXTile - viewDistance;
 		if(anInt449 < 0)
 			anInt449 = 0;
-		anInt451 = anInt454 - 25;
+		anInt451 = cameraPosYTile - viewDistance;
 		if(anInt451 < 0)
 			anInt451 = 0;
-		anInt450 = anInt453 + 25;
+		anInt450 = cameraPosXTile + viewDistance;
 		if(anInt450 > anInt438)
 			anInt450 = anInt438;
-		anInt452 = anInt454 + 25;
+		anInt452 = cameraPosYTile + viewDistance;
 		if(anInt452 > anInt439)
 			anInt452 = anInt439;
 		method319(0);
@@ -1081,7 +1096,7 @@ public class Class25
 				{
 					Class30_Sub3 class30_sub3 = aclass30_sub3[i2][k2];
 					if(class30_sub3 != null)
-						if(class30_sub3.anInt1321 > i1 || !aBooleanArrayArray492[(i2 - anInt453) + 25][(k2 - anInt454) + 25] && anIntArrayArrayArray440[k1][i2][k2] - l < 2000)
+						if(class30_sub3.anInt1321 > i1 || !tilesVisibleForThisAngle[(i2 - cameraPosXTile) + viewDistance][(k2 - cameraPosYTile) + viewDistance] && anIntArrayArrayArray440[k1][i2][k2] - l < 2000)
 						{
 							class30_sub3.aBoolean1322 = false;
 							class30_sub3.aBoolean1323 = false;
@@ -1106,14 +1121,14 @@ public class Class25
 			Class30_Sub3 aclass30_sub3_1[][] = aClass30_Sub3ArrayArrayArray441[l1];
 			for(int l2 = -25; l2 <= 0; l2++)
 			{
-				int i3 = anInt453 + l2;
-				int k3 = anInt453 - l2;
+				int i3 = cameraPosXTile + l2;
+				int k3 = cameraPosXTile - l2;
 				if(i3 >= anInt449 || k3 < anInt450)
 				{
 					for(int i4 = -25; i4 <= 0; i4++)
 					{
-						int k4 = anInt454 + i4;
-						int i5 = anInt454 - i4;
+						int k4 = cameraPosYTile + i4;
+						int i5 = cameraPosYTile - i4;
 						if(i3 >= anInt449)
 						{
 							if(k4 >= anInt451)
@@ -1160,14 +1175,14 @@ public class Class25
 			Class30_Sub3 aclass30_sub3_2[][] = aClass30_Sub3ArrayArrayArray441[j2];
 			for(int j3 = -25; j3 <= 0; j3++)
 			{
-				int l3 = anInt453 + j3;
-				int j4 = anInt453 - j3;
+				int l3 = cameraPosXTile + j3;
+				int j4 = cameraPosXTile - j3;
 				if(l3 >= anInt449 || j4 < anInt450)
 				{
 					for(int l4 = -25; l4 <= 0; l4++)
 					{
-						int j5 = anInt454 + l4;
-						int k5 = anInt454 - l4;
+						int j5 = cameraPosYTile + l4;
+						int k5 = cameraPosYTile - l4;
 						if(l3 >= anInt449)
 						{
 							if(j5 >= anInt451)
@@ -1239,25 +1254,25 @@ public class Class25
 						if(class30_sub3_2 != null && class30_sub3_2.aBoolean1323)
 							continue;
 					}
-					if(i <= anInt453 && i > anInt449)
+					if(i <= cameraPosXTile && i > anInt449)
 					{
 						Class30_Sub3 class30_sub3_3 = aclass30_sub3[i - 1][j];
 						if(class30_sub3_3 != null && class30_sub3_3.aBoolean1323 && (class30_sub3_3.aBoolean1322 || (class30_sub3_1.anInt1320 & 1) == 0))
 							continue;
 					}
-					if(i >= anInt453 && i < anInt450 - 1)
+					if(i >= cameraPosXTile && i < anInt450 - 1)
 					{
 						Class30_Sub3 class30_sub3_4 = aclass30_sub3[i + 1][j];
 						if(class30_sub3_4 != null && class30_sub3_4.aBoolean1323 && (class30_sub3_4.aBoolean1322 || (class30_sub3_1.anInt1320 & 4) == 0))
 							continue;
 					}
-					if(j <= anInt454 && j > anInt451)
+					if(j <= cameraPosYTile && j > anInt451)
 					{
 						Class30_Sub3 class30_sub3_5 = aclass30_sub3[i][j - 1];
 						if(class30_sub3_5 != null && class30_sub3_5.aBoolean1323 && (class30_sub3_5.aBoolean1322 || (class30_sub3_1.anInt1320 & 8) == 0))
 							continue;
 					}
-					if(j >= anInt454 && j < anInt452 - 1)
+					if(j >= cameraPosYTile && j < anInt452 - 1)
 					{
 						Class30_Sub3 class30_sub3_6 = aclass30_sub3[i][j + 1];
 						if(class30_sub3_6 != null && class30_sub3_6.aBoolean1323 && (class30_sub3_6.aBoolean1322 || (class30_sub3_1.anInt1320 & 2) == 0))
@@ -1280,12 +1295,12 @@ public class Class25
 							method316(i, (byte)99, anInt458, anInt460, class30_sub3_7.aClass40_1312, anInt459, j, anInt461);
 					Class10 class10 = class30_sub3_7.aClass10_1313;
 					if(class10 != null)
-						class10.aClass30_Sub2_Sub4_278.method443(0, anInt458, anInt459, anInt460, anInt461, class10.anInt274 - anInt455, class10.anInt273 - anInt456, class10.anInt275 - anInt457, class10.anInt280);
+						class10.aClass30_Sub2_Sub4_278.method443(0, anInt458, anInt459, anInt460, anInt461, class10.anInt274 - cameraPosXPix, class10.anInt273 - anInt456, class10.anInt275 - cameraPosYPix, class10.anInt280);
 					for(int i2 = 0; i2 < class30_sub3_7.anInt1317; i2++)
 					{
 						Class28 class28 = class30_sub3_7.aClass28Array1318[i2];
 						if(class28 != null)
-							class28.aClass30_Sub2_Sub4_521.method443(class28.anInt522, anInt458, anInt459, anInt460, anInt461, class28.anInt519 - anInt455, class28.anInt518 - anInt456, class28.anInt520 - anInt457, class28.anInt529);
+							class28.aClass30_Sub2_Sub4_521.method443(class28.anInt522, anInt458, anInt459, anInt460, anInt461, class28.anInt519 - cameraPosXPix, class28.anInt518 - anInt456, class28.anInt520 - cameraPosYPix, class28.anInt529);
 					}
 
 				}
@@ -1309,15 +1324,15 @@ public class Class25
 				Class26 class26_1 = class30_sub3_1.aClass26_1314;
 				if(class10_3 != null || class26_1 != null)
 				{
-					if(anInt453 == i)
+					if(cameraPosXTile == i)
 						j1++;
 					else
-						if(anInt453 < i)
+						if(cameraPosXTile < i)
 							j1 += 2;
-					if(anInt454 == j)
+					if(cameraPosYTile == j)
 						j1 += 3;
 					else
-						if(anInt454 > j)
+						if(cameraPosYTile > j)
 							j1 += 6;
 					j2 = anIntArray478[j1];
 					class30_sub3_1.anInt1328 = anIntArray480[j1];
@@ -1354,19 +1369,19 @@ public class Class25
 						class30_sub3_1.anInt1325 = 0;
 					}
 					if((class10_3.anInt276 & j2) != 0 && !method321(l, i, j, class10_3.anInt276))
-						class10_3.aClass30_Sub2_Sub4_278.method443(0, anInt458, anInt459, anInt460, anInt461, class10_3.anInt274 - anInt455, class10_3.anInt273 - anInt456, class10_3.anInt275 - anInt457, class10_3.anInt280);
+						class10_3.aClass30_Sub2_Sub4_278.method443(0, anInt458, anInt459, anInt460, anInt461, class10_3.anInt274 - cameraPosXPix, class10_3.anInt273 - anInt456, class10_3.anInt275 - cameraPosYPix, class10_3.anInt280);
 					if((class10_3.anInt277 & j2) != 0 && !method321(l, i, j, class10_3.anInt277))
-						class10_3.aClass30_Sub2_Sub4_279.method443(0, anInt458, anInt459, anInt460, anInt461, class10_3.anInt274 - anInt455, class10_3.anInt273 - anInt456, class10_3.anInt275 - anInt457, class10_3.anInt280);
+						class10_3.aClass30_Sub2_Sub4_279.method443(0, anInt458, anInt459, anInt460, anInt461, class10_3.anInt274 - cameraPosXPix, class10_3.anInt273 - anInt456, class10_3.anInt275 - cameraPosYPix, class10_3.anInt280);
 				}
 				if(class26_1 != null && !method322(l, i, j, class26_1.aClass30_Sub2_Sub4_504.anInt1426))
 					if((class26_1.anInt502 & j2) != 0)
-						class26_1.aClass30_Sub2_Sub4_504.method443(class26_1.anInt503, anInt458, anInt459, anInt460, anInt461, class26_1.anInt500 - anInt455, class26_1.anInt499 - anInt456, class26_1.anInt501 - anInt457, class26_1.anInt505);
+						class26_1.aClass30_Sub2_Sub4_504.method443(class26_1.anInt503, anInt458, anInt459, anInt460, anInt461, class26_1.anInt500 - cameraPosXPix, class26_1.anInt499 - anInt456, class26_1.anInt501 - cameraPosYPix, class26_1.anInt505);
 					else
 						if((class26_1.anInt502 & 0x300) != 0)
 						{
-							int j4 = class26_1.anInt500 - anInt455;
+							int j4 = class26_1.anInt500 - cameraPosXPix;
 							int l5 = class26_1.anInt499 - anInt456;
-							int k6 = class26_1.anInt501 - anInt457;
+							int k6 = class26_1.anInt501 - cameraPosYPix;
 							int i8 = class26_1.anInt503;
 							int k9;
 							if(i8 == 1 || i8 == 2)
@@ -1395,40 +1410,40 @@ public class Class25
 				{
 					Class49 class49 = class30_sub3_1.aClass49_1315;
 					if(class49 != null)
-						class49.aClass30_Sub2_Sub4_814.method443(0, anInt458, anInt459, anInt460, anInt461, class49.anInt812 - anInt455, class49.anInt811 - anInt456, class49.anInt813 - anInt457, class49.anInt815);
+						class49.aClass30_Sub2_Sub4_814.method443(0, anInt458, anInt459, anInt460, anInt461, class49.anInt812 - cameraPosXPix, class49.anInt811 - anInt456, class49.anInt813 - cameraPosYPix, class49.anInt815);
 					Class3 class3_1 = class30_sub3_1.aClass3_1316;
 					if(class3_1 != null && class3_1.anInt52 == 0)
 					{
 						if(class3_1.aClass30_Sub2_Sub4_49 != null)
-							class3_1.aClass30_Sub2_Sub4_49.method443(0, anInt458, anInt459, anInt460, anInt461, class3_1.anInt46 - anInt455, class3_1.anInt45 - anInt456, class3_1.anInt47 - anInt457, class3_1.anInt51);
+							class3_1.aClass30_Sub2_Sub4_49.method443(0, anInt458, anInt459, anInt460, anInt461, class3_1.anInt46 - cameraPosXPix, class3_1.anInt45 - anInt456, class3_1.anInt47 - cameraPosYPix, class3_1.anInt51);
 						if(class3_1.aClass30_Sub2_Sub4_50 != null)
-							class3_1.aClass30_Sub2_Sub4_50.method443(0, anInt458, anInt459, anInt460, anInt461, class3_1.anInt46 - anInt455, class3_1.anInt45 - anInt456, class3_1.anInt47 - anInt457, class3_1.anInt51);
+							class3_1.aClass30_Sub2_Sub4_50.method443(0, anInt458, anInt459, anInt460, anInt461, class3_1.anInt46 - cameraPosXPix, class3_1.anInt45 - anInt456, class3_1.anInt47 - cameraPosYPix, class3_1.anInt51);
 						if(class3_1.aClass30_Sub2_Sub4_48 != null)
-							class3_1.aClass30_Sub2_Sub4_48.method443(0, anInt458, anInt459, anInt460, anInt461, class3_1.anInt46 - anInt455, class3_1.anInt45 - anInt456, class3_1.anInt47 - anInt457, class3_1.anInt51);
+							class3_1.aClass30_Sub2_Sub4_48.method443(0, anInt458, anInt459, anInt460, anInt461, class3_1.anInt46 - cameraPosXPix, class3_1.anInt45 - anInt456, class3_1.anInt47 - cameraPosYPix, class3_1.anInt51);
 					}
 				}
 				int k4 = class30_sub3_1.anInt1320;
 				if(k4 != 0)
 				{
-					if(i < anInt453 && (k4 & 4) != 0)
+					if(i < cameraPosXTile && (k4 & 4) != 0)
 					{
 						Class30_Sub3 class30_sub3_17 = aclass30_sub3[i + 1][j];
 						if(class30_sub3_17 != null && class30_sub3_17.aBoolean1323)
 							aClass19_477.method249(class30_sub3_17);
 					}
-					if(j < anInt454 && (k4 & 2) != 0)
+					if(j < cameraPosYTile && (k4 & 2) != 0)
 					{
 						Class30_Sub3 class30_sub3_18 = aclass30_sub3[i][j + 1];
 						if(class30_sub3_18 != null && class30_sub3_18.aBoolean1323)
 							aClass19_477.method249(class30_sub3_18);
 					}
-					if(i > anInt453 && (k4 & 1) != 0)
+					if(i > cameraPosXTile && (k4 & 1) != 0)
 					{
 						Class30_Sub3 class30_sub3_19 = aclass30_sub3[i - 1][j];
 						if(class30_sub3_19 != null && class30_sub3_19.aBoolean1323)
 							aClass19_477.method249(class30_sub3_19);
 					}
-					if(j > anInt454 && (k4 & 8) != 0)
+					if(j > cameraPosYTile && (k4 & 8) != 0)
 					{
 						Class30_Sub3 class30_sub3_20 = aclass30_sub3[i][j - 1];
 						if(class30_sub3_20 != null && class30_sub3_20.aBoolean1323)
@@ -1451,7 +1466,7 @@ public class Class25
 				{
 					Class10 class10_1 = class30_sub3_1.aClass10_1313;
 					if(!method321(l, i, j, class10_1.anInt276))
-						class10_1.aClass30_Sub2_Sub4_278.method443(0, anInt458, anInt459, anInt460, anInt461, class10_1.anInt274 - anInt455, class10_1.anInt273 - anInt456, class10_1.anInt275 - anInt457, class10_1.anInt280);
+						class10_1.aClass30_Sub2_Sub4_278.method443(0, anInt458, anInt459, anInt460, anInt461, class10_1.anInt274 - cameraPosXPix, class10_1.anInt273 - anInt456, class10_1.anInt275 - cameraPosYPix, class10_1.anInt280);
 					class30_sub3_1.anInt1325 = 0;
 				}
 			}
@@ -1498,12 +1513,12 @@ public class Class25
 							}
 
 							aClass28Array462[l1++] = class28_1;
-							int i5 = anInt453 - class28_1.anInt523;
-							int i6 = class28_1.anInt524 - anInt453;
+							int i5 = cameraPosXTile - class28_1.anInt523;
+							int i6 = class28_1.anInt524 - cameraPosXTile;
 							if(i6 > i5)
 								i5 = i6;
-							int i7 = anInt454 - class28_1.anInt525;
-							int j8 = class28_1.anInt526 - anInt454;
+							int i7 = cameraPosYTile - class28_1.anInt525;
+							int j8 = class28_1.anInt526 - cameraPosYTile;
 							if(j8 > i7)
 								class28_1.anInt527 = i5 + j8;
 							else
@@ -1525,10 +1540,10 @@ public class Class25
 								} else
 									if(class28_2.anInt527 == i3)
 									{
-										int j7 = class28_2.anInt519 - anInt455;
-										int k8 = class28_2.anInt520 - anInt457;
-										int l9 = aClass28Array462[l3].anInt519 - anInt455;
-										int l10 = aClass28Array462[l3].anInt520 - anInt457;
+										int j7 = class28_2.anInt519 - cameraPosXPix;
+										int k8 = class28_2.anInt520 - cameraPosYPix;
+										int l9 = aClass28Array462[l3].anInt519 - cameraPosXPix;
+										int l10 = aClass28Array462[l3].anInt520 - cameraPosYPix;
 										if(j7 * j7 + k8 * k8 > l9 * l9 + l10 * l10)
 											l3 = j5;
 									}
@@ -1539,7 +1554,7 @@ public class Class25
 						Class28 class28_3 = aClass28Array462[l3];
 						class28_3.anInt528 = anInt448;
 						if(!method323(l, class28_3.anInt523, class28_3.anInt524, class28_3.anInt525, class28_3.anInt526, class28_3.aClass30_Sub2_Sub4_521.anInt1426))
-							class28_3.aClass30_Sub2_Sub4_521.method443(class28_3.anInt522, anInt458, anInt459, anInt460, anInt461, class28_3.anInt519 - anInt455, class28_3.anInt518 - anInt456, class28_3.anInt520 - anInt457, class28_3.anInt529);
+							class28_3.aClass30_Sub2_Sub4_521.method443(class28_3.anInt522, anInt458, anInt459, anInt460, anInt461, class28_3.anInt519 - cameraPosXPix, class28_3.anInt518 - anInt456, class28_3.anInt520 - cameraPosYPix, class28_3.anInt529);
 						for(int k7 = class28_3.anInt523; k7 <= class28_3.anInt524; k7++)
 						{
 							for(int l8 = class28_3.anInt525; l8 <= class28_3.anInt526; l8++)
@@ -1564,25 +1579,25 @@ public class Class25
 			}
 			if(!class30_sub3_1.aBoolean1323 || class30_sub3_1.anInt1325 != 0)
 				continue;
-			if(i <= anInt453 && i > anInt449)
+			if(i <= cameraPosXTile && i > anInt449)
 			{
 				Class30_Sub3 class30_sub3_8 = aclass30_sub3[i - 1][j];
 				if(class30_sub3_8 != null && class30_sub3_8.aBoolean1323)
 					continue;
 			}
-			if(i >= anInt453 && i < anInt450 - 1)
+			if(i >= cameraPosXTile && i < anInt450 - 1)
 			{
 				Class30_Sub3 class30_sub3_9 = aclass30_sub3[i + 1][j];
 				if(class30_sub3_9 != null && class30_sub3_9.aBoolean1323)
 					continue;
 			}
-			if(j <= anInt454 && j > anInt451)
+			if(j <= cameraPosYTile && j > anInt451)
 			{
 				Class30_Sub3 class30_sub3_10 = aclass30_sub3[i][j - 1];
 				if(class30_sub3_10 != null && class30_sub3_10.aBoolean1323)
 					continue;
 			}
-			if(j >= anInt454 && j < anInt452 - 1)
+			if(j >= cameraPosYTile && j < anInt452 - 1)
 			{
 				Class30_Sub3 class30_sub3_11 = aclass30_sub3[i][j + 1];
 				if(class30_sub3_11 != null && class30_sub3_11.aBoolean1323)
@@ -1594,24 +1609,24 @@ public class Class25
 			if(class3 != null && class3.anInt52 != 0)
 			{
 				if(class3.aClass30_Sub2_Sub4_49 != null)
-					class3.aClass30_Sub2_Sub4_49.method443(0, anInt458, anInt459, anInt460, anInt461, class3.anInt46 - anInt455, class3.anInt45 - anInt456 - class3.anInt52, class3.anInt47 - anInt457, class3.anInt51);
+					class3.aClass30_Sub2_Sub4_49.method443(0, anInt458, anInt459, anInt460, anInt461, class3.anInt46 - cameraPosXPix, class3.anInt45 - anInt456 - class3.anInt52, class3.anInt47 - cameraPosYPix, class3.anInt51);
 				if(class3.aClass30_Sub2_Sub4_50 != null)
-					class3.aClass30_Sub2_Sub4_50.method443(0, anInt458, anInt459, anInt460, anInt461, class3.anInt46 - anInt455, class3.anInt45 - anInt456 - class3.anInt52, class3.anInt47 - anInt457, class3.anInt51);
+					class3.aClass30_Sub2_Sub4_50.method443(0, anInt458, anInt459, anInt460, anInt461, class3.anInt46 - cameraPosXPix, class3.anInt45 - anInt456 - class3.anInt52, class3.anInt47 - cameraPosYPix, class3.anInt51);
 				if(class3.aClass30_Sub2_Sub4_48 != null)
-					class3.aClass30_Sub2_Sub4_48.method443(0, anInt458, anInt459, anInt460, anInt461, class3.anInt46 - anInt455, class3.anInt45 - anInt456 - class3.anInt52, class3.anInt47 - anInt457, class3.anInt51);
+					class3.aClass30_Sub2_Sub4_48.method443(0, anInt458, anInt459, anInt460, anInt461, class3.anInt46 - cameraPosXPix, class3.anInt45 - anInt456 - class3.anInt52, class3.anInt47 - cameraPosYPix, class3.anInt51);
 			}
 			if(class30_sub3_1.anInt1328 != 0)
 			{
 				Class26 class26 = class30_sub3_1.aClass26_1314;
 				if(class26 != null && !method322(l, i, j, class26.aClass30_Sub2_Sub4_504.anInt1426))
 					if((class26.anInt502 & class30_sub3_1.anInt1328) != 0)
-						class26.aClass30_Sub2_Sub4_504.method443(class26.anInt503, anInt458, anInt459, anInt460, anInt461, class26.anInt500 - anInt455, class26.anInt499 - anInt456, class26.anInt501 - anInt457, class26.anInt505);
+						class26.aClass30_Sub2_Sub4_504.method443(class26.anInt503, anInt458, anInt459, anInt460, anInt461, class26.anInt500 - cameraPosXPix, class26.anInt499 - anInt456, class26.anInt501 - cameraPosYPix, class26.anInt505);
 					else
 						if((class26.anInt502 & 0x300) != 0)
 						{
-							int l2 = class26.anInt500 - anInt455;
+							int l2 = class26.anInt500 - cameraPosXPix;
 							int j3 = class26.anInt499 - anInt456;
-							int i4 = class26.anInt501 - anInt457;
+							int i4 = class26.anInt501 - cameraPosYPix;
 							int k5 = class26.anInt503;
 							int j6;
 							if(k5 == 1 || k5 == 2)
@@ -1640,9 +1655,9 @@ public class Class25
 				if(class10_2 != null)
 				{
 					if((class10_2.anInt277 & class30_sub3_1.anInt1328) != 0 && !method321(l, i, j, class10_2.anInt277))
-						class10_2.aClass30_Sub2_Sub4_279.method443(0, anInt458, anInt459, anInt460, anInt461, class10_2.anInt274 - anInt455, class10_2.anInt273 - anInt456, class10_2.anInt275 - anInt457, class10_2.anInt280);
+						class10_2.aClass30_Sub2_Sub4_279.method443(0, anInt458, anInt459, anInt460, anInt461, class10_2.anInt274 - cameraPosXPix, class10_2.anInt273 - anInt456, class10_2.anInt275 - cameraPosYPix, class10_2.anInt280);
 					if((class10_2.anInt276 & class30_sub3_1.anInt1328) != 0 && !method321(l, i, j, class10_2.anInt276))
-						class10_2.aClass30_Sub2_Sub4_278.method443(0, anInt458, anInt459, anInt460, anInt461, class10_2.anInt274 - anInt455, class10_2.anInt273 - anInt456, class10_2.anInt275 - anInt457, class10_2.anInt280);
+						class10_2.aClass30_Sub2_Sub4_278.method443(0, anInt458, anInt459, anInt460, anInt461, class10_2.anInt274 - cameraPosXPix, class10_2.anInt273 - anInt456, class10_2.anInt275 - cameraPosYPix, class10_2.anInt280);
 				}
 			}
 			if(k < anInt437 - 1)
@@ -1651,25 +1666,25 @@ public class Class25
 				if(class30_sub3_12 != null && class30_sub3_12.aBoolean1323)
 					aClass19_477.method249(class30_sub3_12);
 			}
-			if(i < anInt453)
+			if(i < cameraPosXTile)
 			{
 				Class30_Sub3 class30_sub3_13 = aclass30_sub3[i + 1][j];
 				if(class30_sub3_13 != null && class30_sub3_13.aBoolean1323)
 					aClass19_477.method249(class30_sub3_13);
 			}
-			if(j < anInt454)
+			if(j < cameraPosYTile)
 			{
 				Class30_Sub3 class30_sub3_14 = aclass30_sub3[i][j + 1];
 				if(class30_sub3_14 != null && class30_sub3_14.aBoolean1323)
 					aClass19_477.method249(class30_sub3_14);
 			}
-			if(i > anInt453)
+			if(i > cameraPosXTile)
 			{
 				Class30_Sub3 class30_sub3_15 = aclass30_sub3[i - 1][j];
 				if(class30_sub3_15 != null && class30_sub3_15.aBoolean1323)
 					aClass19_477.method249(class30_sub3_15);
 			}
-			if(j > anInt454)
+			if(j > cameraPosYTile)
 			{
 				Class30_Sub3 class30_sub3_16 = aclass30_sub3[i][j - 1];
 				if(class30_sub3_16 != null && class30_sub3_16.aBoolean1323)
@@ -1682,9 +1697,9 @@ public class Class25
 			int k1)
 	{
 		int l1;
-		int i2 = l1 = (j1 << 7) - anInt455;
+		int i2 = l1 = (j1 << 7) - cameraPosXPix;
 		int j2;
-		int k2 = j2 = (k1 << 7) - anInt457;
+		int k2 = j2 = (k1 << 7) - cameraPosYPix;
 		int l2;
 		int i3 = l2 = i2 + 128;
 		int j3;
@@ -1799,9 +1814,9 @@ public class Class25
 			return;
 		for(int l1 = 0; l1 < k1; l1++)
 		{
-			int i2 = class40.anIntArray673[l1] - anInt455;
+			int i2 = class40.anIntArray673[l1] - cameraPosXPix;
 			int k2 = class40.anIntArray674[l1] - anInt456;
-			int i3 = class40.anIntArray675[l1] - anInt457;
+			int i3 = class40.anIntArray675[l1] - cameraPosYPix;
 			int k3 = i3 * k + i2 * j1 >> 16;
 		i3 = i3 * j1 - i2 * k >> 16;
 							i2 = k3;
@@ -1907,25 +1922,25 @@ public class Class25
 			Class47 class47 = aclass47[k];
 			if(class47.anInt791 == 1)
 			{
-				int l = (class47.anInt787 - anInt453) + 25;
-				if(l < 0 || l > 50)
+				int l = (class47.anInt787 - cameraPosXTile) + viewDistance;
+				if(l < 0 || l > 2*viewDistance)
 					continue;
-				int k1 = (class47.anInt789 - anInt454) + 25;
+				int k1 = (class47.anInt789 - cameraPosYTile) + viewDistance;
 				if(k1 < 0)
 					k1 = 0;
-				int j2 = (class47.anInt790 - anInt454) + 25;
-				if(j2 > 50)
-					j2 = 50;
+				int j2 = (class47.anInt790 - cameraPosYTile) + viewDistance;
+				if(j2 > 2*viewDistance)
+					j2 = 2*viewDistance;
 				boolean flag = false;
 				while(k1 <= j2) 
-					if(aBooleanArrayArray492[l][k1++])
+					if(tilesVisibleForThisAngle[l][k1++])
 					{
 						flag = true;
 						break;
 					}
 				if(!flag)
 					continue;
-				int j3 = anInt455 - class47.anInt792;
+				int j3 = cameraPosXPix - class47.anInt792;
 				if(j3 > 32)
 				{
 					class47.anInt798 = 1;
@@ -1936,8 +1951,8 @@ public class Class25
 					class47.anInt798 = 2;
 					j3 = -j3;
 				}
-				class47.anInt801 = (class47.anInt794 - anInt457 << 8) / j3;
-				class47.anInt802 = (class47.anInt795 - anInt457 << 8) / j3;
+				class47.anInt801 = (class47.anInt794 - cameraPosYPix << 8) / j3;
+				class47.anInt802 = (class47.anInt795 - cameraPosYPix << 8) / j3;
 				class47.anInt803 = (class47.anInt796 - anInt456 << 8) / j3;
 				class47.anInt804 = (class47.anInt797 - anInt456 << 8) / j3;
 				aClass47Array476[anInt475++] = class47;
@@ -1945,25 +1960,25 @@ public class Class25
 			}
 			if(class47.anInt791 == 2)
 			{
-				int i1 = (class47.anInt789 - anInt454) + 25;
-				if(i1 < 0 || i1 > 50)
+				int i1 = (class47.anInt789 - cameraPosYTile) + viewDistance;
+				if(i1 < 0 || i1 > 2*viewDistance)
 					continue;
-				int l1 = (class47.anInt787 - anInt453) + 25;
+				int l1 = (class47.anInt787 - cameraPosXTile) + viewDistance;
 				if(l1 < 0)
 					l1 = 0;
-				int k2 = (class47.anInt788 - anInt453) + 25;
-				if(k2 > 50)
-					k2 = 50;
+				int k2 = (class47.anInt788 - cameraPosXTile) + viewDistance;
+				if(k2 > 2*viewDistance)
+					k2 = 2*viewDistance;
 				boolean flag1 = false;
 				while(l1 <= k2) 
-					if(aBooleanArrayArray492[l1++][i1])
+					if(tilesVisibleForThisAngle[l1++][i1])
 					{
 						flag1 = true;
 						break;
 					}
 				if(!flag1)
 					continue;
-				int k3 = anInt457 - class47.anInt794;
+				int k3 = cameraPosYPix - class47.anInt794;
 				if(k3 > 32)
 				{
 					class47.anInt798 = 3;
@@ -1974,8 +1989,8 @@ public class Class25
 					class47.anInt798 = 4;
 					k3 = -k3;
 				}
-				class47.anInt799 = (class47.anInt792 - anInt455 << 8) / k3;
-				class47.anInt800 = (class47.anInt793 - anInt455 << 8) / k3;
+				class47.anInt799 = (class47.anInt792 - cameraPosXPix << 8) / k3;
+				class47.anInt800 = (class47.anInt793 - cameraPosXPix << 8) / k3;
 				class47.anInt803 = (class47.anInt796 - anInt456 << 8) / k3;
 				class47.anInt804 = (class47.anInt797 - anInt456 << 8) / k3;
 				aClass47Array476[anInt475++] = class47;
@@ -1985,27 +2000,27 @@ public class Class25
 					int j1 = class47.anInt796 - anInt456;
 					if(j1 > 128)
 					{
-						int i2 = (class47.anInt789 - anInt454) + 25;
+						int i2 = (class47.anInt789 - cameraPosYTile) + viewDistance;
 						if(i2 < 0)
 							i2 = 0;
-						int l2 = (class47.anInt790 - anInt454) + 25;
-						if(l2 > 50)
-							l2 = 50;
+						int l2 = (class47.anInt790 - cameraPosYTile) + viewDistance;
+						if(l2 > 2*viewDistance)
+							l2 = 2*viewDistance;
 						if(i2 <= l2)
 						{
-							int i3 = (class47.anInt787 - anInt453) + 25;
+							int i3 = (class47.anInt787 - cameraPosXTile) + viewDistance;
 							if(i3 < 0)
 								i3 = 0;
-							int l3 = (class47.anInt788 - anInt453) + 25;
-							if(l3 > 50)
-								l3 = 50;
+							int l3 = (class47.anInt788 - cameraPosXTile) + viewDistance;
+							if(l3 > 2*viewDistance)
+								l3 = 2*viewDistance;
 							boolean flag2 = false;
 							label0:
 								for(int i4 = i3; i4 <= l3; i4++)
 								{
 									for(int j4 = i2; j4 <= l2; j4++)
 									{
-										if(!aBooleanArrayArray492[i4][j4])
+										if(!tilesVisibleForThisAngle[i4][j4])
 											continue;
 										flag2 = true;
 										break label0;
@@ -2016,10 +2031,10 @@ public class Class25
 							if(flag2)
 							{
 								class47.anInt798 = 5;
-								class47.anInt799 = (class47.anInt792 - anInt455 << 8) / j1;
-								class47.anInt800 = (class47.anInt793 - anInt455 << 8) / j1;
-								class47.anInt801 = (class47.anInt794 - anInt457 << 8) / j1;
-								class47.anInt802 = (class47.anInt795 - anInt457 << 8) / j1;
+								class47.anInt799 = (class47.anInt792 - cameraPosXPix << 8) / j1;
+								class47.anInt800 = (class47.anInt793 - cameraPosXPix << 8) / j1;
+								class47.anInt801 = (class47.anInt794 - cameraPosYPix << 8) / j1;
+								class47.anInt802 = (class47.anInt795 - cameraPosYPix << 8) / j1;
 								aClass47Array476[anInt475++] = class47;
 							}
 						}
@@ -2063,7 +2078,7 @@ public class Class25
 		{
 			if(l == 1)
 			{
-				if(i1 > anInt455)
+				if(i1 > cameraPosXPix)
 				{
 					if(!method324(i1, k1, j1))
 						return false;
@@ -2083,7 +2098,7 @@ public class Class25
 			}
 			if(l == 2)
 			{
-				if(j1 < anInt457)
+				if(j1 < cameraPosYPix)
 				{
 					if(!method324(i1, k1, j1 + 128))
 						return false;
@@ -2103,7 +2118,7 @@ public class Class25
 			}
 			if(l == 4)
 			{
-				if(i1 < anInt455)
+				if(i1 < cameraPosXPix)
 				{
 					if(!method324(i1 + 128, k1, j1))
 						return false;
@@ -2123,7 +2138,7 @@ public class Class25
 			}
 			if(l == 8)
 			{
-				if(j1 > anInt457)
+				if(j1 > cameraPosYPix)
 				{
 					if(!method324(i1, k1, j1))
 						return false;
@@ -2300,11 +2315,11 @@ public class Class25
 	static int anInt450;
 	static int anInt451;
 	static int anInt452;
-	static int anInt453;
-	static int anInt454;
-	static int anInt455;
+	static int cameraPosXTile;
+	static int cameraPosYTile;
+	static int cameraPosXPix;
 	static int anInt456;
-	static int anInt457;
+	static int cameraPosYPix;
 	static int anInt458;
 	static int anInt459;
 	static int anInt460;
@@ -2419,8 +2434,11 @@ public class Class25
 				9, 13, 0, 4, 8, 12
 			}
 	};
-	static boolean aBooleanArrayArrayArrayArray491[][][][] = new boolean[8][32][51][51];
-	static boolean aBooleanArrayArray492[][];
+	static int viewDistance = 25;
+	static int horizontalCameraAngles = 32;
+	static int verticalCameraAngles = 8;
+	static boolean tileVisible[][][][] = new boolean[verticalCameraAngles][horizontalCameraAngles][2*viewDistance+1][2*viewDistance+1];
+	static boolean tilesVisibleForThisAngle[][];
 	static int anInt493;
 	static int anInt494;
 	static int anInt495;

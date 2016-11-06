@@ -1,0 +1,9 @@
+Original name: Class25.java
+
+boolean aBooleanArrayArrayArrayArray491[][][][] = boolean tileVisible[][][][]
+boolean aBooleanArrayArray492[][] = boolean tilesVisibleForThisAngle[][]
+
+int anInt453 = int cameraPosXTile
+int anInt454 = int cameraPosYTile
+int anInt455 = int cameraPosXPix
+int anInt457 = int cameraPosYPix

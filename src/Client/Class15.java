@@ -22,6 +22,7 @@ public final class Class15 implements ImageProducer, ImageObserver
         this.maxWidth = maxWidth;
         this.maxHeight = maxHeight;
         imagePixelsArray = new int[maxWidth * maxHeight];
+        //colorModel = new DirectColorModel(32, 0xff0000, 0xff00, 0xff, 0xff000000);
         colorModel = new DirectColorModel(32, 0xff0000, 0xff00, 0xff);
         image = component.createImage(this);
         method239();
@@ -38,6 +39,7 @@ public final class Class15 implements ImageProducer, ImageObserver
         this.imageWidth = gameWidth;
         this.imageHeight = gameHeight;
         imagePixelsArray = new int[gameWidth * gameHeight];
+        //colorModel = new DirectColorModel(32, 0xff0000, 0xff00, 0xff, 0xff000000);
         colorModel = new DirectColorModel(32, 0xff0000, 0xff00, 0xff);
         image = component.createImage(this);
         method239();
@@ -106,6 +108,11 @@ public final class Class15 implements ImageProducer, ImageObserver
             return;
         } else
         {
+        	/* if we have alpha, this loop regulates the alpha in some way
+        	for (int i = 0; i < imagePixelsArray.length; i++)
+        	{
+        		imagePixelsArray[i] += (0xff000000);
+        	}*/
         	imageConsumer.setPixels(0, 0, imageWidth, imageHeight, colorModel, imagePixelsArray, 0, imageWidth);
         	imageConsumer.imageComplete(2);
             return;

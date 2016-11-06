@@ -43,9 +43,14 @@ public class Class30_Sub2_Sub1_Sub3 extends Class30_Sub2_Sub1
         anInt1466 = Class30_Sub2_Sub1.width / 2;
         anInt1467 = Class30_Sub2_Sub1.height / 2;
     }
-
+    
     public static final void method365(int i, int width, int height)
     {
+    	/*
+    	 * anIntArray1472 has to do with how the 3D viewport renders.
+    	 * Try setting:
+    	 * anIntArray1472[row] = (int)(width*height*Math.random())
+    	 */
     	anIntArray1472 = new int[height];
 
         for(int row = 0; row < height; row++)

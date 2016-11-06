@@ -6255,6 +6255,7 @@ public final class client extends GameApplet {
 
 	public void gameResized(int newGameWidth, int newGameHeight, Component component)
 	{
+		
 		updateGameSize(newGameWidth - 2*EGUI.translateGameX - Class15_GameWindowX,
 				newGameHeight - EGUI.translateGameY - EGUI.translateGameX - Class15_GameWindowY);
 		Class15_GameWindow = new Class15(Class15_GameWindowWidth, Class15_GameWindowHeight, component, EGUI.MAX_WIDTH, EGUI.MAX_HEIGHT);
@@ -7838,7 +7839,6 @@ public final class client extends GameApplet {
 				int i9 = Class30_Sub2_Sub1_Sub3.anIntArray1470[k8];
 				ai[i8] = l8 * i9 >> 16;
 			}
-
 			Class25.method310(500, 800, Class15_GameWindowWidth, Class15_GameWindowHeight, ai, aBoolean1231);
 			Class34.loadCensoredWords(class44_4);
 			aClass48_879 = new Class48(this, anInt1096);
