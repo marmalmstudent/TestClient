@@ -1,22 +1,26 @@
 package Client;
 
+/*
+ * I think this class is the tiles seen in the 3d viewport such as floors and
+ * roofs etc.
+ */
 final class Class30_Sub3 extends Class30
 {
 
-    public Class30_Sub3(int i, int j, int k)
+    public Class30_Sub3(int stry, int xPos, int yPos)
     {
         anInt1306 = -589;
         aClass28Array1318 = new Class28[5];
         anIntArray1319 = new int[5];
-        anInt1310 = anInt1307 = i;
-        anInt1308 = j;
-        anInt1309 = k;
+        anInt1310 = anInt1307 = stry;
+        tileXPos = xPos;
+        tileYPos = yPos;
     }
 
     private int anInt1306;
     int anInt1307;
-    int anInt1308;
-    int anInt1309;
+    int tileXPos;
+    int tileYPos;
     int anInt1310;
     public Class43 aClass43_1311;
     public Class40 aClass40_1312;

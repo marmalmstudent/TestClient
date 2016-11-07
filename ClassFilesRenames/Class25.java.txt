@@ -1,8 +1,18 @@
 Original name: Class25.java
 
+Class30_Sub3 aClass30_Sub3ArrayArrayArray441 = Class30_Sub3 tilesForAllStoreys[][][]
+
 boolean aBooleanArrayArrayArrayArray491[][][][] = boolean tileVisible[][][][]
 boolean aBooleanArrayArray492[][] = boolean tilesVisibleForThisAngle[][]
 
+int anInt437 = int highestStorey
+int anInt438 = int totNbrXTiles
+int anInt439 = int totNbrYTiles
+int anInt442 = int lowestStorey
+int anInt449 = int xMinTile
+int anInt450 = int xMaxTile
+int anInt451 = int yMinTile
+int anInt452 = int yMaxTile
 int anInt453 = int cameraPosXTile
 int anInt454 = int cameraPosYTile
 int anInt455 = int cameraPosXPix

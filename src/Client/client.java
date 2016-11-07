@@ -1922,17 +1922,17 @@ public final class client extends GameApplet {
 		int i = anInt1098 * 128 + 64;
 		int j = anInt1099 * 128 + 64;
 		int k = method42(anInt918, j, true, i) - anInt1100;
-		if(anInt858 < i)
+		if(playerPosXPix < i)
 		{
-			anInt858 += anInt1101 + ((i - anInt858) * anInt1102) / 1000;
-			if(anInt858 > i)
-				anInt858 = i;
+			playerPosXPix += anInt1101 + ((i - playerPosXPix) * anInt1102) / 1000;
+			if(playerPosXPix > i)
+				playerPosXPix = i;
 		}
-		if(anInt858 > i)
+		if(playerPosXPix > i)
 		{
-			anInt858 -= anInt1101 + ((anInt858 - i) * anInt1102) / 1000;
-			if(anInt858 < i)
-				anInt858 = i;
+			playerPosXPix -= anInt1101 + ((playerPosXPix - i) * anInt1102) / 1000;
+			if(playerPosXPix < i)
+				playerPosXPix = i;
 		}
 		if(anInt859 < k)
 		{
@@ -1946,24 +1946,24 @@ public final class client extends GameApplet {
 			if(anInt859 < k)
 				anInt859 = k;
 		}
-		if(anInt860 < j)
+		if(playerPosYPix < j)
 		{
-			anInt860 += anInt1101 + ((j - anInt860) * anInt1102) / 1000;
-			if(anInt860 > j)
-				anInt860 = j;
+			playerPosYPix += anInt1101 + ((j - playerPosYPix) * anInt1102) / 1000;
+			if(playerPosYPix > j)
+				playerPosYPix = j;
 		}
-		if(anInt860 > j)
+		if(playerPosYPix > j)
 		{
-			anInt860 -= anInt1101 + ((anInt860 - j) * anInt1102) / 1000;
-			if(anInt860 < j)
-				anInt860 = j;
+			playerPosYPix -= anInt1101 + ((playerPosYPix - j) * anInt1102) / 1000;
+			if(playerPosYPix < j)
+				playerPosYPix = j;
 		}
 		i = anInt995 * 128 + 64;
 		j = anInt996 * 128 + 64;
 		k = method42(anInt918, j, true, i) - anInt997;
-		int l = i - anInt858;
+		int l = i - playerPosXPix;
 		int i1 = k - anInt859;
-		int j1 = j - anInt860;
+		int j1 = j - playerPosYPix;
 		int k1 = (int)Math.sqrt(l * l + j1 * j1);
 		int l1 = (int)(Math.atan2(i1, k1) * 325.94900000000001D) & 0x7ff;
 		if(byte0 == 5)
@@ -9865,8 +9865,8 @@ public final class client extends GameApplet {
 		int j = 3;
 		if(anInt861 < 310)
 		{
-			int k = anInt858 >> 7;
-		int l = anInt860 >> 7;
+			int k = playerPosXPix >> 7;
+		int l = playerPosYPix >> 7;
 				int i1 = ((Class30_Sub2_Sub4_Sub1) (aClass30_Sub2_Sub4_Sub1_Sub2_1126)).anInt1550 >> 7;
 		int j1 = ((Class30_Sub2_Sub4_Sub1) (aClass30_Sub2_Sub4_Sub1_Sub2_1126)).anInt1551 >> 7;
 		if((aByteArrayArrayArray1258[anInt918][k][l] & 4) != 0)
@@ -9944,8 +9944,8 @@ public final class client extends GameApplet {
 	{
 		while(i >= 0)
 			aClass30_Sub2_Sub2_1192.method398(21);
-		int j = method42(anInt918, anInt860, true, anInt858);
-		if(j - anInt859 < 800 && (aByteArrayArrayArray1258[anInt918][anInt858 >> 7][anInt860 >> 7] & 4) != 0)
+		int j = method42(anInt918, playerPosYPix, true, playerPosXPix);
+		if(j - anInt859 < 800 && (aByteArrayArrayArray1258[anInt918][playerPosXPix >> 7][playerPosYPix >> 7] & 4) != 0)
 			return anInt918;
 		else
 			return 3;
@@ -10296,9 +10296,9 @@ public final class client extends GameApplet {
 			return;
 		}
 		int i1 = method42(anInt918, l, true, i) - j;
-		i -= anInt858;
+		i -= playerPosXPix;
 		i1 -= anInt859;
-		l -= anInt860;
+		l -= playerPosYPix;
 		int j1 = Class30_Sub2_Sub4_Sub6.anIntArray1689[anInt861];
 		int k1 = Class30_Sub2_Sub4_Sub6.anIntArray1690[anInt861];
 		int l1 = Class30_Sub2_Sub4_Sub6.anIntArray1689[anInt862];
@@ -11458,9 +11458,9 @@ public final class client extends GameApplet {
 			l2 = l2 * l3 - j2 * j3 >> 16;
 			j2 = j4;
 		}
-		anInt858 = l - j2;
+		playerPosXPix = l - j2;
 		anInt859 = i1 - k2;
-		anInt860 = k1 - l2;
+		playerPosYPix = k1 - l2;
 		anInt861 = k;
 		anInt862 = j1;
 	}
@@ -11647,9 +11647,9 @@ public final class client extends GameApplet {
 				anInt1102 = aClass30_Sub2_Sub2_1083.method408();
 				if(anInt1102 >= 100)
 				{
-					anInt858 = anInt1098 * 128 + 64;
-					anInt860 = anInt1099 * 128 + 64;
-					anInt859 = method42(anInt918, anInt860, true, anInt858) - anInt1100;
+					playerPosXPix = anInt1098 * 128 + 64;
+					playerPosYPix = anInt1099 * 128 + 64;
+					anInt859 = method42(anInt918, playerPosYPix, true, playerPosXPix) - anInt1100;
 				}
 				incPacketType = -1;
 				return true;
@@ -12538,9 +12538,9 @@ public final class client extends GameApplet {
 					int k7 = anInt995 * 128 + 64;
 					int k14 = anInt996 * 128 + 64;
 					int i20 = method42(anInt918, k14, true, k7) - anInt997;
-					int l22 = k7 - anInt858;
+					int l22 = k7 - playerPosXPix;
 					int k25 = i20 - anInt859;
-					int j28 = k14 - anInt860;
+					int j28 = k14 - playerPosYPix;
 					int i30 = (int)Math.sqrt(l22 * l22 + j28 * j28);
 					anInt861 = (int)(Math.atan2(k25, i30) * 325.94900000000001D) & 0x7ff;
 					anInt862 = (int)(Math.atan2(l22, j28) * -325.94900000000001D) & 0x7ff;
@@ -12796,9 +12796,9 @@ public final class client extends GameApplet {
 			j = method120(111);
 		else
 			j = method121(anInt1081);
-		int l = anInt858;
+		int l = playerPosXPix;
 		int i1 = anInt859;
-		int j1 = anInt860;
+		int j1 = playerPosYPix;
 		int k1 = anInt861;
 		int l1 = anInt862;
 		for(int i2 = 0; i2 < 5; i2++)
@@ -12806,11 +12806,11 @@ public final class client extends GameApplet {
 			{
 				int j2 = (int)((Math.random() * (double)(anIntArray873[i2] * 2 + 1) - (double)anIntArray873[i2]) + Math.sin((double)anIntArray1030[i2] * ((double)anIntArray928[i2] / 100D)) * (double)anIntArray1203[i2]);
 				if(i2 == 0)
-					anInt858 += j2;
+					playerPosXPix += j2;
 				if(i2 == 1)
 					anInt859 += j2;
 				if(i2 == 2)
-					anInt860 += j2;
+					playerPosYPix += j2;
 				if(i2 == 3)
 					anInt862 = anInt862 + j2 & 0x7ff;
 				if(i2 == 4)
@@ -12835,7 +12835,7 @@ public final class client extends GameApplet {
 				Class30_Sub2_Sub4_Sub6.anInt1685 = super.mouseMovedX - Class15_GameWindowX;
 				Class30_Sub2_Sub4_Sub6.anInt1686 = super.mouseMovedY - Class15_GameWindowY;
 				Class30_Sub2_Sub1.ResetPixelArray(super.bgi); //tiles that are too far away does not update, so we must reset this
-				aClass25_946.method313(anInt858, anInt860, anInt862, anInt859, j, anInt861, false);
+				aClass25_946.method313(playerPosXPix, playerPosYPix, anInt862, anInt859, j, anInt861, false);
 				aClass25_946.method288((byte)104); //removes models from their old place if they moved
 				method34(anInt898); //stuff above head
 				method61(-252);
@@ -12916,9 +12916,9 @@ public final class client extends GameApplet {
 					}
 				}
 				Class15_GameWindow.GraphicsPositioner(Class15_GameWindowY, super.graphics, Class15_GameWindowX);//updates gameframe
-				anInt858 = l;
+				playerPosXPix = l;
 				anInt859 = i1;
-				anInt860 = j1;
+				playerPosYPix = j1;
 				anInt861 = k1;
 				anInt862 = l1;
 				return;
@@ -13173,9 +13173,9 @@ public final class client extends GameApplet {
 	private int anInt855;
 	private static BigInteger aBigInteger856 = new BigInteger("7162900525229798032761816791230527296329313291232324290237849263501208207972894053929065636522363163621000728841182238772712427862772219676577293600221789");
 	private int anInt857;
-	private int anInt858;
+	private int playerPosXPix;
 	private int anInt859;
-	private int anInt860;
+	private int playerPosYPix;
 	private int anInt861;
 	private int anInt862;
 	private int playerRights;

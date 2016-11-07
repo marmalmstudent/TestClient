@@ -1,4 +1,6 @@
 Original name: Class30_Sub3.java
 Handles 3d viewport i think
 
-
+int anInt1307 = int 
+int anInt1308 = int tileXPos
+int anInt1309 = int tileYPos

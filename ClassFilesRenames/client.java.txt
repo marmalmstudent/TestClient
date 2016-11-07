@@ -70,6 +70,8 @@ Class30_Sub2_Sub1_Sub2 aClass30_Sub2_Sub1_Sub2Array1219[] = Class30_Sub2_Sub1_Su
 
 int anIntArray922[] = int skillIndexArray[]
 
+int anInt858 = int playerPosXPix
+int anInt860 = int playerPosYPix
 int anInt863 = int playerRights
 int anInt957 = int nodeID
 int anInt958 = int portOffset
