@@ -590,19 +590,19 @@ public final class client extends GameApplet {
 			method23(false);
 			aClass25_946.method274(619);
 			System.gc();
-			for(int i = 0; i < 4; i++)
-				aClass11Array1230[i].method210();
+			for(int storeyIdx = 0; storeyIdx < 4; storeyIdx++)
+				aClass11Array1230[storeyIdx].method210();
 
-			for(int l = 0; l < 4; l++)
+			for(int storey = 0; storey < 4; storey++)
 			{
-				for(int k1 = 0; k1 < 104; k1++)
+				for(int xTile = 0; xTile < 104; xTile++)
 				{
-					for(int j2 = 0; j2 < 104; j2++)
-						aByteArrayArrayArray1258[l][k1][j2] = 0;
+					for(int yTile = 0; yTile < 104; yTile++)
+						minimapTiles[storey][xTile][yTile] = 0;
 				}
 			}
 
-			Class7 class7 = new Class7(aByteArrayArrayArray1258, -60, 104, 104, anIntArrayArrayArray1214);
+			Class7 class7 = new Class7(minimapTiles, -60, 104, 104, tileCornerHeight);
 			int k2 = aByteArrayArray1183.length;
 			aClass30_Sub2_Sub2_1192.method397((byte)6, 0);
 			if(!aBoolean1159)
@@ -811,22 +811,26 @@ public final class client extends GameApplet {
 		Class23.aClass12_415.method224();
 	}
 
-	public final void method24(boolean flag, int i)
+	/**
+	 * Displays the tiles and objects on the minimap
+	 * @param flag
+	 * @param storey
+	 */
+	public final void method24(boolean flag, int storey)
 	{
 		int ai[] = aClass30_Sub2_Sub1_Sub1_1263.anIntArray1439;
 		int j = ai.length;
 		for(int k = 0; k < j; k++)
 			ai[k] = 0;
-
-		for(int l = 1; l < 103; l++)
+		for(int yTile = 1; yTile < 103; yTile++)
 		{
-			int i1 = 24628 + (103 - l) * 512 * 4;
-			for(int k1 = 1; k1 < 103; k1++)
+			int i1 = 24628 + (103 - yTile) * 512 * 4;
+			for(int xTile = 1; xTile < 103; xTile++)
 			{ // displays the map on the minimap, but not the objects on it
-				if((aByteArrayArrayArray1258[i][k1][l] & 0x18) == 0)
-					aClass25_946.method309(ai, i1, 512, i, k1, l);
-				if(i < 3 && (aByteArrayArrayArray1258[i + 1][k1][l] & 8) != 0)
-					aClass25_946.method309(ai, i1, 512, i + 1, k1, l);
+				if((minimapTiles[storey][xTile][yTile] & 0x18) == 0)
+					aClass25_946.method309(ai, i1, 512, storey, xTile, yTile);
+				if(storey < 3 && (minimapTiles[storey + 1][xTile][yTile] & 8) != 0)
+					aClass25_946.method309(ai, i1, 512, storey + 1, xTile, yTile);
 				i1 += 4;
 			}
 
@@ -835,14 +839,14 @@ public final class client extends GameApplet {
 		int j1 = ((238 + (int)(Math.random() * 20D)) - 10 << 16) + ((238 + (int)(Math.random() * 20D)) - 10 << 8) + ((238 + (int)(Math.random() * 20D)) - 10);
 		int l1 = (238 + (int)(Math.random() * 20D)) - 10 << 16;
 		aClass30_Sub2_Sub1_Sub1_1263.method343(0);
-		for(int i2 = 1; i2 < 103; i2++)
+		for(int yTile = 1; yTile < 103; yTile++)
 		{ //displays objects on the minimap
-			for(int j2 = 1; j2 < 103; j2++)
+			for(int xTile = 1; xTile < 103; xTile++)
 			{
-				if((aByteArrayArrayArray1258[i][j2][i2] & 0x18) == 0)
-					method50(i2, -960, j1, j2, l1, i);
-				if(i < 3 && (aByteArrayArrayArray1258[i + 1][j2][i2] & 8) != 0)
-					method50(i2, -960, j1, j2, l1, i + 1);
+				if((minimapTiles[storey][xTile][yTile] & 0x18) == 0)
+					method50(yTile, -960, j1, xTile, l1, storey);
+				if(storey < 3 && (minimapTiles[storey + 1][xTile][yTile] & 8) != 0)
+					method50(yTile, -960, j1, xTile, l1, storey + 1);
 			}
 
 		}
@@ -1934,17 +1938,17 @@ public final class client extends GameApplet {
 			if(playerPosXPix < i)
 				playerPosXPix = i;
 		}
-		if(anInt859 < k)
+		if(cameraPosHeight < k)
 		{
-			anInt859 += anInt1101 + ((k - anInt859) * anInt1102) / 1000;
-			if(anInt859 > k)
-				anInt859 = k;
+			cameraPosHeight += anInt1101 + ((k - cameraPosHeight) * anInt1102) / 1000;
+			if(cameraPosHeight > k)
+				cameraPosHeight = k;
 		}
-		if(anInt859 > k)
+		if(cameraPosHeight > k)
 		{
-			anInt859 -= anInt1101 + ((anInt859 - k) * anInt1102) / 1000;
-			if(anInt859 < k)
-				anInt859 = k;
+			cameraPosHeight -= anInt1101 + ((cameraPosHeight - k) * anInt1102) / 1000;
+			if(cameraPosHeight < k)
+				cameraPosHeight = k;
 		}
 		if(playerPosYPix < j)
 		{
@@ -1962,7 +1966,7 @@ public final class client extends GameApplet {
 		j = anInt996 * 128 + 64;
 		k = method42(anInt918, j, true, i) - anInt997;
 		int l = i - playerPosXPix;
-		int i1 = k - anInt859;
+		int i1 = k - cameraPosHeight;
 		int j1 = j - playerPosYPix;
 		int k1 = (int)Math.sqrt(l * l + j1 * j1);
 		int l1 = (int)(Math.atan2(i1, k1) * 325.94900000000001D) & 0x7ff;
@@ -1975,40 +1979,40 @@ public final class client extends GameApplet {
 			l1 = 128;
 		if(l1 > 383)
 			l1 = 383;
-		if(anInt861 < l1)
+		if(cameraVerticalAngle < l1)
 		{
-			anInt861 += anInt998 + ((l1 - anInt861) * anInt999) / 1000;
-			if(anInt861 > l1)
-				anInt861 = l1;
+			cameraVerticalAngle += anInt998 + ((l1 - cameraVerticalAngle) * anInt999) / 1000;
+			if(cameraVerticalAngle > l1)
+				cameraVerticalAngle = l1;
 		}
-		if(anInt861 > l1)
+		if(cameraVerticalAngle > l1)
 		{
-			anInt861 -= anInt998 + ((anInt861 - l1) * anInt999) / 1000;
-			if(anInt861 < l1)
-				anInt861 = l1;
+			cameraVerticalAngle -= anInt998 + ((cameraVerticalAngle - l1) * anInt999) / 1000;
+			if(cameraVerticalAngle < l1)
+				cameraVerticalAngle = l1;
 		}
-		int j2 = i2 - anInt862;
+		int j2 = i2 - cameraHorizontAngle;
 		if(j2 > 1024)
 			j2 -= 2048;
 		if(j2 < -1024)
 			j2 += 2048;
 		if(j2 > 0)
 		{
-			anInt862 += anInt998 + (j2 * anInt999) / 1000;
-			anInt862 &= 0x7ff;
+			cameraHorizontAngle += anInt998 + (j2 * anInt999) / 1000;
+			cameraHorizontAngle &= 0x7ff;
 		}
 		if(j2 < 0)
 		{
-			anInt862 -= anInt998 + (-j2 * anInt999) / 1000;
-			anInt862 &= 0x7ff;
+			cameraHorizontAngle -= anInt998 + (-j2 * anInt999) / 1000;
+			cameraHorizontAngle &= 0x7ff;
 		}
-		int k2 = i2 - anInt862;
+		int k2 = i2 - cameraHorizontAngle;
 		if(k2 > 1024)
 			k2 -= 2048;
 		if(k2 < -1024)
 			k2 += 2048;
 		if(k2 < 0 && j2 > 0 || k2 > 0 && j2 < 0)
-			anInt862 = i2;
+			cameraHorizontAngle = i2;
 	}
 
 	public final void method40(byte byte0)
@@ -2112,17 +2116,17 @@ public final class client extends GameApplet {
 	public final int method42(int i, int j, boolean flag, int k)
 	{
 		aBoolean1157 &= flag;
-		int l = k >> 7;
-			int i1 = j >> 7;
-			if(l < 0 || i1 < 0 || l > 103 || i1 > 103)
+		int xTile = k >> 7;
+			int yTile = j >> 7;
+			if(xTile < 0 || yTile < 0 || xTile > 103 || yTile > 103)
 				return 0;
-			int j1 = i;
-			if(j1 < 3 && (aByteArrayArrayArray1258[1][l][i1] & 2) == 2)
-				j1++;
+			int storey = i;
+			if(storey < 3 && (minimapTiles[1][xTile][yTile] & 2) == 2)
+				storey++;
 			int k1 = k & 0x7f;
 			int l1 = j & 0x7f;
-			int i2 = anIntArrayArrayArray1214[j1][l][i1] * (128 - k1) + anIntArrayArrayArray1214[j1][l + 1][i1] * k1 >> 7;
-			int j2 = anIntArrayArrayArray1214[j1][l][i1 + 1] * (128 - k1) + anIntArrayArrayArray1214[j1][l + 1][i1 + 1] * k1 >> 7;
+			int i2 = tileCornerHeight[storey][xTile][yTile] * (128 - k1) + tileCornerHeight[storey][xTile + 1][yTile] * k1 >> 7;
+			int j2 = tileCornerHeight[storey][xTile][yTile + 1] * (128 - k1) + tileCornerHeight[storey][xTile + 1][yTile + 1] * k1 >> 7;
 								return i2 * (128 - l1) + j2 * l1 >> 7;
 	}
 
@@ -5031,8 +5035,8 @@ public final class client extends GameApplet {
 		aByteArrayArray1247 = null;
 		anIntArray1235 = null;
 		anIntArray1236 = null;
-		anIntArrayArrayArray1214 = null;
-		aByteArrayArrayArray1258 = null;
+		tileCornerHeight = null;
+		minimapTiles = null;
 		aClass25_946 = null;
 		aClass11Array1230 = null;
 		anIntArrayArray901 = null;
@@ -7427,9 +7431,10 @@ public final class client extends GameApplet {
 			Class44 class44_3 = method67(6, "textures", "textures", anIntArray1090[6], (byte)-41, 45);
 			Class44 class44_4 = method67(7, "chat system", "wordenc", anIntArray1090[7], (byte)-41, 50);
 			Class44 class44_5 = method67(8, "sound effects", "sounds", anIntArray1090[8], (byte)-41, 55);
-			aByteArrayArrayArray1258 = new byte[4][104][104];
-			anIntArrayArrayArray1214 = new int[4][105][105];
-			aClass25_946 = new Class25(104, (byte)43, 104, anIntArrayArrayArray1214, 4);
+			// int test = -10;
+			minimapTiles = new byte[4][104][104];
+			tileCornerHeight = new int[4][105][105];
+			aClass25_946 = new Class25(104, (byte)43, 104, tileCornerHeight, 4);
 			for(int j = 0; j < 4; j++)
 				aClass11Array1230[j] = new Class11(104, 104, true);
 
@@ -7854,7 +7859,6 @@ public final class client extends GameApplet {
 		}
 		aBoolean926 = true;
 	}
-
 
 	private final void method91(Class30_Sub2_Sub2 class30_sub2_sub2, int i, byte byte0)
 	{
@@ -9341,14 +9345,14 @@ public final class client extends GameApplet {
 				int k1 = 0;
 				if(l > 3 && i1 > 3 && l < 100 && i1 < 100)
 				{
-					for(int l1 = l - 4; l1 <= l + 4; l1++)
+					for(int xTile = l - 4; xTile <= l + 4; xTile++)
 					{
-						for(int k2 = i1 - 4; k2 <= i1 + 4; k2++)
+						for(int yTile = i1 - 4; yTile <= i1 + 4; yTile++)
 						{
-							int l2 = anInt918;
-							if(l2 < 3 && (aByteArrayArrayArray1258[1][l1][k2] & 2) == 2)
-								l2++;
-							int i3 = j1 - anIntArrayArrayArray1214[l2][l1][k2];
+							int storey = anInt918;
+							if(storey < 3 && (minimapTiles[1][xTile][yTile] & 2) == 2)
+								storey++;
+							int i3 = j1 - tileCornerHeight[storey][xTile][yTile];
 							if(i3 > k1)
 								k1 = i3;
 						}
@@ -9863,47 +9867,47 @@ public final class client extends GameApplet {
 		if(i <= 0)
 			aBoolean1224 = !aBoolean1224;
 		int j = 3;
-		if(anInt861 < 310)
+		if(cameraVerticalAngle < 310)
 		{
-			int k = playerPosXPix >> 7;
-		int l = playerPosYPix >> 7;
+			int xTile = playerPosXPix >> 7;
+		int yTile = playerPosYPix >> 7;
 				int i1 = ((Class30_Sub2_Sub4_Sub1) (aClass30_Sub2_Sub4_Sub1_Sub2_1126)).anInt1550 >> 7;
 		int j1 = ((Class30_Sub2_Sub4_Sub1) (aClass30_Sub2_Sub4_Sub1_Sub2_1126)).anInt1551 >> 7;
-		if((aByteArrayArrayArray1258[anInt918][k][l] & 4) != 0)
+		if((minimapTiles[anInt918][xTile][yTile] & 4) != 0)
 			j = anInt918;
 		int k1;
-		if(i1 > k)
-			k1 = i1 - k;
+		if(i1 > xTile)
+			k1 = i1 - xTile;
 		else
-			k1 = k - i1;
+			k1 = xTile - i1;
 		int l1;
-		if(j1 > l)
-			l1 = j1 - l;
+		if(j1 > yTile)
+			l1 = j1 - yTile;
 		else
-			l1 = l - j1;
+			l1 = yTile - j1;
 		if(k1 > l1)
 		{
 			int i2 = (l1 * 0x10000) / k1;
 			int k2 = 32768;
-			while(k != i1)
+			while(xTile != i1)
 			{
-				if(k < i1)
-					k++;
+				if(xTile < i1)
+					xTile++;
 				else
-					if(k > i1)
-						k--;
-				if((aByteArrayArrayArray1258[anInt918][k][l] & 4) != 0)
+					if(xTile > i1)
+						xTile--;
+				if((minimapTiles[anInt918][xTile][yTile] & 4) != 0)
 					j = anInt918;
 				k2 += i2;
 				if(k2 >= 0x10000)
 				{
 					k2 -= 0x10000;
-					if(l < j1)
-						l++;
+					if(yTile < j1)
+						yTile++;
 					else
-						if(l > j1)
-							l--;
-					if((aByteArrayArrayArray1258[anInt918][k][l] & 4) != 0)
+						if(yTile > j1)
+							yTile--;
+					if((minimapTiles[anInt918][xTile][yTile] & 4) != 0)
 						j = anInt918;
 				}
 			}
@@ -9911,31 +9915,31 @@ public final class client extends GameApplet {
 		{
 			int j2 = (k1 * 0x10000) / l1; // l1 might have something to do with cameratoggle
 			int l2 = 32768;
-			while(l != j1)
+			while(yTile != j1)
 			{
-				if(l < j1)
-					l++;
+				if(yTile < j1)
+					yTile++;
 				else
-					if(l > j1)
-						l--;
-				if((aByteArrayArrayArray1258[anInt918][k][l] & 4) != 0)
+					if(yTile > j1)
+						yTile--;
+				if((minimapTiles[anInt918][xTile][yTile] & 4) != 0)
 					j = anInt918;
 				l2 += j2;
 				if(l2 >= 0x10000)
 				{
 					l2 -= 0x10000;
-					if(k < i1)
-						k++;
+					if(xTile < i1)
+						xTile++;
 					else
-						if(k > i1)
-							k--;
-					if((aByteArrayArrayArray1258[anInt918][k][l] & 4) != 0)
+						if(xTile > i1)
+							xTile--;
+					if((minimapTiles[anInt918][xTile][yTile] & 4) != 0)
 						j = anInt918;
 				}
 			}
 		}
 		}
-		if((aByteArrayArrayArray1258[anInt918][((Class30_Sub2_Sub4_Sub1) (aClass30_Sub2_Sub4_Sub1_Sub2_1126)).anInt1550 >> 7][((Class30_Sub2_Sub4_Sub1) (aClass30_Sub2_Sub4_Sub1_Sub2_1126)).anInt1551 >> 7] & 4) != 0)
+		if((minimapTiles[anInt918][((Class30_Sub2_Sub4_Sub1) (aClass30_Sub2_Sub4_Sub1_Sub2_1126)).anInt1550 >> 7][((Class30_Sub2_Sub4_Sub1) (aClass30_Sub2_Sub4_Sub1_Sub2_1126)).anInt1551 >> 7] & 4) != 0)
 			j = anInt918;
 		return j;
 	}
@@ -9945,7 +9949,7 @@ public final class client extends GameApplet {
 		while(i >= 0)
 			aClass30_Sub2_Sub2_1192.method398(21);
 		int j = method42(anInt918, playerPosYPix, true, playerPosXPix);
-		if(j - anInt859 < 800 && (aByteArrayArrayArray1258[anInt918][playerPosXPix >> 7][playerPosYPix >> 7] & 4) != 0)
+		if(j - cameraPosHeight < 800 && (minimapTiles[anInt918][playerPosXPix >> 7][playerPosYPix >> 7] & 4) != 0)
 			return anInt918;
 		else
 			return 3;
@@ -10297,12 +10301,12 @@ public final class client extends GameApplet {
 		}
 		int i1 = method42(anInt918, l, true, i) - j;
 		i -= playerPosXPix;
-		i1 -= anInt859;
+		i1 -= cameraPosHeight; // height of text above heads
 		l -= playerPosYPix;
-		int j1 = Class30_Sub2_Sub4_Sub6.anIntArray1689[anInt861];
-		int k1 = Class30_Sub2_Sub4_Sub6.anIntArray1690[anInt861];
-		int l1 = Class30_Sub2_Sub4_Sub6.anIntArray1689[anInt862];
-		int i2 = Class30_Sub2_Sub4_Sub6.anIntArray1690[anInt862];
+		int j1 = Class30_Sub2_Sub4_Sub6.anIntArray1689[cameraVerticalAngle];
+		int k1 = Class30_Sub2_Sub4_Sub6.anIntArray1690[cameraVerticalAngle];
+		int l1 = Class30_Sub2_Sub4_Sub6.anIntArray1689[cameraHorizontAngle];
+		int i2 = Class30_Sub2_Sub4_Sub6.anIntArray1690[cameraHorizontAngle];
 		int j2 = l * l1 + i * i2 >> 16;
 			l = l * i2 - i * l1 >> 16;
 		i = j2;
@@ -10864,22 +10868,22 @@ public final class client extends GameApplet {
 		if(j == 160)
 		{
 			int k1 = class30_sub2_sub2.method428(2);
-			int j4 = anInt1268 + (k1 >> 4 & 7);
-			int i7 = anInt1269 + (k1 & 7);
+			int xTile = anInt1268 + (k1 >> 4 & 7);
+			int yTile = anInt1269 + (k1 & 7);
 			int l9 = class30_sub2_sub2.method428(2);
 			int j12 = l9 >> 2;
 			int k14 = l9 & 3;
 			int j16 = anIntArray1177[j12];
 			int j17 = class30_sub2_sub2.method435(true);
-			if(j4 >= 0 && i7 >= 0 && j4 < 103 && i7 < 103)
+			if(xTile >= 0 && yTile >= 0 && xTile < 103 && yTile < 103)
 			{
-				int j18 = anIntArrayArrayArray1214[anInt918][j4][i7];
-				int i19 = anIntArrayArrayArray1214[anInt918][j4 + 1][i7];
-				int l19 = anIntArrayArrayArray1214[anInt918][j4 + 1][i7 + 1];
-				int k20 = anIntArrayArrayArray1214[anInt918][j4][i7 + 1];
+				int j18 = tileCornerHeight[anInt918][xTile][yTile];
+				int i19 = tileCornerHeight[anInt918][xTile + 1][yTile];
+				int l19 = tileCornerHeight[anInt918][xTile + 1][yTile + 1];
+				int k20 = tileCornerHeight[anInt918][xTile][yTile + 1];
 				if(j16 == 0)
 				{
-					Class10 class10 = aClass25_946.method296(anInt918, j4, i7, false);
+					Class10 class10 = aClass25_946.method296(anInt918, xTile, yTile, false);
 					if(class10 != null)
 					{
 						int k21 = class10.anInt280 >> 14 & 0x7fff;
@@ -10895,13 +10899,13 @@ public final class client extends GameApplet {
 				}
 				if(j16 == 1)
 				{
-					Class26 class26 = aClass25_946.method297(j4, 866, i7, anInt918);
+					Class26 class26 = aClass25_946.method297(xTile, 866, yTile, anInt918);
 					if(class26 != null)
 						class26.aClass30_Sub2_Sub4_504 = new Class30_Sub2_Sub4_Sub5(class26.anInt505 >> 14 & 0x7fff, 0, 4, i19, (byte)7, l19, j18, k20, j17, false);
 				}
 				if(j16 == 2)
 				{
-					Class28 class28 = aClass25_946.method298(j4, i7, (byte)4, anInt918);
+					Class28 class28 = aClass25_946.method298(xTile, yTile, (byte)4, anInt918);
 					if(j12 == 11)
 						j12 = 10;
 					if(class28 != null)
@@ -10909,7 +10913,7 @@ public final class client extends GameApplet {
 				}
 				if(j16 == 3)
 				{
-					Class49 class49 = aClass25_946.method299(i7, j4, anInt918, 0);
+					Class49 class49 = aClass25_946.method299(yTile, xTile, anInt918, 0);
 					if(class49 != null)
 						class49.aClass30_Sub2_Sub4_814 = new Class30_Sub2_Sub4_Sub5(class49.anInt815 >> 14 & 0x7fff, k14, 22, i19, (byte)7, l19, j18, k20, j17, false);
 				}
@@ -10919,8 +10923,8 @@ public final class client extends GameApplet {
 		if(j == 147)
 		{
 			int l1 = class30_sub2_sub2.method428(2);
-			int k4 = anInt1268 + (l1 >> 4 & 7);
-			int j7 = anInt1269 + (l1 & 7);
+			int xTile = anInt1268 + (l1 >> 4 & 7);
+			int yTile = anInt1269 + (l1 & 7);
 			int i10 = class30_sub2_sub2.method410();
 			byte byte0 = class30_sub2_sub2.method430(0);
 			int l14 = class30_sub2_sub2.method434((byte)108);
@@ -10941,14 +10945,14 @@ public final class client extends GameApplet {
 			if(class30_sub2_sub4_sub1_sub2 != null)
 			{
 				Class46 class46 = Class46.method572(l21);
-				int i22 = anIntArrayArrayArray1214[anInt918][k4][j7];
-				int j22 = anIntArrayArrayArray1214[anInt918][k4 + 1][j7];
-				int k22 = anIntArrayArrayArray1214[anInt918][k4 + 1][j7 + 1];
-				int l22 = anIntArrayArrayArray1214[anInt918][k4][j7 + 1];
+				int i22 = tileCornerHeight[anInt918][xTile][yTile];
+				int j22 = tileCornerHeight[anInt918][xTile + 1][yTile];
+				int k22 = tileCornerHeight[anInt918][xTile + 1][yTile + 1];
+				int l22 = tileCornerHeight[anInt918][xTile][yTile + 1];
 				Class30_Sub2_Sub4_Sub6 class30_sub2_sub4_sub6 = class46.method578(j19, i20, i22, j22, k22, l22, -1);
 				if(class30_sub2_sub4_sub6 != null)
 				{
-					method130(404, k17 + 1, -1, 0, l20, j7, 0, anInt918, k4, l14 + 1);
+					method130(404, k17 + 1, -1, 0, l20, yTile, 0, anInt918, xTile, l14 + 1);
 					class30_sub2_sub4_sub1_sub2.anInt1707 = l14 + anInt1161;
 					class30_sub2_sub4_sub1_sub2.anInt1708 = k17 + anInt1161;
 					class30_sub2_sub4_sub1_sub2.aClass30_Sub2_Sub4_Sub6_1714 = class30_sub2_sub4_sub6;
@@ -10959,8 +10963,8 @@ public final class client extends GameApplet {
 						i23 = class46.anInt761;
 						j23 = class46.anInt744;
 					}
-					class30_sub2_sub4_sub1_sub2.anInt1711 = k4 * 128 + i23 * 64;
-					class30_sub2_sub4_sub1_sub2.anInt1713 = j7 * 128 + j23 * 64;
+					class30_sub2_sub4_sub1_sub2.anInt1711 = xTile * 128 + i23 * 64;
+					class30_sub2_sub4_sub1_sub2.anInt1713 = yTile * 128 + j23 * 64;
 					class30_sub2_sub4_sub1_sub2.anInt1712 = method42(anInt918, class30_sub2_sub4_sub1_sub2.anInt1713, true, class30_sub2_sub4_sub1_sub2.anInt1711);
 					if(byte2 > byte0)
 					{
@@ -10974,10 +10978,10 @@ public final class client extends GameApplet {
 						byte3 = byte1;
 						byte1 = byte5;
 					}
-					class30_sub2_sub4_sub1_sub2.anInt1719 = k4 + byte2;
-					class30_sub2_sub4_sub1_sub2.anInt1721 = k4 + byte0;
-					class30_sub2_sub4_sub1_sub2.anInt1720 = j7 + byte3;
-					class30_sub2_sub4_sub1_sub2.anInt1722 = j7 + byte1;
+					class30_sub2_sub4_sub1_sub2.anInt1719 = xTile + byte2;
+					class30_sub2_sub4_sub1_sub2.anInt1721 = xTile + byte0;
+					class30_sub2_sub4_sub1_sub2.anInt1720 = yTile + byte3;
+					class30_sub2_sub4_sub1_sub2.anInt1722 = yTile + byte1;
 				}
 			}
 		}
@@ -11325,12 +11329,12 @@ public final class client extends GameApplet {
 		}
 	}
 
-	private final void method142(int i, int j, int k, int l, int i1, int j1, int k1,
+	private final void method142(int yTile, int j, int k, int l, int xTile, int j1, int k1,
 			int l1)
 	{
 		if(l1 < 4 || l1 > 4)
 			incPacketType = aClass30_Sub2_Sub2_1083.method408();
-		if(i1 >= 1 && i >= 1 && i1 <= 102 && i <= 102)
+		if(xTile >= 1 && yTile >= 1 && xTile <= 102 && yTile <= 102)
 		{
 			if(aBoolean960 && j != anInt918)
 				return;
@@ -11339,51 +11343,51 @@ public final class client extends GameApplet {
 			boolean flag = false;
 			boolean flag1 = false;
 			if(j1 == 0)
-				i2 = aClass25_946.method300(j, i1, i);
+				i2 = aClass25_946.method300(j, xTile, yTile);
 			if(j1 == 1)
-				i2 = aClass25_946.method301(j, i1, 0, i);
+				i2 = aClass25_946.method301(j, xTile, 0, yTile);
 			if(j1 == 2)
-				i2 = aClass25_946.method302(j, i1, i);
+				i2 = aClass25_946.method302(j, xTile, yTile);
 			if(j1 == 3)
-				i2 = aClass25_946.method303(j, i1, i);
+				i2 = aClass25_946.method303(j, xTile, yTile);
 			if(i2 != 0)
 			{
-				int i3 = aClass25_946.method304(j, i1, i, i2);
+				int i3 = aClass25_946.method304(j, xTile, yTile, i2);
 				int j2 = i2 >> 14 & 0x7fff;
 		int k2 = i3 & 0x1f;
 		int l2 = i3 >> 6;
 		if(j1 == 0)
 		{
-			aClass25_946.method291(i1, j, i, (byte)-119);
+			aClass25_946.method291(xTile, j, yTile, (byte)-119);
 			Class46 class46 = Class46.method572(j2);
 			if(class46.aBoolean767)
-				aClass11Array1230[j].method215(l2, k2, class46.aBoolean757, true, i1, i);
+				aClass11Array1230[j].method215(l2, k2, class46.aBoolean757, true, xTile, yTile);
 		}
 		if(j1 == 1)
-			aClass25_946.method292(0, i, j, i1);
+			aClass25_946.method292(0, yTile, j, xTile);
 		if(j1 == 2)
 		{
-			aClass25_946.method293(j, -978, i1, i);
+			aClass25_946.method293(j, -978, xTile, yTile);
 			Class46 class46_1 = Class46.method572(j2);
-			if(i1 + class46_1.anInt744 > 103 || i + class46_1.anInt744 > 103 || i1 + class46_1.anInt761 > 103 || i + class46_1.anInt761 > 103)
+			if(xTile + class46_1.anInt744 > 103 || yTile + class46_1.anInt744 > 103 || xTile + class46_1.anInt761 > 103 || yTile + class46_1.anInt761 > 103)
 				return;
 			if(class46_1.aBoolean767)
-				aClass11Array1230[j].method216(l2, class46_1.anInt744, i1, i, (byte)6, class46_1.anInt761, class46_1.aBoolean757);
+				aClass11Array1230[j].method216(l2, class46_1.anInt744, xTile, yTile, (byte)6, class46_1.anInt761, class46_1.aBoolean757);
 		}
 		if(j1 == 3)
 		{
-			aClass25_946.method294((byte)9, j, i, i1);
+			aClass25_946.method294((byte)9, j, yTile, xTile);
 			Class46 class46_2 = Class46.method572(j2);
 			if(class46_2.aBoolean767 && class46_2.aBoolean778)
-				aClass11Array1230[j].method218(360, i, i1);
+				aClass11Array1230[j].method218(360, yTile, xTile);
 		}
 			}
 			if(k1 >= 0)
 			{
 				int j3 = j;
-				if(j3 < 3 && (aByteArrayArrayArray1258[1][i1][i] & 2) == 2)
+				if(j3 < 3 && (minimapTiles[1][xTile][yTile] & 2) == 2)
 					j3++;
-				Class7.method188(aClass25_946, k, i, l, j3, aClass11Array1230[j], anIntArrayArrayArray1214, i1, k1, j, (byte)93);
+				Class7.method188(aClass25_946, k, yTile, l, j3, aClass11Array1230[j], tileCornerHeight, xTile, k1, j, (byte)93);
 			}
 		}
 	}
@@ -11459,10 +11463,10 @@ public final class client extends GameApplet {
 			j2 = j4;
 		}
 		playerPosXPix = l - j2;
-		anInt859 = i1 - k2;
+		cameraPosHeight = i1 - k2;
 		playerPosYPix = k1 - l2;
-		anInt861 = k;
-		anInt862 = j1;
+		cameraVerticalAngle = k;
+		cameraHorizontAngle = j1;
 	}
 
 	/**
@@ -11649,7 +11653,7 @@ public final class client extends GameApplet {
 				{
 					playerPosXPix = anInt1098 * 128 + 64;
 					playerPosYPix = anInt1099 * 128 + 64;
-					anInt859 = method42(anInt918, playerPosYPix, true, playerPosXPix) - anInt1100;
+					cameraPosHeight = method42(anInt918, playerPosYPix, true, playerPosXPix) - anInt1100;
 				}
 				incPacketType = -1;
 				return true;
@@ -12539,15 +12543,15 @@ public final class client extends GameApplet {
 					int k14 = anInt996 * 128 + 64;
 					int i20 = method42(anInt918, k14, true, k7) - anInt997;
 					int l22 = k7 - playerPosXPix;
-					int k25 = i20 - anInt859;
+					int k25 = i20 - cameraPosHeight;
 					int j28 = k14 - playerPosYPix;
 					int i30 = (int)Math.sqrt(l22 * l22 + j28 * j28);
-					anInt861 = (int)(Math.atan2(k25, i30) * 325.94900000000001D) & 0x7ff;
-					anInt862 = (int)(Math.atan2(l22, j28) * -325.94900000000001D) & 0x7ff;
-					if(anInt861 < 128)
-						anInt861 = 128;
-					if(anInt861 > 383)
-						anInt861 = 383;
+					cameraVerticalAngle = (int)(Math.atan2(k25, i30) * 325.94900000000001D) & 0x7ff;
+					cameraHorizontAngle = (int)(Math.atan2(l22, j28) * -325.94900000000001D) & 0x7ff;
+					if(cameraVerticalAngle < 128)
+						cameraVerticalAngle = 128;
+					if(cameraVerticalAngle > 383)
+						cameraVerticalAngle = 383;
 				}
 				incPacketType = -1;
 				return true;
@@ -12797,10 +12801,10 @@ public final class client extends GameApplet {
 		else
 			j = method121(anInt1081);
 		int l = playerPosXPix;
-		int i1 = anInt859;
+		int i1 = cameraPosHeight;
 		int j1 = playerPosYPix;
-		int k1 = anInt861;
-		int l1 = anInt862;
+		int k1 = cameraVerticalAngle;
+		int l1 = cameraHorizontAngle;
 		for(int i2 = 0; i2 < 5; i2++)
 			if(aBooleanArray876[i2])
 			{
@@ -12808,18 +12812,18 @@ public final class client extends GameApplet {
 				if(i2 == 0)
 					playerPosXPix += j2;
 				if(i2 == 1)
-					anInt859 += j2;
+					cameraPosHeight += j2;
 				if(i2 == 2)
 					playerPosYPix += j2;
 				if(i2 == 3)
-					anInt862 = anInt862 + j2 & 0x7ff;
+					cameraHorizontAngle = cameraHorizontAngle + j2 & 0x7ff;
 				if(i2 == 4)
 				{
-					anInt861 += j2;
-					if(anInt861 < 128)
-						anInt861 = 128;
-					if(anInt861 > 383)
-						anInt861 = 383;
+					cameraVerticalAngle += j2;
+					if(cameraVerticalAngle < 128)
+						cameraVerticalAngle = 128;
+					if(cameraVerticalAngle > 383)
+						cameraVerticalAngle = 383;
 				}
 			}
 
@@ -12835,7 +12839,7 @@ public final class client extends GameApplet {
 				Class30_Sub2_Sub4_Sub6.anInt1685 = super.mouseMovedX - Class15_GameWindowX;
 				Class30_Sub2_Sub4_Sub6.anInt1686 = super.mouseMovedY - Class15_GameWindowY;
 				Class30_Sub2_Sub1.ResetPixelArray(super.bgi); //tiles that are too far away does not update, so we must reset this
-				aClass25_946.method313(playerPosXPix, playerPosYPix, anInt862, anInt859, j, anInt861, false);
+				aClass25_946.method313(playerPosXPix, playerPosYPix, cameraHorizontAngle, cameraPosHeight, j, cameraVerticalAngle, false);
 				aClass25_946.method288((byte)104); //removes models from their old place if they moved
 				method34(anInt898); //stuff above head
 				method61(-252);
@@ -12917,10 +12921,10 @@ public final class client extends GameApplet {
 				}
 				Class15_GameWindow.GraphicsPositioner(Class15_GameWindowY, super.graphics, Class15_GameWindowX);//updates gameframe
 				playerPosXPix = l;
-				anInt859 = i1;
+				cameraPosHeight = i1;
 				playerPosYPix = j1;
-				anInt861 = k1;
-				anInt862 = l1;
+				cameraVerticalAngle = k1;
+				cameraHorizontAngle = l1;
 				return;
 			}
 			catch (Exception e) {
@@ -13174,10 +13178,10 @@ public final class client extends GameApplet {
 	private static BigInteger aBigInteger856 = new BigInteger("7162900525229798032761816791230527296329313291232324290237849263501208207972894053929065636522363163621000728841182238772712427862772219676577293600221789");
 	private int anInt857;
 	private int playerPosXPix;
-	private int anInt859;
+	private int cameraPosHeight;
 	private int playerPosYPix;
-	private int anInt861;
-	private int anInt862;
+	private int cameraVerticalAngle;
+	private int cameraHorizontAngle;
 	private int playerRights;
 	private int anIntArray864[];
 	private Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Redstone1_2;
@@ -13666,7 +13670,7 @@ public final class client extends GameApplet {
 	private int anInt1211;
 	private String friendMsg;
 	private int anInt1213;
-	private int anIntArrayArrayArray1214[][][];
+	private int tileCornerHeight[][][];
 	private long aLong1215;
 	private int loginRowFocusedNbr;
 	private byte aByte1217;
@@ -13710,7 +13714,7 @@ public final class client extends GameApplet {
 	private boolean aBoolean1255;
 	private boolean aBoolean1256;
 	private int anInt1257;
-	private byte aByteArrayArrayArray1258[][][];
+	private byte minimapTiles[][][];
 	private int anInt1259;
 	private static int anInt1260;
 	private int anInt1261;
