@@ -841,6 +841,13 @@ if (i == 40) { i = 40; }
 
     public static final void method375(int ai[], int i, int j, int k, int l, int i1, int j1, int k1)
     {
+    	/* ai = new int[ai.length];
+    	if (ai.length < 10000)
+    		for (int asd=0; asd<ai.length;asd++)
+    		{
+    			ai[asd] = ;
+    		}
+    		*/
         if(aBoolean1464)
         {
             int l1;
@@ -2287,7 +2294,7 @@ if (i == 40) { i = 40; }
     public static int anInt1465;
     public static int anInt1466;
     public static int anInt1467;
-    public static int anIntArray1468[];
+    public static int anIntArray1468[]; // has to do with how light falls on the tiles
     public static int anIntArray1469[];
     public static int anIntArray1470[];
     public static int anIntArray1471[];
@@ -2301,7 +2308,7 @@ if (i == 40) { i = 40; }
     static int anIntArrayArray1479[][] = new int[50][];
     public static int anIntArray1480[] = new int[50];
     public static int anInt1481;
-    public static int anIntArray1482[] = new int[0x10000];
+    public static int anIntArray1482[] = new int[0x10000]; // confains the color of the pixels
     static int anIntArrayArray1483[][] = new int[50][];
 
     static 

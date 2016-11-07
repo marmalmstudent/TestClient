@@ -1292,6 +1292,7 @@ public class Class25 {
 					flag = true;
 				}
 				class30_sub3_1.aBoolean1322 = false;
+				
 				if (class30_sub3_1.aClass30_Sub3_1329 != null)
 				{
 					Class30_Sub3 class30_sub3_7 = class30_sub3_1.aClass30_Sub3_1329;
@@ -1304,10 +1305,10 @@ public class Class25 {
 					}
 					else if (class30_sub3_7.aClass40_1312 != null && !method320(0, xTile, yTile))
 					{
-						method316(xTile, (byte) 99, anInt458, anInt460, class30_sub3_7.aClass40_1312, anInt459, yTile,
-								anInt461);
+						method316(xTile, (byte) 99, anInt458, anInt460, class30_sub3_7.aClass40_1312, anInt459, yTile, anInt461);
 					}
 					Class10 class10 = class30_sub3_7.aClass10_1313;
+					
 					if (class10 != null)
 					{
 						class10.aClass30_Sub2_Sub4_278.method443(0, anInt458, anInt459, anInt460, anInt461,
@@ -1327,8 +1328,13 @@ public class Class25 {
 
 				}
 				boolean flag1 = false;
+				
 				if (class30_sub3_1.aClass43_1311 != null)
 				{
+					/* looks like this draws the tiles that only have one type of texture
+					 * under them, e.g. grass and road.
+					 * 
+					 */
 					if (!method320(l, xTile, yTile))
 					{
 						flag1 = true;
@@ -1337,6 +1343,9 @@ public class Class25 {
 				}
 				else if (class30_sub3_1.aClass40_1312 != null && !method320(l, xTile, yTile))
 				{
+					/* looks like this draws the tiles that have more than one type of texture
+					 * under them, e.g. the border between road and grass.
+					 */
 					flag1 = true;
 					method316(xTile, (byte) 99, anInt458, anInt460, class30_sub3_1.aClass40_1312, anInt459, yTile, anInt461);
 				}
@@ -1837,7 +1846,9 @@ public class Class25 {
 		int k6 = Class30_Sub2_Sub1_Sub3.anInt1466 + (l1 << 9) / j3;
 		int l6 = Class30_Sub2_Sub1_Sub3.anInt1467 + (k4 << 9) / j3;
 		Class30_Sub2_Sub1_Sub3.anInt1465 = 0;
-		if ((i6 - k6) * (l5 - l6) - (j6 - l6) * (k5 - k6) > 0) {
+		
+		if ((i6 - k6) * (l5 - l6) - (j6 - l6) * (k5 - k6) > 0)
+		{ // north-west triangle of the square
 			Class30_Sub2_Sub1_Sub3.aBoolean1462 = false;
 			if (i6 < 0 || k6 < 0 || k5 < 0 || i6 > Class30_Sub2_Sub1.endWidthMinusOne
 					|| k6 > Class30_Sub2_Sub1.endWidthMinusOne || k5 > Class30_Sub2_Sub1.endWidthMinusOne)
@@ -1847,10 +1858,12 @@ public class Class25 {
 				anInt471 = yTile;
 			}
 			if (class43.anInt720 == -1) {
+				
 				if (class43.anInt718 != 0xbc614e)
 					Class30_Sub2_Sub1_Sub3.method374(j6, l6, l5, i6, k6, k5, class43.anInt718, class43.anInt719,
 							class43.anInt717);
 			} else if (!aBoolean436) {
+				
 				if (class43.aBoolean721)
 					Class30_Sub2_Sub1_Sub3.method378(j6, l6, l5, i6, k6, k5, class43.anInt718, class43.anInt719,
 							class43.anInt717, i2, i3, l1, l3, i4, k4, k2, j2, j3, class43.anInt720);
@@ -1858,12 +1871,15 @@ public class Class25 {
 					Class30_Sub2_Sub1_Sub3.method378(j6, l6, l5, i6, k6, k5, class43.anInt718, class43.anInt719,
 							class43.anInt717, l2, l1, i3, j4, k4, i4, k3, j3, j2, class43.anInt720);
 			} else {
+				
 				int i7 = anIntArray485[class43.anInt720];
 				Class30_Sub2_Sub1_Sub3.method374(j6, l6, l5, i6, k6, k5, method317(-361, i7, class43.anInt718),
 						method317(-361, i7, class43.anInt719), method317(-361, i7, class43.anInt717));
 			}
 		}
-		if ((i5 - k5) * (l6 - l5) - (j5 - l5) * (k6 - k5) > 0) {
+		
+		if ((i5 - k5) * (l6 - l5) - (j5 - l5) * (k6 - k5) > 0)
+		{ // south-east triangle of the square
 			Class30_Sub2_Sub1_Sub3.aBoolean1462 = false;
 			if (i5 < 0 || k5 < 0 || k6 < 0 || i5 > Class30_Sub2_Sub1.endWidthMinusOne
 					|| k5 > Class30_Sub2_Sub1.endWidthMinusOne || k6 > Class30_Sub2_Sub1.endWidthMinusOne)

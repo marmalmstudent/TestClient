@@ -58,7 +58,6 @@ Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1027 = Class30_Sub2_Sub1_Sub1 aCl
 Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1028 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Backbase20
 Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_1029 = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_BackHmid10
 
-
 Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1Array947[] = Class30_Sub2_Sub1_Sub1 sideIconsArray[]
 Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1Array987[] = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Hitmarks[]
 Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1Array1033[] = Class30_Sub2_Sub1_Sub1 aClass30_Sub2_Sub1_Sub1_Mapfunctions[]
@@ -71,7 +70,10 @@ Class30_Sub2_Sub1_Sub2 aClass30_Sub2_Sub1_Sub2Array1219[] = Class30_Sub2_Sub1_Su
 int anIntArray922[] = int skillIndexArray[]
 
 int anInt858 = int playerPosXPix
+int anInt859 = int cameraPosHeight
 int anInt860 = int playerPosYPix
+int anInt861 = int cameraVerticalAngle
+int anInt862 = int cameraHorizontAngle
 int anInt863 = int playerRights
 int anInt957 = int nodeID
 int anInt958 = int portOffset
@@ -89,3 +91,5 @@ String aString1004 = String queryResponse
 String aString1173 = String playerName
 String aString1174 = String playerPass
 String aString1212 = String friendMsg
+
+byte aByteArrayArrayArray1258[][][] = byte minimapTiles[][][]

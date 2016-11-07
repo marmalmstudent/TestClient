@@ -5,6 +5,8 @@ Class30_Sub3 aClass30_Sub3ArrayArrayArray441 = Class30_Sub3 tilesForAllStoreys[]
 boolean aBooleanArrayArrayArrayArray491[][][][] = boolean tileVisible[][][][]
 boolean aBooleanArrayArray492[][] = boolean tilesVisibleForThisAngle[][]
 
+int anIntArrayArrayArray440[][][] = int tileCornerHeight[][][]
+
 int anInt437 = int highestStorey
 int anInt438 = int totNbrXTiles
 int anInt439 = int totNbrYTiles
@@ -13,7 +15,8 @@ int anInt449 = int xMinTile
 int anInt450 = int xMaxTile
 int anInt451 = int yMinTile
 int anInt452 = int yMaxTile
-int anInt453 = int cameraPosXTile
-int anInt454 = int cameraPosYTile
-int anInt455 = int cameraPosXPix
-int anInt457 = int cameraPosYPix
+int anInt453 = int cameraFocusXTile
+int anInt454 = int cameraFocusYTile
+int anInt455 = int cameraFocusXPix
+int anInt456 = int cameraPosHeight
+int anInt457 = int cameraFocusYPix
